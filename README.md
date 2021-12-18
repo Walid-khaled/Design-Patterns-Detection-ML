@@ -7,6 +7,6 @@ This repository contains an implementation for design patterens detection. In th
 ├── src              <- directory for source files 
 |    ├── main.ipynp  <- contains ipynp notebook
 |
-├── Task description       
+├── Task description.pdf       
 └── Readme.md
 ```
