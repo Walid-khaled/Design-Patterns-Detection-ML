@@ -18,8 +18,8 @@ outlines the main requirements for this task:
 - Use Ensemble Learning
 - Select two more models to train and do hyper-parameters turning (grid or random search)
 - Tune the following hyper-parameters of the estimators in all ensemble models using grid search:
-  – n estimators
-  – max features −→ for the base estimators
-  – min impurity decrease −→ for the base estimators
+  - n estimators
+  - max features −→ for the base estimators
+  - min impurity decrease −→ for the base estimators
 - Compare models and make conclusion
 Dataset for the task can be downloaded from here: [LINK](https://www.dropbox.com/s/mcmeqfxt6crrgpn/Dp_data_modified.zip?dl=0/)
