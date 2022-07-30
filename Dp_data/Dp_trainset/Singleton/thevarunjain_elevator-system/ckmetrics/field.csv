@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorServer.java,ElevatorServer,run/0,elevator,2
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,getElevator/0,_elevator,3
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,queueUp,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,endFloor,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,targetFloor,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,queueDown,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,startFloor,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,currentfloor,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,direction,1

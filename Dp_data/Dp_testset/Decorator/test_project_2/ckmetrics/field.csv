@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorA.java,com.hundredwordsgof.decorator.ConcreteDecoratorA,isState/0,state,1
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorA.java,com.hundredwordsgof.decorator.ConcreteDecoratorA,operation/0,state,1
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorB.java,com.hundredwordsgof.decorator.ConcreteDecoratorB,addedBehavior/0,behaviorMethodInvoked,1
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorB.java,com.hundredwordsgof.decorator.ConcreteDecoratorB,isBehaviorMethodInvoked/0,behaviorMethodInvoked,1
+./Decorator/test_project_2/ckmetrics/../Decorator.java,com.hundredwordsgof.decorator.Decorator,setComponent/1[com.hundredwordsgof.decorator.Component],component,3

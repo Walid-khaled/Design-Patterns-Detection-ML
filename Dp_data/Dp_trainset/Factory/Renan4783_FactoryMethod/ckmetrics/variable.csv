@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Renan4783_FactoryMethod/ckmetrics/../src/br/unicentro/acaddecomp/ShapeFactory.java,br.unicentro.acaddecomp.ShapeFactory,createShape/1[java.lang.String],shape,5
+/root/DesignPatternsDetection/Data/Factory/Renan4783_FactoryMethod/ckmetrics/../src/br/unicentro/acaddecomp/Quad.java,br.unicentro.acaddecomp.Quad,Quad/1[java.lang.String],nome,2
+/root/DesignPatternsDetection/Data/Factory/Renan4783_FactoryMethod/ckmetrics/../src/br/unicentro/acaddecomp/Triangle.java,br.unicentro.acaddecomp.Triangle,Triangle/1[java.lang.String],nome,2
+/root/DesignPatternsDetection/Data/Factory/Renan4783_FactoryMethod/ckmetrics/../src/br/unicentro/acaddecomp/Client.java,br.unicentro.acaddecomp.Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/Renan4783_FactoryMethod/ckmetrics/../src/br/unicentro/acaddecomp/Client.java,br.unicentro.acaddecomp.Client,main/1[java.lang.String[]],object,1
+/root/DesignPatternsDetection/Data/Factory/Renan4783_FactoryMethod/ckmetrics/../src/br/unicentro/acaddecomp/Circle.java,br.unicentro.acaddecomp.Circle,Circle/1[java.lang.String],nome,2

@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,ConcreteAggreagate,getIterator/0,false,27,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,IteratorApp,main/1[java.lang.String[]],false,5,2,2,4,7,0,2,1,4,0,0,1,0,0,0,0,0,2,0,1,0,0,0,7,9,0,false
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,Iterator,hasNext/0,false,15,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,Iterator,next/0,false,16,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,ConcreteAggreagate$TaskIterator,hasNext/0,false,35,0,2,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,5,1,0,false
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,ConcreteAggreagate$TaskIterator,next/0,false,43,1,2,1,6,2,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,5,1,0,false
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,Aggregate,getIterator/0,false,20,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false

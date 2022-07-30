@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/vitkozgit_AbstractFactory/ckmetrics/../src/abstractfactory/cars/Car.java,abstractfactory.cars.Car,setId/1[int],id,1
+/root/DesignPatternsDetection/Data/Abstract_factory/vitkozgit_AbstractFactory/ckmetrics/../src/abstractfactory/motorcycles/Motorcycle.java,abstractfactory.motorcycles.Motorcycle,setId/1[int],id,1

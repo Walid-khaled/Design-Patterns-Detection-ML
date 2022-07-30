@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./State/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/state/solution/Package.java,net.dskim.desingpattern.state.solution.Package,setState/1[net.dskim.desingpattern.state.solution.PackageState],newState,1
+./State/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/state/problem/Package.java,net.dskim.desingpattern.state.problem.Package,setState/1[java.lang.String],newState,1
+./State/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/state/solution/StateTest.java,net.dskim.desingpattern.state.solution.StateTest,stateTest/0,pkg,8
+./State/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/state/problem/StateTest.java,net.dskim.desingpattern.state.problem.StateTest,stateTest/0,pkg,8

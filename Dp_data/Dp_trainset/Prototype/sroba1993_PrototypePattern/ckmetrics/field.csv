@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,toString/0,amount,1
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,toString/0,inversionType,1
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,getAmount/0,amount,1
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,setInversionType/1[java.lang.String],inversionType,3
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,setAmount/1[int],amount,3
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,getInversionType/0,inversionType,1

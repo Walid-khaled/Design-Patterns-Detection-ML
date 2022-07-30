@@ -1,0 +1,2 @@
+cbo,loc,uniqueWordsQty,rfc,wmc,totalMethodsQty,staticMethodsQty,publicMethodsQty,privateMethodsQty,protectedMethodsQty,defaultMethodsQty,abstractMethodsQty,finalMethodsQty,synchronizedMethodsQty,totalFieldsQty,staticFieldsQty,publicFieldsQty,privateFieldsQty,protectedFieldsQty,defaultFieldsQty,visibleFieldsQty,finalFieldsQty,synchronizedFieldsQty,modifiers,returnsQty,assignmentsQty,usage
+4,37,31,8,6,6,1,6,0,0,0,6,0,0,0,3,0,0,0,0,3,0,0,14,0,4,6

@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setTop/1[java.lang.String],text,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setOutput/1[Image],image,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setBottom/1[java.lang.String],text,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setImage/1[java.lang.String],filename,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeBuilder.java,MemeBuilder,setFormat/0,format,4
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeBuilder.java,MemeBuilder,read/1[java.lang.String],input,2
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeBuilder.java,MemeBuilder,read/1[java.lang.String],e,0
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeBuilder.java,MemeBuilder,read/1[java.lang.String],message,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Director.java,Director,setBuilder/1[Builder],builder,2
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/ImageFactory.java,ImageFactory,create/1[Format],image,4
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/ImageFactory.java,ImageFactory,create/1[Format],format,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeGenerator.java,MemeGenerator,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeGenerator.java,MemeGenerator,main/1[java.lang.String[]],meme,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeGenerator.java,MemeGenerator,main/1[java.lang.String[]],mb,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeGenerator.java,MemeGenerator,main/1[java.lang.String[]],director,3

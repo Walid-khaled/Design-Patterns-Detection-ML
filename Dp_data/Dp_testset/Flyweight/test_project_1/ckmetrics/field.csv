@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Flyweight/test_project_1/ckmetrics/../PenFactory.java,com.codevillain679.structural.flyweight.PenFactory,getThinPen/1[java.lang.String],pensMap,2
+./Flyweight/test_project_1/ckmetrics/../PenFactory.java,com.codevillain679.structural.flyweight.PenFactory,getThiccPen/1[java.lang.String],pensMap,2
+./Flyweight/test_project_1/ckmetrics/../PenFactory.java,com.codevillain679.structural.flyweight.PenFactory,getMediumPen/1[java.lang.String],pensMap,2
+./Flyweight/test_project_1/ckmetrics/../MediumPen.java,com.codevillain679.structural.flyweight.MediumPen,setColor/1[java.lang.String],color,3
+./Flyweight/test_project_1/ckmetrics/../MediumPen.java,com.codevillain679.structural.flyweight.MediumPen,draw/1[java.lang.String],color,1
+./Flyweight/test_project_1/ckmetrics/../ThiccPen.java,com.codevillain679.structural.flyweight.ThiccPen,setColor/1[java.lang.String],color,3
+./Flyweight/test_project_1/ckmetrics/../ThiccPen.java,com.codevillain679.structural.flyweight.ThiccPen,draw/1[java.lang.String],color,1
+./Flyweight/test_project_1/ckmetrics/../ThinPen.java,com.codevillain679.structural.flyweight.ThinPen,setColor/1[java.lang.String],color,3
+./Flyweight/test_project_1/ckmetrics/../ThinPen.java,com.codevillain679.structural.flyweight.ThinPen,draw/1[java.lang.String],color,1

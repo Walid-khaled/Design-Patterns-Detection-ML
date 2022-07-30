@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,"IDCard/2[java.lang.String,int]",owner,3
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,"IDCard/2[java.lang.String,int]",no,2
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCardFactory.java,idcard.IDCardFactory,createProduct/1[java.lang.String],owner,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCardFactory.java,idcard.IDCardFactory,registerProduct/1[framework.Product],product,2
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],factory,4
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],card1,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],card2,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],card3,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/framework/Factory.java,framework.Factory,creates/1[java.lang.String],owner,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/framework/Factory.java,framework.Factory,creates/1[java.lang.String],p,2
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/framework/Factory.java,framework.Factory,registerProduct/1[framework.Product],product,0
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/framework/Factory.java,framework.Factory,createProduct/1[java.lang.String],owner,0

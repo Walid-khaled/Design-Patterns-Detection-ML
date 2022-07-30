@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],clonedShape3,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],clonedShape2,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],clonedShape,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/Shape.java,com.company.models.Shape,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/Shape.java,com.company.models.Shape,clone/0,clone,3
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/Shape.java,com.company.models.Shape,setId/1[java.lang.String],id,2
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,getShape/1[java.lang.String],shapeId,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,getShape/1[java.lang.String],cachedShape,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,loadCache/0,square,3
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,loadCache/0,rectangle,3
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,loadCache/0,circle,3

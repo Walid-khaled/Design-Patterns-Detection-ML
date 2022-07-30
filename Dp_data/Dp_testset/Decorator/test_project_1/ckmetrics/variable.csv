@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+./Decorator/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.decorator.example.java.Client,main/1[java.lang.String[]],args,0
+./Decorator/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.decorator.example.java.Client,main/1[java.lang.String[]],cake,3
+./Decorator/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.decorator.example.java.Client,main/1[java.lang.String[]],chocolateCake,1
+./Decorator/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.decorator.example.java.Client,main/1[java.lang.String[]],fruitCake,1
+./Decorator/test_project_1/ckmetrics/../example/java/ChocolateCake.java,io.innofang.decorator.example.java.ChocolateCake,ChocolateCake/1[io.innofang.decorator.example.java.Cake],cake,1
+./Decorator/test_project_1/ckmetrics/../example/java/DecorateCake.java,io.innofang.decorator.example.java.DecorateCake,DecorateCake/1[io.innofang.decorator.example.java.Cake],cake,2
+./Decorator/test_project_1/ckmetrics/../example/java/FruitCake.java,io.innofang.decorator.example.java.FruitCake,FruitCake/1[io.innofang.decorator.example.java.Cake],cake,1
+./Decorator/test_project_1/ckmetrics/../base/Client.java,io.innofang.decorator.base.Client,main/1[java.lang.String[]],args,0
+./Decorator/test_project_1/ckmetrics/../base/Client.java,io.innofang.decorator.base.Client,main/1[java.lang.String[]],component,2
+./Decorator/test_project_1/ckmetrics/../base/Client.java,io.innofang.decorator.base.Client,main/1[java.lang.String[]],decorator,1
+./Decorator/test_project_1/ckmetrics/../base/ConcreteDecorator.java,io.innofang.decorator.base.ConcreteDecorator,ConcreteDecorator/1[io.innofang.decorator.base.Component],component,1
+./Decorator/test_project_1/ckmetrics/../base/Decorator.java,io.innofang.decorator.base.Decorator,Decorator/1[io.innofang.decorator.base.Component],component,2

@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/RadomPizzaFactory.java,factory.pattern.RadomPizzaFactory,createPizza/1[java.lang.String],pizza,4
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/RadomPizzaFactory.java,factory.pattern.RadomPizzaFactory,createPizza/1[java.lang.String],type,3
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/App.java,factory.pattern.App,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/App.java,factory.pattern.App,main/1[java.lang.String[]],pizzaFactoryRadom,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/App.java,factory.pattern.App,main/1[java.lang.String[]],pizzaFactorySosnowiec,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/PizzaFactory.java,factory.pattern.PizzaFactory,orderPizza/1[java.lang.String],pizza,5
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/PizzaFactory.java,factory.pattern.PizzaFactory,orderPizza/1[java.lang.String],type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/PizzaFactory.java,factory.pattern.PizzaFactory,createPizza/1[java.lang.String],type,0
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/SosnowiecPizzaFactory.java,factory.pattern.SosnowiecPizzaFactory,createPizza/1[java.lang.String],pizza,4
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/SosnowiecPizzaFactory.java,factory.pattern.SosnowiecPizzaFactory,createPizza/1[java.lang.String],type,3

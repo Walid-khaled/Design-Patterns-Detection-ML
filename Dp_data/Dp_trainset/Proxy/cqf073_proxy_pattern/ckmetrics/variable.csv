@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/persuit.java,primary.persuit,persuit/1[primary.girl],mm,2
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/Main.java,primary.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/Main.java,primary.Main,main/1[java.lang.String[]],ss,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/Main.java,primary.Main,main/1[java.lang.String[]],g,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/Main.java,primary.Main,main/1[java.lang.String[]],boy,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/girl.java,primary.girl,setName/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/pursuit.java,middle.pursuit,pursuit/1[middle.girl],mm,2
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/agentgift.java,middle.agentgift,agentgift/1[middle.pursuit],gg,2
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/Main.java,middle.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/Main.java,middle.Main,main/1[java.lang.String[]],ss,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/Main.java,middle.Main,main/1[java.lang.String[]],g,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/Main.java,middle.Main,main/1[java.lang.String[]],boy,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/girl.java,middle.girl,setName/1[java.lang.String],name,2

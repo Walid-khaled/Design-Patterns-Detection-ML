@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Visitor/Trebor006_visitor/ckmetrics/../src/main/java/com/mibu/visitor/Character.java,com.mibu.visitor.Character,getWeapon/0,weapon,1
+/root/DesignPatternsDetection/Data/Visitor/Trebor006_visitor/ckmetrics/../src/main/java/com/mibu/visitor/Character.java,com.mibu.visitor.Character,setWeapon/1[java.lang.String],weapon,3

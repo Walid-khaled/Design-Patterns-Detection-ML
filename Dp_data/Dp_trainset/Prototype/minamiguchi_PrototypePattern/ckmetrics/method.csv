@@ -1,0 +1,7 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],false,3,2,1,2,10,0,2,1,2,0,0,0,0,0,0,3,0,4,0,0,0,0,0,6,9,0,false
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,Printer/1[java.lang.String],true,4,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,clone/0,false,13,1,2,2,10,1,1,0,2,0,0,0,0,1,0,0,0,2,0,1,0,0,0,9,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,printMessage/0,false,8,0,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Facotry.java,Facotry,Facotry/0,true,7,1,1,1,6,0,0,0,1,0,0,0,0,0,0,6,0,1,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Facotry.java,Facotry,create/1[java.lang.String],false,14,1,1,2,3,1,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false

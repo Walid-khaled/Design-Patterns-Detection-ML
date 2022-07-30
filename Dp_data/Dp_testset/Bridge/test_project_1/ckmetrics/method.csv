@@ -1,0 +1,14 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Bridge/test_project_1/ckmetrics/../Animal.java,phuongsala.designpattern.bridge.Animal,move/0,false,11,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1028,0,false
+./Bridge/test_project_1/ckmetrics/../Animal.java,phuongsala.designpattern.bridge.Animal,Animal/1[phuongsala.designpattern.bridge.Movement],true,7,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,4,0,false
+./Bridge/test_project_1/ckmetrics/../Running.java,phuongsala.designpattern.bridge.Running,move/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+./Bridge/test_project_1/ckmetrics/../Sloth.java,phuongsala.designpattern.bridge.Sloth,Sloth/1[phuongsala.designpattern.bridge.Movement],true,5,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,4,0,false
+./Bridge/test_project_1/ckmetrics/../Sloth.java,phuongsala.designpattern.bridge.Sloth,move/0,false,10,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,false
+./Bridge/test_project_1/ckmetrics/../Crawling.java,phuongsala.designpattern.bridge.Crawling,move/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+./Bridge/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.bridge.DEMO,main/1[java.lang.String[]],false,5,7,1,1,8,0,3,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,12,9,0,false
+./Bridge/test_project_1/ckmetrics/../Movement.java,phuongsala.designpattern.bridge.Movement,move/0,false,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Bridge/test_project_1/ckmetrics/../Eagle.java,phuongsala.designpattern.bridge.Eagle,Eagle/1[phuongsala.designpattern.bridge.Movement],true,5,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Bridge/test_project_1/ckmetrics/../Eagle.java,phuongsala.designpattern.bridge.Eagle,move/0,false,10,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,false
+./Bridge/test_project_1/ckmetrics/../Flying.java,phuongsala.designpattern.bridge.Flying,move/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+./Bridge/test_project_1/ckmetrics/../Dog.java,phuongsala.designpattern.bridge.Dog,move/0,false,10,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,false
+./Bridge/test_project_1/ckmetrics/../Dog.java,phuongsala.designpattern.bridge.Dog,Dog/1[phuongsala.designpattern.bridge.Movement],true,5,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false

@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../AbstractFactory/src/AbstractFactory.java,AbstractFactory,getFactory/1[BancoDeDados],FABRICA_BANCO,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,setMassa/1[java.lang.String],massa,3
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,getCobertura/0,cobertura,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,setMolho/1[java.lang.String],molho,3
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,getMassa/0,massa,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,getMolho/0,molho,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,setCobertura/1[java.lang.String],cobertura,3
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Garcon.java,Garcon,construirPizza/0,pizzaBuilder,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Garcon.java,Garcon,getPizza/0,pizzaBuilder,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Garcon.java,Garcon,setPizzaBuilder/1[PizzaBuilder],pizzaBuilder,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/PizzaBuilder.java,PizzaBuilder,createNewPizza/0,pizza,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/PizzaBuilder.java,PizzaBuilder,getPizza/0,pizza,1

@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Bridge/mydesignpatters_bridge/ckmetrics/../app/gerador/GeradorArquivoBridge.java,app.gerador.GeradorArquivoBridge,setProcessador/1[app.gerador.componente.PosProcessador],processador,3
+/root/DesignPatternsDetection/Data/Bridge/mydesignpatters_bridge/ckmetrics/../app/gerador/GeradorArquivoBridge.java,app.gerador.GeradorArquivoBridge,"gerarArquivo/2[java.lang.String,java.util.Map<java.lang.String,java.lang.Object>]",processador,1
+/root/DesignPatternsDetection/Data/Bridge/mydesignpatters_bridge/ckmetrics/../app/gerador/componente/Criptografador.java,app.gerador.componente.Criptografador,Criptografador/1[int],delay,3
+/root/DesignPatternsDetection/Data/Bridge/mydesignpatters_bridge/ckmetrics/../app/gerador/componente/Criptografador.java,app.gerador.componente.Criptografador,processar/1[byte[]],delay,1

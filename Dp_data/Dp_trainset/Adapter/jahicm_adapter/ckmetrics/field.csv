@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/jahicm_adapter/ckmetrics/../src/org/java/patterns/adapter/IPhone.java,org.java.patterns.adapter.IPhone,getSignal/0,signal,1
+/root/DesignPatternsDetection/Data/Adapter/jahicm_adapter/ckmetrics/../src/org/java/patterns/adapter/GooglePhone.java,org.java.patterns.adapter.GooglePhone,getSignal/0,signal,1
+/root/DesignPatternsDetection/Data/Adapter/jahicm_adapter/ckmetrics/../src/org/java/patterns/adapter/Samsung.java,org.java.patterns.adapter.Samsung,getSignal/0,signal,1
+/root/DesignPatternsDetection/Data/Adapter/jahicm_adapter/ckmetrics/../src/org/java/patterns/adapter/ChargerAdapter.java,org.java.patterns.adapter.ChargerAdapter,chargeSamsung/1[org.java.patterns.adapter.Phone],samsungCharger,2
+/root/DesignPatternsDetection/Data/Adapter/jahicm_adapter/ckmetrics/../src/org/java/patterns/adapter/ChargerAdapter.java,org.java.patterns.adapter.ChargerAdapter,chargeIphone/1[org.java.patterns.adapter.Phone],iphoneCharger,2

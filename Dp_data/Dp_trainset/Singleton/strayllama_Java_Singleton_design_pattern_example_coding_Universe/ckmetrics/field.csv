@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/test/java/TestUniverse.java,TestUniverse,moreThanInstanceCanNotBeMadeJustNewReferences/0,god,2
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/test/java/TestUniverse.java,TestUniverse,changeNameInSecondReferenceUniverseWhichChangesFirstCOSTHEYISTHESAME/0,god,2
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/test/java/TestUniverse.java,TestUniverse,BigBangCanMakeUniverse/0,god,1
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/test/java/TestUniverse.java,TestUniverse,before/0,god,1
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,"getInstance/2[java.lang.String,int]",instance,3
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,"getInstance/2[java.lang.String,int]",name,2
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,"getInstance/2[java.lang.String,int]",numberOfGalaxies,2
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,setName/1[java.lang.String],name,1
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,getName/0,name,1
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,"Universe/2[java.lang.String,int]",name,3
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,"Universe/2[java.lang.String,int]",numberOfGalaxies,3
+/root/DesignPatternsDetection/Data/Singleton/strayllama_Java_Singleton_design_pattern_example_coding_Universe/ckmetrics/../src/main/java/universe/Universe.java,universe.Universe,getNumberOfGalaxies/0,numberOfGalaxies,1

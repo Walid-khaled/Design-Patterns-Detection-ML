@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralLn.java,DefIntegralLn,"DefIntegralLn/3[double,double,int]",a,3
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralLn.java,DefIntegralLn,"DefIntegralLn/3[double,double,int]",b,3
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralLn.java,DefIntegralLn,"DefIntegralLn/3[double,double,int]",c,3
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralLn.java,DefIntegralLn,geta/0,a,1
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralLn.java,DefIntegralLn,getb/0,b,1
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralLn.java,DefIntegralLn,getc/0,c,1
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralXX.java,DefIntegralXX,"DefIntegralXX/3[double,double,int]",a,3
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralXX.java,DefIntegralXX,"DefIntegralXX/3[double,double,int]",b,3
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralXX.java,DefIntegralXX,"DefIntegralXX/3[double,double,int]",c,3
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralXX.java,DefIntegralXX,geta/0,a,1
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralXX.java,DefIntegralXX,getb/0,b,1
+/root/DesignPatternsDetection/Data/Template/kongzhimin_TemplateMethodPattern/ckmetrics/../src/DefIntegralXX.java,DefIntegralXX,getc/0,c,1

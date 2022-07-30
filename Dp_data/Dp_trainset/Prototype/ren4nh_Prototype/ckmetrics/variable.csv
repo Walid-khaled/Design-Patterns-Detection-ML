@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/CarroPrototype.java,prototype.CarroPrototype,setValorCompra/1[double],valorCompra,2
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/GolPrototype.java,prototype.GolPrototype,GolPrototype/1[prototype.GolPrototype],golPrototype,1
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/Cliente.java,prototype.Cliente,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/Cliente.java,prototype.Cliente,main/1[java.lang.String[]],prototipoPalio,3
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/Cliente.java,prototype.Cliente,main/1[java.lang.String[]],palioNovo,3
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/PalioPrototype.java,prototype.PalioPrototype,PalioPrototype/1[prototype.PalioPrototype],palioPrototype,1
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/FiestaPrototype.java,prototype.FiestaPrototype,FiestaPrototype/1[prototype.FiestaPrototype],fiestaPrototype,1

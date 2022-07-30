@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Flyweight/test_project_0/ckmetrics/../example/MovieTicket.java,io.innofang.flyweight.example.MovieTicket,"printTicket/2[java.lang.String,java.lang.String]",price,1
+./Flyweight/test_project_0/ckmetrics/../example/MovieTicket.java,io.innofang.flyweight.example.MovieTicket,"printTicket/2[java.lang.String,java.lang.String]",movieName,1
+./Flyweight/test_project_0/ckmetrics/../example/MovieTicket.java,io.innofang.flyweight.example.MovieTicket,MovieTicket/1[java.lang.String],price,1
+./Flyweight/test_project_0/ckmetrics/../example/MovieTicket.java,io.innofang.flyweight.example.MovieTicket,MovieTicket/1[java.lang.String],movieName,3
+./Flyweight/test_project_0/ckmetrics/../example/TicketFactory.java,io.innofang.flyweight.example.TicketFactory,getTicket/1[java.lang.String],map,3
+./Flyweight/test_project_0/ckmetrics/../base/FlyweightFactory.java,io.innofang.flyweight.base.FlyweightFactory,getFlyweight/1[java.lang.String],map,3
+./Flyweight/test_project_0/ckmetrics/../base/ConcreteFlyweight.java,io.innofang.flyweight.base.ConcreteFlyweight,ConcreteFlyweight/1[java.lang.String],intrinsicState,3
+./Flyweight/test_project_0/ckmetrics/../base/ConcreteFlyweight.java,io.innofang.flyweight.base.ConcreteFlyweight,operation/1[java.lang.String],intrinsicState,1

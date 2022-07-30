@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/test/java/com/javatechie/singleton_design_pattern/AppTest.java,com.javatechie.singleton_design_pattern.AppTest,AppTest/1[java.lang.String],testName,1
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/main/java/com/javatechie/singleton_design_pattern/App.java,com.javatechie.singleton_design_pattern.App,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/main/java/com/javatechie/singleton_design_pattern/App.java,com.javatechie.singleton_design_pattern.App,main/1[java.lang.String[]],obj2,1
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/main/java/com/javatechie/singleton_design_pattern/App.java,com.javatechie.singleton_design_pattern.App,main/1[java.lang.String[]],obj1,1

@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Test.java,com.run.Test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Test.java,com.run.Test,main/1[java.lang.String[]],a,6
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Test.java,com.run.Test,main/1[java.lang.String[]],b,3
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setPersonInfo/3[java.lang.String,java.lang.String,java.lang.String]",birthday,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setPersonInfo/3[java.lang.String,java.lang.String,java.lang.String]",school,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setPersonInfo/3[java.lang.String,java.lang.String,java.lang.String]",sex,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setWorkExperience/2[java.lang.String,java.lang.String]",company,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setWorkExperience/2[java.lang.String,java.lang.String]",timeArea,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,Resume/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,clone/0,resume,2
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,clone/0,e,1

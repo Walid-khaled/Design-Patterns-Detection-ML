@@ -1,0 +1,15 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/ProjectFactory.java,ProjectFactory,cloneProject/0,false,12,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/ProjectFactory.java,ProjectFactory,setProject/1[Project],false,8,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/ProjectFactory.java,ProjectFactory,ProjectFactory/1[Project],true,4,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Clone.java,Clone,copy/0,false,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/VersionRunner.java,VersionRunner,main/1[java.lang.String[]],false,2,2,1,4,11,0,4,1,4,0,0,0,0,0,0,4,1,4,0,0,0,0,0,7,9,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,"Project/3[int,java.lang.String,java.lang.String]",true,6,0,1,0,5,0,0,3,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,5,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,getProjectName/0,false,20,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,setProjectName/1[java.lang.String],false,24,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,setSource/1[java.lang.String],false,32,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,getId/0,false,12,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,getSource/0,false,28,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,setId/1[int],false,16,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,toString/0,false,37,0,1,0,3,1,0,0,0,0,0,0,0,0,0,4,0,0,2,0,0,0,0,6,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,copy/0,false,46,1,1,0,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false

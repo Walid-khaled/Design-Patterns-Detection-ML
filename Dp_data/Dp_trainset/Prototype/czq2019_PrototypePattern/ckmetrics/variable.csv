@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/Shape.java,Prototype.Shape,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/Shape.java,Prototype.Shape,clone/0,clone,3
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/Shape.java,Prototype.Shape,setId/1[java.lang.String],id,2
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/PrototypePatternDemo.java,Prototype.PrototypePatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/PrototypePatternDemo.java,Prototype.PrototypePatternDemo,main/1[java.lang.String[]],cloneShape,2
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/PrototypePatternDemo.java,Prototype.PrototypePatternDemo,main/1[java.lang.String[]],cloneShape3,0
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/PrototypePatternDemo.java,Prototype.PrototypePatternDemo,main/1[java.lang.String[]],cloneShape2,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,getShape/1[java.lang.String],getId,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,getShape/1[java.lang.String],cachedShape,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,loadCache/0,square,3
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,loadCache/0,rectangle,3
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,loadCache/0,circle,3

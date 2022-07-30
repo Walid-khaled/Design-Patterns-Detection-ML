@@ -1,0 +1,7 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,attack/0,false,29,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6,1,0,false
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,getInstance/0,false,14,1,2,0,6,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,6,9,0,false
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,setName/1[java.lang.String],false,24,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,King/0,true,9,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,defend/0,false,34,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,5,1,0,false
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/main.java,main,main/1[java.lang.String[]],false,4,1,1,5,8,0,2,1,5,0,0,0,0,0,0,2,0,2,0,0,0,0,0,5,9,0,false

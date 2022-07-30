@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,Light/1[java.lang.String],position,2
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],gsf,2

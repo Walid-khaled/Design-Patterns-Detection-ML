@@ -1,0 +1,15 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Factory/test_project_7/ckmetrics/../example/java/Client.java,io.innofang.factory_method.example.java.Client,main/1[java.lang.String[]],false,8,4,1,7,10,0,3,1,7,0,0,0,0,0,0,0,0,3,0,0,0,0,0,9,9,0,false
+./Factory/test_project_7/ckmetrics/../example/java/CakeFactory.java,io.innofang.factory_method.example.java.CakeFactory,createProduct/1[java.lang.Class<T>],false,8,2,2,4,10,1,1,1,4,0,0,0,0,1,0,0,0,2,0,1,0,0,0,9,1,0,false
+./Factory/test_project_7/ckmetrics/../example/java/StrawberryCake.java,io.innofang.factory_method.example.java.StrawberryCake,baking/0,false,20,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,true
+./Factory/test_project_7/ckmetrics/../example/java/StrawberryCake.java,io.innofang.factory_method.example.java.StrawberryCake,prepareMaterials/0,false,12,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,true
+./Factory/test_project_7/ckmetrics/../example/java/MangoCake.java,io.innofang.factory_method.example.java.MangoCake,baking/0,false,20,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,true
+./Factory/test_project_7/ckmetrics/../example/java/MangoCake.java,io.innofang.factory_method.example.java.MangoCake,prepareMaterials/0,false,12,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,true
+./Factory/test_project_7/ckmetrics/../example/java/Cake.java,io.innofang.factory_method.example.java.Cake,prepareMaterials/0,false,8,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,true
+./Factory/test_project_7/ckmetrics/../example/java/Cake.java,io.innofang.factory_method.example.java.Cake,baking/0,false,13,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,true
+./Factory/test_project_7/ckmetrics/../example/java/Factory.java,io.innofang.factory_method.example.java.Factory,createProduct/1[java.lang.Class<T>],false,7,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1025,0,false
+./Factory/test_project_7/ckmetrics/../base/Client.java,io.innofang.factory_method.base.Client,main/1[java.lang.String[]],false,8,4,1,2,5,0,2,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,9,0,false
+./Factory/test_project_7/ckmetrics/../base/Product.java,io.innofang.factory_method.base.Product,method/0,false,8,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Factory/test_project_7/ckmetrics/../base/ConcreteFactory.java,io.innofang.factory_method.base.ConcreteFactory,createProduct/1[java.lang.Class<T>],false,9,2,2,4,10,1,1,1,4,0,0,0,0,1,0,0,0,2,0,1,0,0,0,8,1,0,false
+./Factory/test_project_7/ckmetrics/../base/ConcreteProduct.java,io.innofang.factory_method.base.ConcreteProduct,method/0,false,8,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Factory/test_project_7/ckmetrics/../base/Factory.java,io.innofang.factory_method.base.Factory,createProduct/1[java.lang.Class<T>],false,8,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1025,0,false

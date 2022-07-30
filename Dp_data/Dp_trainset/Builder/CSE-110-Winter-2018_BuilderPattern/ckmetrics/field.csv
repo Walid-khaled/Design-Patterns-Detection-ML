@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCar.java,ToyCar,setWheels/1[java.lang.String],wheels,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCar.java,ToyCar,setEngine/1[java.lang.String],engine,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCar.java,ToyCar,getWheels/0,wheels,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCar.java,ToyCar,getEngine/0,engine,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/HotwheelsBuilder.java,HotwheelsBuilder,buildCarEngine/0,toycar,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/HotwheelsBuilder.java,HotwheelsBuilder,buildCarWheels/0,toycar,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/HotwheelsBuilder.java,HotwheelsBuilder,HotwheelsBuilder/0,toycar,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/HotwheelsBuilder.java,HotwheelsBuilder,getToyCar/0,toycar,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCarEngineer.java,ToyCarEngineer,makeToyCar/0,carBuilder,2
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCarEngineer.java,ToyCarEngineer,ToyCarEngineer/1[ToyCarBuilder],carBuilder,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCarEngineer.java,ToyCarEngineer,getToyCar/0,carBuilder,1

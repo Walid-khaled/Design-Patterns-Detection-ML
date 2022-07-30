@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/Shape.java,Prototype.Shape,getId/0,id,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/Shape.java,Prototype.Shape,getType/0,type,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/Shape.java,Prototype.Shape,setId/1[java.lang.String],id,3
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,getShape/1[java.lang.String],shapeMap,1
+/root/DesignPatternsDetection/Data/Prototype/czq2019_PrototypePattern/ckmetrics/../src/Prototype/ShapeCache.java,Prototype.ShapeCache,loadCache/0,shapeMap,3

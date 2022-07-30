@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/App.java,com.sroba.App,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/App.java,com.sroba.App,main/1[java.lang.String[]],clientinvestmentOne,7
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/App.java,com.sroba.App,main/1[java.lang.String[]],clientinvestmentOneCloned,4
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/App.java,com.sroba.App,main/1[java.lang.String[]],clientinvestmentTwo,3
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,makeClone/0,inversion,2
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,makeClone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,setInversionType/1[java.lang.String],inversionType,2
+/root/DesignPatternsDetection/Data/Prototype/sroba1993_PrototypePattern/ckmetrics/../src/com/sroba/model/InversionImpl.java,com.sroba.model.InversionImpl,setAmount/1[int],amount,2

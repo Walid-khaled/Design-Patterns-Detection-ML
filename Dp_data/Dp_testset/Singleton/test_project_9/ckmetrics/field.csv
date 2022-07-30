@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Singleton/test_project_9/ckmetrics/../Singleton1.java,com.codevillain679.creational.singleton.Singleton1,getInstance/0,SINGLE_INSTANCE,1
+./Singleton/test_project_9/ckmetrics/../Singleton2.java,com.codevillain679.creational.singleton.Singleton2,getInstance/0,SINGLE_INSTANCE,3
+./Singleton/test_project_9/ckmetrics/../Singleton3.java,com.codevillain679.creational.singleton.Singleton3,getInstance/0,SINGLE_INSTANCE,4
+./Singleton/test_project_9/ckmetrics/../Singleton4.java,com.codevillain679.creational.singleton.Singleton4,getInstance/0,SINGLE_INSTANCE,3

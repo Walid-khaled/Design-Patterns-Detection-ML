@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/Prototype.java,prototype.Prototype,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/Prototype.java,prototype.Prototype,main/1[java.lang.String[]],fiestaUsado,2
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/Prototype.java,prototype.Prototype,main/1[java.lang.String[]],fiestaPrototype,2
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/Prototype.java,prototype.Prototype,main/1[java.lang.String[]],fiestaNovo,2
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/CarPrototype.java,prototype.CarPrototype,setBuyValue/1[double],buyValue,2
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/FiestaPrototype.java,prototype.FiestaPrototype,FiestaPrototype/1[prototype.FiestaPrototype],fiestaPrototype,1

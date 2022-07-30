@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],e,1
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],copyEmail,3
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],email,4
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Email.java,Email,deepClone/0,bao,2
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Email.java,Email,deepClone/0,oos,1
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Email.java,Email,deepClone/0,ois,1
+/root/DesignPatternsDetection/Data/Prototype/kongzhimin_PrototypePatterndeepcloning/ckmetrics/../src/Email.java,Email,deepClone/0,bis,1

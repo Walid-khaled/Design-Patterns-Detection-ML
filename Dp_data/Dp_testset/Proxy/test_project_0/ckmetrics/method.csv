@@ -1,0 +1,5 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Proxy/test_project_0/ckmetrics/../Proxy.java,com.hundredwordsgof.proxy.Proxy,getRealSubject/0,false,19,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Proxy/test_project_0/ckmetrics/../Proxy.java,com.hundredwordsgof.proxy.Proxy,doOperation/0,false,14,1,1,1,4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+./Proxy/test_project_0/ckmetrics/../Subject.java,com.hundredwordsgof.proxy.Subject,doOperation/0,false,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+./Proxy/test_project_0/ckmetrics/../RealSubject.java,com.hundredwordsgof.proxy.RealSubject,doOperation/0,false,9,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false

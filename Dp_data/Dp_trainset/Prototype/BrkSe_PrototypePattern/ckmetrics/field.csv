@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,Uye/0,uyeListesi,1
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,uyeEkle/0,uyeListesi,3
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,Uye/1[java.util.List<java.lang.String>],uyeListesi,1
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,getUyeListesi/0,uyeListesi,1

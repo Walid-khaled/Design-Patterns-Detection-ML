@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./State/test_project_3/ckmetrics/../ConcreteState1.java,com.hundredwordsgof.state.ConcreteState1,handle/0,false,11,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+./State/test_project_3/ckmetrics/../ConcreteState1.java,com.hundredwordsgof.state.ConcreteState1,isHandleInvoked/0,false,15,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,false
+./State/test_project_3/ckmetrics/../ConcreteState2.java,com.hundredwordsgof.state.ConcreteState2,handle/0,false,11,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+./State/test_project_3/ckmetrics/../ConcreteState2.java,com.hundredwordsgof.state.ConcreteState2,isHandleInvoked/0,false,15,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,false
+./State/test_project_3/ckmetrics/../State.java,com.hundredwordsgof.state.State,handle/0,false,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./State/test_project_3/ckmetrics/../Context.java,com.hundredwordsgof.state.Context,request/0,false,12,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+./State/test_project_3/ckmetrics/../Context.java,com.hundredwordsgof.state.Context,setState/1[com.hundredwordsgof.state.State],false,16,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false

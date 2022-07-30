@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/test/java/ClonerApp.java,ClonerApp,main/1[java.lang.String[]],false,2,2,1,2,4,0,1,1,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,8,9,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,Sheep/1[java.lang.String],true,7,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,Sheep/1[Sheep],true,13,1,1,1,3,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,clone/0,false,17,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,getName/0,false,20,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/ProductGetter.java,ProductGetter,getName/0,false,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/FF7ProfessorHojo.java,FF7ProfessorHojo,FF7ProfessorHojo/1[PrototypeCloner],true,7,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/FF7ProfessorHojo.java,FF7ProfessorHojo,operation/0,false,12,2,1,4,4,1,0,0,4,0,0,0,0,0,0,4,0,1,1,0,0,0,0,6,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/PrototypeCloner.java,PrototypeCloner,clone/0,false,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,false

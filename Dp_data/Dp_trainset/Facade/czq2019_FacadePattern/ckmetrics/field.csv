@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,ShapeMaker/0,square,1
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,ShapeMaker/0,rectangle,1
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,ShapeMaker/0,circle,1
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,drawCircle/0,circle,1
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,drawRectangle/0,rectangle,1
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,drawSquare/0,square,1

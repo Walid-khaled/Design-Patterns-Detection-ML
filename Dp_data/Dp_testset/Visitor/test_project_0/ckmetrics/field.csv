@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,acceptAll/1[com.hundredwordsgof.visitor.Visitor],children,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,remove/1[com.hundredwordsgof.visitor.Element],children,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,add/1[com.hundredwordsgof.visitor.Element],children,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,getChild/1[int],children,1
+./Visitor/test_project_0/ckmetrics/../ConcreteElementB.java,com.hundredwordsgof.visitor.ConcreteElementB,operationB/0,counter,1
+./Visitor/test_project_0/ckmetrics/../ConcreteElementB.java,com.hundredwordsgof.visitor.ConcreteElementB,getCounter/0,counter,1
+./Visitor/test_project_0/ckmetrics/../ConcreteElementA.java,com.hundredwordsgof.visitor.ConcreteElementA,operationA/0,counter,1
+./Visitor/test_project_0/ckmetrics/../ConcreteElementA.java,com.hundredwordsgof.visitor.ConcreteElementA,getCounter/0,counter,1

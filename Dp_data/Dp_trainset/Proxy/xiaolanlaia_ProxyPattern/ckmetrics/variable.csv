@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/androidTest/java/com/example/proxypattern/ExampleInstrumentedTest.java,com.example.proxypattern.ExampleInstrumentedTest,useAppContext/0,appContext,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyNormal.java,com.example.proxypattern.NotifyNormal,NotifyNormal/1[com.example.proxypattern.Context],context,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyNormal.java,com.example.proxypattern.NotifyNormal,send/0,n,2
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyHeadsUp.java,com.example.proxypattern.NotifyHeadsUp,NotifyHeadsUp/1[com.example.proxypattern.Context],context,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyHeadsUp.java,com.example.proxypattern.NotifyHeadsUp,send/0,n,3
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyProxy.java,com.example.proxypattern.NotifyProxy,NotifyProxy/1[com.example.proxypattern.Context],context,3
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/MainActivity.java,com.example.proxypattern.MainActivity,init/1[int],b,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/MainActivity.java,com.example.proxypattern.MainActivity,init/1[int],resId,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/MainActivity.java,com.example.proxypattern.MainActivity,onCreate/1[com.example.proxypattern.Bundle],savedInstanceState,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/MainActivity.java,com.example.proxypattern.MainActivity,onClick/1[com.example.proxypattern.View],v,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyBig.java,com.example.proxypattern.NotifyBig,send/0,n,3
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyBig.java,com.example.proxypattern.NotifyBig,NotifyBig/1[com.example.proxypattern.Context],context,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/Notify.java,com.example.proxypattern.Notify,Notify/1[com.example.proxypattern.Context],context,6

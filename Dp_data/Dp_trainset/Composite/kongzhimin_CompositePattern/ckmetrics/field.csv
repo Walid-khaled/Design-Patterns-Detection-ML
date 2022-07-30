@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Plate.java,Plate,eat/0,list,1
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Plate.java,Plate,add/1[MyElement],list,1
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Plate.java,Plate,remove/1[MyElement],list,1

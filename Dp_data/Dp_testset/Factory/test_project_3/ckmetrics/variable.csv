@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/factory/impl/IPhoneFactory.java,com.javayh.factory.factory.impl.IPhoneFactory,craetePhone/1[com.javayh.factory.factory.impl.PhoneVO],phoneVO,0
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/factory/impl/CurrencyFactory.java,com.javayh.factory.factory.impl.CurrencyFactory,craetePhone/1[com.javayh.factory.factory.impl.PhoneVO],phoneVO,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/factory/impl/CurrencyFactory.java,com.javayh.factory.factory.impl.CurrencyFactory,crateFactory/1[java.lang.String],type,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/factory/impl/HWPhoneFactory.java,com.javayh.factory.factory.impl.HWPhoneFactory,craetePhone/1[com.javayh.factory.factory.impl.PhoneVO],phoneVO,0
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/factory/PhoneFactory.java,com.javayh.factory.factory.PhoneFactory,craetePhone/1[com.javayh.factory.factory.PhoneVO],phoneVO,0
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/service/impl/HWServiceImpl.java,com.javayh.factory.service.impl.HWServiceImpl,getPhone/1[com.javayh.factory.service.impl.PhoneVO],phoneVO,3
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/service/impl/IPhoneServiceImpl.java,com.javayh.factory.service.impl.IPhoneServiceImpl,getPhone/1[com.javayh.factory.service.impl.PhoneVO],phoneVO,3
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/service/PhoneService.java,com.javayh.factory.service.PhoneService,getPhone/1[com.javayh.factory.service.PhoneVO],phoneVO,0
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/FactoryApp.java,com.javayh.factory.FactoryApp,main/1[java.lang.String[]],args,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/web/PhoneWeb.java,com.javayh.factory.web.PhoneWeb,getPhone/1[com.javayh.factory.web.PhoneVO],phoneService,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/web/PhoneWeb.java,com.javayh.factory.web.PhoneWeb,getPhone/1[com.javayh.factory.web.PhoneVO],phoneFactory,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/web/PhoneWeb.java,com.javayh.factory.web.PhoneWeb,getPhone/1[com.javayh.factory.web.PhoneVO],vo,2
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/web/PhoneWeb.java,com.javayh.factory.web.PhoneWeb,getCurrency/1[com.javayh.factory.web.PhoneVO],phoneService,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/web/PhoneWeb.java,com.javayh.factory.web.PhoneWeb,getCurrency/1[com.javayh.factory.web.PhoneVO],phoneFactory,1
+./Factory/test_project_3/ckmetrics/../src/main/java/com/javayh/factory/web/PhoneWeb.java,com.javayh.factory.web.PhoneWeb,getCurrency/1[com.javayh.factory.web.PhoneVO],vo,2

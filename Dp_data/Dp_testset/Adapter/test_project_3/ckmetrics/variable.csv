@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Adapter/test_project_3/ckmetrics/../TranslatorAdapter.java,Adapter.TranslatorAdapter,translate/1[java.lang.String],vietnameseWords,0
+./Adapter/test_project_3/ckmetrics/../TranslatorAdapter.java,Adapter.TranslatorAdapter,TranslatorAdapter/1[Adapter.JapaneseAdaptee],adaptee,2
+./Adapter/test_project_3/ckmetrics/../TranslatorAdapter.java,Adapter.TranslatorAdapter,send/1[java.lang.String],words,2
+./Adapter/test_project_3/ckmetrics/../TranslatorAdapter.java,Adapter.TranslatorAdapter,send/1[java.lang.String],vietnameseWords,1
+./Adapter/test_project_3/ckmetrics/../VietnameseClient.java,Adapter.VietnameseClient,main/1[java.lang.String[]],args,0
+./Adapter/test_project_3/ckmetrics/../VietnameseClient.java,Adapter.VietnameseClient,main/1[java.lang.String[]],client,1
+./Adapter/test_project_3/ckmetrics/../JapaneseAdaptee.java,Adapter.JapaneseAdaptee,receive/1[java.lang.String],words,1
+./Adapter/test_project_3/ckmetrics/../VietnameseTarget.java,Adapter.VietnameseTarget,send/1[java.lang.String],words,0

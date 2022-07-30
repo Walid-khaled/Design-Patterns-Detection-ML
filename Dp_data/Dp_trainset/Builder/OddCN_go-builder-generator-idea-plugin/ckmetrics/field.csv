@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/OddCN_go-builder-generator-idea-plugin/ckmetrics/../src/com/cn/oddcn/entity/StructGenerateResult.java,com.cn.oddcn.entity.StructGenerateResult,"StructGenerateResult/2[java.lang.String,java.util.List<com.cn.oddcn.entity.StructEntity>]",structEntityList,3
+/root/DesignPatternsDetection/Data/Builder/OddCN_go-builder-generator-idea-plugin/ckmetrics/../src/com/cn/oddcn/entity/StructGenerateResult.java,com.cn.oddcn.entity.StructGenerateResult,"StructGenerateResult/2[java.lang.String,java.util.List<com.cn.oddcn.entity.StructEntity>]",error,3
+/root/DesignPatternsDetection/Data/Builder/OddCN_go-builder-generator-idea-plugin/ckmetrics/../src/com/cn/oddcn/entity/StructEntity.java,com.cn.oddcn.entity.StructEntity,StructEntity/1[java.lang.String],structName,3
+/root/DesignPatternsDetection/Data/Builder/OddCN_go-builder-generator-idea-plugin/ckmetrics/../src/com/cn/oddcn/entity/StructEntity.java,com.cn.oddcn.entity.StructEntity,StructEntity/1[java.lang.String],structKeyValue,1

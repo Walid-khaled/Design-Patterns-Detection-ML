@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/LoggerTest.java,LoggerTest,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/LoggerTest.java,LoggerTest,main/1[java.lang.String[]],factory,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/LoggerTest.java,LoggerTest,main/1[java.lang.String[]],logger,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/ConsoleLogger.java,Logger.ConsoleLogger,log/1[java.lang.String],msg,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileUtil.java,Logger.FileUtil,"writeToFile/4[java.lang.String,java.lang.String,boolean,boolean]",msg,2
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileUtil.java,Logger.FileUtil,"writeToFile/4[java.lang.String,java.lang.String,boolean,boolean]",a,0
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileUtil.java,Logger.FileUtil,"writeToFile/4[java.lang.String,java.lang.String,boolean,boolean]",fileName,2
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileUtil.java,Logger.FileUtil,"writeToFile/4[java.lang.String,java.lang.String,boolean,boolean]",b,0
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileUtil.java,Logger.FileUtil,"writeToFile/4[java.lang.String,java.lang.String,boolean,boolean]",e,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileUtil.java,Logger.FileUtil,"writeToFile/4[java.lang.String,java.lang.String,boolean,boolean]",fileWriter,2
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/LoggerFactory.java,Logger.LoggerFactory,isFileLogginEnabled/0,p,2
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/LoggerFactory.java,Logger.LoggerFactory,isFileLogginEnabled/0,fileLogginValue,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/LoggerFactory.java,Logger.LoggerFactory,isFileLogginEnabled/0,e,0
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileLogger.java,Logger.FileLogger,log/1[java.lang.String],msg,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/FileLogger.java,Logger.FileLogger,log/1[java.lang.String],fileUtil,1
+/root/DesignPatternsDetection/Data/Singleton/victorolave_Singleton_Java/ckmetrics/../src/Logger/Logger.java,Logger.Logger,log/1[java.lang.String],msg,0

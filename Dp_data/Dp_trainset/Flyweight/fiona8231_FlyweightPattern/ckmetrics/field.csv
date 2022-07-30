@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/FlyweightTest.java,FlyweightTest,getRandX/0,windowWith,1
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/FlyweightTest.java,FlyweightTest,getRandColor/0,shapeColor,1
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/FlyweightTest.java,FlyweightTest,getRandY/0,windowHeight,1
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/FlyweightTest.java,FlyweightTest,FlyweightTest/0,windowWith,1
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/FlyweightTest.java,FlyweightTest,FlyweightTest/0,startDrawingButton,3
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/FlyweightTest.java,FlyweightTest,FlyweightTest/0,windowHeight,1
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/MyRecg.java,MyRecg,MyRecg/1[java.awt.Color],color,3
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/MyRecg.java,MyRecg,"draw/5[java.awt.Graphics,int,int,int,int]",color,1
+/root/DesignPatternsDetection/Data/Flyweight/fiona8231_FlyweightPattern/ckmetrics/../src/RectFactory.java,RectFactory,getRect/1[java.awt.Color],rectByColor,2

@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/HeroiFactory.java,HeroiFactory,getVilao/1[java.lang.String],s,0
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/HeroiFactory.java,HeroiFactory,getHeroi/1[java.lang.String],tipoHeroi,1
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],geraHeroi,2
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],geraVilao,3
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],vilao3,2
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],vilao1,2
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],vilao2,2
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],heroi1,1
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],heroi2,1
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getHeroi/1[java.lang.String],s,0
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getVilao/1[java.lang.String],s,0
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/VilaoFactory.java,VilaoFactory,getHeroi/1[java.lang.String],s,0
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/VilaoFactory.java,VilaoFactory,getVilao/1[java.lang.String],tipoVilao,1
+/root/DesignPatternsDetection/Data/Abstract_factory/CavanhaMan_AbstractFactory/ckmetrics/../src/FactoryGenerator.java,FactoryGenerator,factory/1[java.lang.String],s,1

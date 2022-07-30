@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Builder/test_project_2/ckmetrics/../BuilderPattern.java,com.codevillain679.creational.builder.BuilderPattern,BuilderPattern/0,account,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,Account/1[com.codevillain679.creational.builder.Account.Builder],builder,4
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setVerified/1[java.lang.Boolean],verified,2
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setID/1[int],ID,2
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setName/1[java.lang.String],name,2
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setEmail/1[java.lang.String],email,2

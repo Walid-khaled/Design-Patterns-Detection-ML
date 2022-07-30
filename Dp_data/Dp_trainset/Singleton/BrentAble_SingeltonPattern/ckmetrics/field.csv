@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,requestSong/1[java.lang.String],songQueue,2
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,playNextSong/0,songQueue,3
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,hasMoreSongs/0,songQueue,1
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,getInstance/0,jukeBox,3

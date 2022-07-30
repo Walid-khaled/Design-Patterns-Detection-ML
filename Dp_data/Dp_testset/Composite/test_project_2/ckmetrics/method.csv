@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],false,10,3,1,4,11,0,7,1,4,0,0,0,0,0,0,4,3,7,1,0,0,0,0,14,9,0,false
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,totalSize/0,false,26,1,2,1,7,1,1,0,1,0,0,1,0,0,0,0,1,2,0,1,0,0,0,6,1,0,false
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,showProperty/0,false,19,1,2,1,5,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,6,1,0,false
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,FolderComposite/1[java.util.List<Composite.FileComponent>],true,14,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Composite/test_project_2/ckmetrics/../FileComponent.java,Composite.FileComponent,showProperty/0,false,7,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+./Composite/test_project_2/ckmetrics/../FileComponent.java,Composite.FileComponent,totalSize/0,false,8,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,"FileLeaf/2[java.lang.String,long]",true,11,0,1,0,5,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,0,false
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,showProperty/0,false,23,0,1,1,3,0,0,0,1,0,0,0,0,0,0,3,0,0,1,0,0,0,0,4,1,0,false
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,totalSize/0,false,18,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false

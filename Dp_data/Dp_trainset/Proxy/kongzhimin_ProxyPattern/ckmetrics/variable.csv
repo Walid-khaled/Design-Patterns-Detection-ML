@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/IShowPic.java,IShowPic,ShowPic/1[java.lang.String],PicName,0
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],cls,1
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CLocalPicShow.java,CLocalPicShow,ShowPic/1[java.lang.String],PicName,3
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CLocalPicShow.java,CLocalPicShow,ShowPic/1[java.lang.String],th,1
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CRemoPic.java,CRemoPic,ShowPic/1[java.lang.String],PicName,0
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CRemoPic.java,CRemoPic,ShowPic/1[java.lang.String],e,1
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CRemoPic.java,CRemoPic,ShowPic/1[java.lang.String],i,3

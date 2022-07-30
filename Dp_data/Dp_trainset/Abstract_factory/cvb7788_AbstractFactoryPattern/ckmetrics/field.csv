@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/RadomCheesePizza.java,factory.pattern.RadomCheesePizza,RadomCheesePizza/0,type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/RadomPepperoniPizza.java,factory.pattern.RadomPepperoniPizza,RadomPepperoniPizza/0,type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/SosnowiecCheesePizza.java,factory.pattern.SosnowiecCheesePizza,SosnowiecCheesePizza/0,type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/SosnowiecPepperoniPizza.java,factory.pattern.SosnowiecPepperoniPizza,SosnowiecPepperoniPizza/0,type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/Pizza.java,factory.pattern.Pizza,getType/0,type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/SosnowiecMargaritaPizza.java,factory.pattern.SosnowiecMargaritaPizza,SosnowiecMargaritaPizza/0,type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/cvb7788_AbstractFactoryPattern/ckmetrics/../src/factory/pattern/RadomMargaritaPizza.java,factory.pattern.RadomMargaritaPizza,RadomMargaritaPizza/0,type,1

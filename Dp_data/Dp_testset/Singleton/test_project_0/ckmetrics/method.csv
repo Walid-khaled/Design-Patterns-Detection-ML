@@ -1,0 +1,15 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Singleton/test_project_0/ckmetrics/../MyClass.java,phuongsala.designpattern.singleton.MyClass,MyClass/0,true,10,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass.java,phuongsala.designpattern.singleton.MyClass,writeClassName/0,false,26,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,5,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass.java,phuongsala.designpattern.singleton.MyClass,getArg/0,false,30,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass.java,phuongsala.designpattern.singleton.MyClass,setArg/1[java.lang.String],false,34,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass.java,phuongsala.designpattern.singleton.MyClass,getInstance/0,false,15,1,3,0,10,1,0,0,0,0,0,0,2,0,0,0,0,1,0,3,0,0,0,6,9,0,false
+./Singleton/test_project_0/ckmetrics/../MyEnum.java,phuongsala.designpattern.singleton.MyEnum,setArg/1[java.lang.String],false,17,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyEnum.java,phuongsala.designpattern.singleton.MyEnum,writeEnumName/0,false,9,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,6,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyEnum.java,phuongsala.designpattern.singleton.MyEnum,getArg/0,false,13,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Singleton/test_project_0/ckmetrics/../DEMO.java,phuongsala.designpattern.singleton.DEMO,main/1[java.lang.String[]],false,4,3,1,8,8,0,0,1,8,0,0,0,0,0,0,3,0,0,0,0,0,0,0,2,9,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass2.java,phuongsala.designpattern.singleton.MyClass2,setArg/1[java.lang.String],false,29,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass2.java,phuongsala.designpattern.singleton.MyClass2,writeClassName/0,false,21,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,5,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass2.java,phuongsala.designpattern.singleton.MyClass2,getArg/0,false,25,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass2.java,phuongsala.designpattern.singleton.MyClass2,getInstance/0,false,17,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0,false
+./Singleton/test_project_0/ckmetrics/../MyClass2.java,phuongsala.designpattern.singleton.MyClass2,MyClass2/0,true,8,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,false

@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorA.java,com.hundredwordsgof.decorator.ConcreteDecoratorA,isState/0,false,17,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorA.java,com.hundredwordsgof.decorator.ConcreteDecoratorA,operation/0,false,12,1,1,1,4,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorB.java,com.hundredwordsgof.decorator.ConcreteDecoratorB,addedBehavior/0,false,17,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,2,0,false
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorB.java,com.hundredwordsgof.decorator.ConcreteDecoratorB,isBehaviorMethodInvoked/0,false,21,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,4,0,false
+./Decorator/test_project_2/ckmetrics/../ConcreteDecoratorB.java,com.hundredwordsgof.decorator.ConcreteDecoratorB,operation/0,false,12,2,1,2,4,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Decorator/test_project_2/ckmetrics/../Component.java,com.hundredwordsgof.decorator.Component,operation/0,false,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Decorator/test_project_2/ckmetrics/../Decorator.java,com.hundredwordsgof.decorator.Decorator,setComponent/1[com.hundredwordsgof.decorator.Component],false,14,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Decorator/test_project_2/ckmetrics/../Decorator.java,com.hundredwordsgof.decorator.Decorator,operation/0,false,12,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1025,0,false
+./Decorator/test_project_2/ckmetrics/../ConcreteComponent.java,com.hundredwordsgof.decorator.ConcreteComponent,operation/0,false,10,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false

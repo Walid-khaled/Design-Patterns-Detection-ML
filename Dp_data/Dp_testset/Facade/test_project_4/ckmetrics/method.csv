@@ -1,0 +1,15 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Facade/test_project_4/ckmetrics/../OperandNode.java,com.hundredwordsgof.facade.OperandNode,setValue/1[int],false,15,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Facade/test_project_4/ckmetrics/../OperandNode.java,com.hundredwordsgof.facade.OperandNode,getValue/0,false,11,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Facade/test_project_4/ckmetrics/../Tokenizer.java,com.hundredwordsgof.facade.Tokenizer,tokenize/1[java.lang.String],false,13,0,2,3,8,1,2,1,3,0,0,1,0,0,0,0,0,2,0,1,0,0,0,6,9,0,false
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,getLeft/0,false,21,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,setLeft/1[com.hundredwordsgof.facade.Node],false,25,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,getOperator/0,false,13,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,getRight/0,false,29,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,setRight/1[com.hundredwordsgof.facade.Node],false,33,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,setOperator/1[char],false,17,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Facade/test_project_4/ckmetrics/../Parser.java,com.hundredwordsgof.facade.Parser,isTokenOperand/1[java.lang.String],false,60,0,3,2,6,2,0,1,2,0,0,1,0,0,0,0,0,0,0,2,0,0,0,7,2,0,false
+./Facade/test_project_4/ckmetrics/../Parser.java,com.hundredwordsgof.facade.Parser,isTokenExpression/1[java.lang.String],false,51,0,2,1,6,2,0,1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,6,2,0,false
+./Facade/test_project_4/ckmetrics/../Parser.java,com.hundredwordsgof.facade.Parser,parse/1[java.util.List<java.lang.String>],false,17,4,5,11,24,1,6,1,11,2,1,2,0,0,0,0,1,6,0,2,0,0,0,11,1,0,false
+./Facade/test_project_4/ckmetrics/../Compiler.java,com.hundredwordsgof.facade.Compiler,compile/1[java.lang.String],false,14,4,1,3,7,1,4,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,9,9,0,false
+./Facade/test_project_4/ckmetrics/../Generator.java,com.hundredwordsgof.facade.Generator,generate/1[com.hundredwordsgof.facade.Node],false,11,3,2,3,12,1,4,1,3,0,0,0,0,0,0,1,0,4,1,1,0,0,0,10,9,0,false

@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/ShapeFactory.java,com.java.test.ShapeFactory,getShape/1[java.lang.String],shape,2
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/ShapeFactory.java,com.java.test.ShapeFactory,getColor/1[java.lang.String],color,0
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/AbstractFactoryDemo.java,com.java.test.AbstractFactoryDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/AbstractFactoryDemo.java,com.java.test.AbstractFactoryDemo,main/1[java.lang.String[]],factory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/AbstractFactoryDemo.java,com.java.test.AbstractFactoryDemo,main/1[java.lang.String[]],shape,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/AbstractFactoryDemo.java,com.java.test.AbstractFactoryDemo,main/1[java.lang.String[]],color,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/FactoryProducer.java,com.java.test.FactoryProducer,getFactory/1[java.lang.String],factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/AbstractFactory.java,com.java.test.AbstractFactory,getColor/1[java.lang.String],color,0
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/AbstractFactory.java,com.java.test.AbstractFactory,getShape/1[java.lang.String],shape,0
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/ColorFactory.java,com.java.test.ColorFactory,getColor/1[java.lang.String],color,2
+/root/DesignPatternsDetection/Data/Abstract_factory/aakash140_Design-Pattern-AbstractFactory/ckmetrics/../src/com/java/test/ColorFactory.java,com.java.test.ColorFactory,getShape/1[java.lang.String],shape,0

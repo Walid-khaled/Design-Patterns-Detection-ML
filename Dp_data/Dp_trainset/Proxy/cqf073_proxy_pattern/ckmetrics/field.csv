@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/persuit.java,primary.persuit,persuit/1[primary.girl],mm,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/girl.java,primary.girl,getName/0,name,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/primary/girl.java,primary.girl,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/pursuit.java,middle.pursuit,pursuit/1[middle.girl],mm,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/agentgift.java,middle.agentgift,buy_chocolate/0,gg,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/agentgift.java,middle.agentgift,sent_money/0,gg,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/agentgift.java,middle.agentgift,buy_folwers/0,gg,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/agentgift.java,middle.agentgift,agentgift/1[middle.pursuit],gg,3
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/girl.java,middle.girl,getName/0,name,1
+/root/DesignPatternsDetection/Data/Proxy/cqf073_proxy_pattern/ckmetrics/../src/middle/girl.java,middle.girl,setName/1[java.lang.String],name,3

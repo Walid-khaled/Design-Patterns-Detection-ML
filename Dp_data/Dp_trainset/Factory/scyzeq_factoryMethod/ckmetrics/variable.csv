@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/ZOO.java,factorymethod.ZOO,whatAnimal/1[factorymethod.AnimalType],whereTo,4
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/ZOO.java,factorymethod.ZOO,whatAnimal/1[factorymethod.AnimalType],animalType,6
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/FactoryMethod.java,factorymethod.FactoryMethod,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/FactoryMethod.java,factorymethod.FactoryMethod,main/1[java.lang.String[]],mammal,1
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/FactoryMethod.java,factorymethod.FactoryMethod,main/1[java.lang.String[]],bird,1
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/FactoryMethod.java,factorymethod.FactoryMethod,main/1[java.lang.String[]],animal,3
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/FactoryMethod.java,factorymethod.FactoryMethod,main/1[java.lang.String[]],lizard,1
+/root/DesignPatternsDetection/Data/Factory/scyzeq_factoryMethod/ckmetrics/../src/factorymethod/Animal.java,factorymethod.Animal,whatAnimal/1[factorymethod.AnimalType],animalType,0

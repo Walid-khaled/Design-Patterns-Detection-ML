@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],color1,1
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],color2,1
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],shape1,1
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],shape2,1
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],shape3,1
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],colorFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],shapeFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/test.java,test,main/1[java.lang.String[]],color3,1
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/ShapeFactory.java,ShapeFactory,getColor/1[java.lang.String],color,0
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/ShapeFactory.java,ShapeFactory,getShape/1[java.lang.String],shapeType,4
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/FactoryProducer.java,FactoryProducer,getFactory/1[java.lang.String],choice,2
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getColor/1[java.lang.String],color,0
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getShape/1[java.lang.String],shape,0
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/ColorFactory.java,ColorFactory,getColor/1[java.lang.String],color,4
+/root/DesignPatternsDetection/Data/Abstract_factory/kongzhimin_AbstractFactoryPatternDemo/ckmetrics/../src/ColorFactory.java,ColorFactory,getShape/1[java.lang.String],shapeType,0

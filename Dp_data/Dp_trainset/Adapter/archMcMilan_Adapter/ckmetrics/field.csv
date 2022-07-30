@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/archMcMilan_Adapter/ckmetrics/../src/composition/AdapterComposite.java,composition.VectorAdapterFromRaster,drawSquare/0,raster,1
+/root/DesignPatternsDetection/Data/Adapter/archMcMilan_Adapter/ckmetrics/../src/composition/AdapterComposite.java,composition.VectorAdapterFromRaster,drawLine/0,raster,1
+/root/DesignPatternsDetection/Data/Adapter/archMcMilan_Adapter/ckmetrics/../src/composition/AdapterComposite.java,composition.VectorAdapterFromRaster,VectorAdapterFromRaster/1[composition.RasterGraphics],raster,3

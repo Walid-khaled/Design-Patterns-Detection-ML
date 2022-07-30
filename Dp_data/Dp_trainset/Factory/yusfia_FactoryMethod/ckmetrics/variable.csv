@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/DisplayService.java,DisplayService,display/0,xmlParser,1
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/DisplayService.java,DisplayService,display/0,message,1
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/TestFactory.java,TestFactory,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/TestFactory.java,TestFactory,main/1[java.lang.String[]],service,6

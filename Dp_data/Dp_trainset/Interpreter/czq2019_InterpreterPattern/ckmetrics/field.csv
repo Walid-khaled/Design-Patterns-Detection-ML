@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/TerminalExpression.java,interpreter.TerminalExpression,TerminalExpression/1[java.lang.String],data,3
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/TerminalExpression.java,interpreter.TerminalExpression,interpret/1[java.lang.String],data,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,interpret/1[java.lang.String],expr2,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,interpret/1[java.lang.String],expr1,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,"OrExpression/2[interpreter.Expression,interpreter.Expression]",expr2,3
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,"OrExpression/2[interpreter.Expression,interpreter.Expression]",expr1,3
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,interpret/1[java.lang.String],expr2,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,interpret/1[java.lang.String],expr1,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,"AndExpression/2[interpreter.Expression,interpreter.Expression]",expr2,3
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,"AndExpression/2[interpreter.Expression,interpreter.Expression]",expr1,3

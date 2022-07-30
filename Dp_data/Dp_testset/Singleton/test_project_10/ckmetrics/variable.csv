@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],threadSafeSingleton1,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],lazyInitializedSingleton1,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],threadSafeSingleton2,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],lazyInitializedSingleton2,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],eagerInitializedSingleton1,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],eagerInitializedSingleton2,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],argv,0
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],doubleCheckLockingSingleton1,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.Singleton,main/1[java.lang.String[]],doubleCheckLockingSingleton2,1

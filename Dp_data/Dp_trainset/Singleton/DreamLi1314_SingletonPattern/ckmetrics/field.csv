@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/DreamLi1314_SingletonPattern/ckmetrics/../src/com/inetsoft/singleton/HungrySingleton.java,com.inetsoft.singleton.HungrySingleton,getInstance/0,hungrySingleton,3
+/root/DesignPatternsDetection/Data/Singleton/DreamLi1314_SingletonPattern/ckmetrics/../src/com/inetsoft/singleton/SyncHungrySingleton.java,com.inetsoft.singleton.SyncHungrySingleton,getInstance/0,syncHungrySingleton,3
+/root/DesignPatternsDetection/Data/Singleton/DreamLi1314_SingletonPattern/ckmetrics/../src/com/inetsoft/singleton/LazySingleton.java,com.inetsoft.singleton.LazySingleton,getInstance/0,lazySingleton,1
+/root/DesignPatternsDetection/Data/Singleton/DreamLi1314_SingletonPattern/ckmetrics/../src/com/inetsoft/singleton/DoubleCheckLockSingleton.java,com.inetsoft.singleton.DoubleCheckLockSingleton,getInstance/0,singleton,4

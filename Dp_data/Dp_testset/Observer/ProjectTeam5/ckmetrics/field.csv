@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+./Observer/ProjectTeam5/ckmetrics/../ssd/handlers/UpdateEvent.java,ssd.handlers.UpdateEvent,raiseEvent/1[ssd.data.WeatherDatabase],observers,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/handlers/UpdateEvent.java,ssd.handlers.UpdateEvent,addObserver/1[ssd.handlers.UpdateHandler],observers,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/handlers/UpdateEvent.java,ssd.handlers.UpdateEvent,removeObserver/1[ssd.handlers.UpdateHandler],observers,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,removeAt/1[int],recordsChangedEvent,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,removeAt/1[int],records,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,getRecordsChangedEvent/0,recordsChangedEvent,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,getRecordsNumber/0,records,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,getRecordAt/1[int],records,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,add/1[ssd.data.WeatherRecord],recordsChangedEvent,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/MemoryWeatherDatabase.java,ssd.data.MemoryWeatherDatabase,add/1[ssd.data.WeatherRecord],records,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/WeatherRecord.java,ssd.data.WeatherRecord,getHumidity/0,humidity,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/WeatherRecord.java,ssd.data.WeatherRecord,getTemperature/0,temperature,1
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/WeatherRecord.java,ssd.data.WeatherRecord,"WeatherRecord/3[float,float,float]",temperature,3
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/WeatherRecord.java,ssd.data.WeatherRecord,"WeatherRecord/3[float,float,float]",humidity,3
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/WeatherRecord.java,ssd.data.WeatherRecord,"WeatherRecord/3[float,float,float]",windSpeed,3
+./Observer/ProjectTeam5/ckmetrics/../ssd/data/WeatherRecord.java,ssd.data.WeatherRecord,getWindSpeed/0,windSpeed,1

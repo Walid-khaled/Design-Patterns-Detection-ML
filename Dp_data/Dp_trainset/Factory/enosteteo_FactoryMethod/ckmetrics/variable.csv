@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoBoleto.java,br.ufpb.dcx.aps.pagamento.PagamentoBoleto,"efetuarPagamento/2[java.lang.String,java.text.SimpleDateFormat]",dataFormatada,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoBoleto.java,br.ufpb.dcx.aps.pagamento.PagamentoBoleto,"efetuarPagamento/2[java.lang.String,java.text.SimpleDateFormat]",pagamento,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoAvista/0,esperado,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoAvista/0,pagamento,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoBoleto/0,dataFormatada,3
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoBoleto/0,data,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoBoleto/0,esperado,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoBoleto/0,pagamento,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoCartao/0,prestacoes,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoCartao/0,esperado,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoTest.java,br.ufpb.dcx.aps.pagamento.PagamentoTest,testePagamentoCartao/0,pagamento,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoCartao.java,br.ufpb.dcx.aps.pagamento.PagamentoCartao,"efetuarPagamento/2[java.lang.String,int]",parcelas,3
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoCartao.java,br.ufpb.dcx.aps.pagamento.PagamentoCartao,"efetuarPagamento/2[java.lang.String,int]",pagamento,1
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/Pagamento.java,br.ufpb.dcx.aps.pagamento.Pagamento,efetuarPagamento/1[java.lang.String],pagamento,1

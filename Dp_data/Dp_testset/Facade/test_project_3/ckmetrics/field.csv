@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,drawRectangle/0,rectangle,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,drawSquare/0,square,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,ShapeMaker/0,square,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,ShapeMaker/0,rectangle,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,ShapeMaker/0,circle,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,drawAllShape/0,square,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,drawAllShape/0,rectangle,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,drawAllShape/0,circle,1
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/ShapeMaker.java,net.dskim.desingpattern.facade.ShapeMaker,drawCircle/0,circle,1

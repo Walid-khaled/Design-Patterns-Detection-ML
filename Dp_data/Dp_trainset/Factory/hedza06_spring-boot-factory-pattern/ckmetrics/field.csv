@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/hedza06_spring-boot-factory-pattern/ckmetrics/../src/main/java/com/springboot/factory/services/impls/ConcreteProductOne.java,com.springboot.factory.services.impls.ConcreteProductOne,calculateSomething/0,logger,1
+/root/DesignPatternsDetection/Data/Factory/hedza06_spring-boot-factory-pattern/ckmetrics/../src/main/java/com/springboot/factory/services/impls/ConcreteProductTwo.java,com.springboot.factory.services.impls.ConcreteProductTwo,calculateSomething/0,logger,1

@@ -1,0 +1,16 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,false,6,3,2,10,18,2,8,0,10,0,0,0,0,1,0,2,1,8,0,1,0,0,0,21,9,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/MealBuilder.java,MealBuilder,buildFood/0,false,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1025,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/MealBuilder.java,MealBuilder,buildDrink/0,false,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1025,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/MealBuilder.java,MealBuilder,getMeal/0,false,5,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],false,2,4,1,6,9,0,3,1,6,0,0,0,0,0,0,1,0,3,0,0,0,0,0,11,9,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/SubMealBuilderB.java,SubMealBuilderB,buildFood/0,false,2,1,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/SubMealBuilderB.java,SubMealBuilderB,buildDrink/0,false,5,1,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,setFood/1[java.lang.String],false,4,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,setDrink/1[java.lang.String],false,7,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,getDrink/0,false,13,0,1,0,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,getFood/0,false,10,0,1,0,3,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/KFCWaiter.java,KFCWaiter,setMealBuilder/1[MealBuilder],false,3,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/KFCWaiter.java,KFCWaiter,construct/0,false,6,2,1,3,5,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/SubMealBuilderA.java,SubMealBuilderA,buildFood/0,false,2,1,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/SubMealBuilderA.java,SubMealBuilderA,buildDrink/0,false,5,1,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false

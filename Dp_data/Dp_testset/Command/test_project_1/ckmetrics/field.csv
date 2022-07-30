@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/SaveTextFileOperation.java,net.dskim.desingpattern.command.SaveTextFileOperation,SaveTextFileOperation/1[net.dskim.desingpattern.command.TextFile],textFile,3
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/SaveTextFileOperation.java,net.dskim.desingpattern.command.SaveTextFileOperation,execute/0,textFile,1
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/OpenTextFileOperation.java,net.dskim.desingpattern.command.OpenTextFileOperation,execute/0,textFile,1
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/OpenTextFileOperation.java,net.dskim.desingpattern.command.OpenTextFileOperation,OpenTextFileOperation/1[net.dskim.desingpattern.command.TextFile],textFile,3
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/UpdateTextFileOperation.java,net.dskim.desingpattern.command.UpdateTextFileOperation,UpdateTextFileOperation/1[net.dskim.desingpattern.command.TextFile],textFile,3
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/UpdateTextFileOperation.java,net.dskim.desingpattern.command.UpdateTextFileOperation,execute/0,textFile,1
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/TextFileOperationExecutorWithCommand.java,net.dskim.desingpattern.command.TextFileOperationExecutorWithCommand,executeOperation/1[net.dskim.desingpattern.command.TextFileOperation],textFileOperations,1
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/TextFile.java,net.dskim.desingpattern.command.TextFile,save/0,name,1
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/TextFile.java,net.dskim.desingpattern.command.TextFile,open/0,name,1
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/TextFile.java,net.dskim.desingpattern.command.TextFile,TextFile/1[java.lang.String],name,3
+./Command/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/command/TextFile.java,net.dskim.desingpattern.command.TextFile,update/0,name,1

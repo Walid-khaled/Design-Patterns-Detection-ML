@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/OperationMultiply.java,strategy.OperationMultiply,"doOperation/2[int,int]",num1,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/OperationMultiply.java,strategy.OperationMultiply,"doOperation/2[int,int]",num2,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Context.java,strategy.Context,"executeStrategy/2[int,int]",num1,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Context.java,strategy.Context,"executeStrategy/2[int,int]",num2,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Context.java,strategy.Context,Context/1[strategy.Strategy],strategy,2
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/OperationAdd.java,strategy.OperationAdd,"doOperation/2[int,int]",num1,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/OperationAdd.java,strategy.OperationAdd,"doOperation/2[int,int]",num2,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Strategy.java,strategy.Strategy,"doOperation/2[int,int]",num1,0
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Strategy.java,strategy.Strategy,"doOperation/2[int,int]",num2,0
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/OperationSubstract.java,strategy.OperationSubstract,"doOperation/2[int,int]",num1,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/OperationSubstract.java,strategy.OperationSubstract,"doOperation/2[int,int]",num2,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/StrategyPatternDemo.java,strategy.StrategyPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/StrategyPatternDemo.java,strategy.StrategyPatternDemo,main/1[java.lang.String[]],context,5

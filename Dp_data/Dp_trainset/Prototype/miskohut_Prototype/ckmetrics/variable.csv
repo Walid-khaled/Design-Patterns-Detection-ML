@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/Main.java,prototypeimpl.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/Main.java,prototypeimpl.Main,main/1[java.lang.String[]],factory,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/Main.java,prototypeimpl.Main,main/1[java.lang.String[]],redApple,3
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/Main.java,prototypeimpl.Main,main/1[java.lang.String[]],greenApple,2
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Pear.java,prototypeimpl.fruits.Pear,Pear/1[java.lang.String],taste,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Cherry.java,prototypeimpl.fruits.Cherry,Cherry/1[java.lang.String],taste,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Apple.java,prototypeimpl.fruits.Apple,Apple/1[java.lang.String],taste,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Banana.java,prototypeimpl.fruits.Banana,Banana/1[java.lang.String],taste,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,setTaste/1[java.lang.String],taste,2
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,makeCopy/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,makeCopy/0,fruit,2
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,Fruit/1[java.lang.String],taste,2
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/FruitFactory.java,prototypeimpl.fruits.FruitFactory,createFruit/1[prototypeimpl.fruits.Fruits],fruit,1

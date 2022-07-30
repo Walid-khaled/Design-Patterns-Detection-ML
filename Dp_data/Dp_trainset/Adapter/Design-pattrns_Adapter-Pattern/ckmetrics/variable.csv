@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/Design-pattrns_Adapter-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Adapter/Design-pattrns_Adapter-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],toyDuck,1
+/root/DesignPatternsDetection/Data/Adapter/Design-pattrns_Adapter-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],birdAdapter,1
+/root/DesignPatternsDetection/Data/Adapter/Design-pattrns_Adapter-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],sparrow,3
+/root/DesignPatternsDetection/Data/Adapter/Design-pattrns_Adapter-Pattern/ckmetrics/../src/BirdAdapter.java,BirdAdapter,BirdAdapter/1[Bird],bird,2

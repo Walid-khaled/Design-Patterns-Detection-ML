@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Flyweight/test_project_2/ckmetrics/../FlyweightFactory.java,com.hundredwordsgof.flyweight.FlyweightFactory,"getFlyweight/2[java.lang.String,java.lang.String]",flyweights,4
+./Flyweight/test_project_2/ckmetrics/../UnsharedConcreteFlyweight.java,com.hundredwordsgof.flyweight.UnsharedConcreteFlyweight,getState/0,state,1
+./Flyweight/test_project_2/ckmetrics/../UnsharedConcreteFlyweight.java,com.hundredwordsgof.flyweight.UnsharedConcreteFlyweight,UnsharedConcreteFlyweight/1[java.lang.Object],state,3
+./Flyweight/test_project_2/ckmetrics/../ConcreteFlyweight.java,com.hundredwordsgof.flyweight.ConcreteFlyweight,getIntrinsicState/0,intrinsicState,1
+./Flyweight/test_project_2/ckmetrics/../ConcreteFlyweight.java,com.hundredwordsgof.flyweight.ConcreteFlyweight,ConcreteFlyweight/1[java.lang.Object],intrinsicState,3

@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/Calca.java,prototype.Calca,getTipo/0,tipo,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/Calca.java,prototype.Calca,getId/0,id,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/Calca.java,prototype.Calca,setId/1[java.lang.String],id,3
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,loadCache/0,calcaCache,3
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,getCalca/1[java.lang.String],calcaCache,1

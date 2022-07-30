@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/VoltAdapter.java,io.innofang.adapter.example.object_adapter.VoltAdapter,provideVoltFive/0,volt220,1
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/VoltAdapter.java,io.innofang.adapter.example.object_adapter.VoltAdapter,VoltAdapter/1[io.innofang.adapter.example.object_adapter.Volt220],volt220,3
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/VoltAdapter.java,io.innofang.adapter.example.object_adapter.VoltAdapter,provideVolt220/0,volt220,1
+./Adapter/test_project_0/ckmetrics/../base/object_adapter/Adapter.java,io.innofang.adapter.base.object_adapter.Adapter,adaptedOperation/0,adaptee,1
+./Adapter/test_project_0/ckmetrics/../base/object_adapter/Adapter.java,io.innofang.adapter.base.object_adapter.Adapter,Adapter/1[io.innofang.adapter.base.object_adapter.Adaptee],adaptee,3

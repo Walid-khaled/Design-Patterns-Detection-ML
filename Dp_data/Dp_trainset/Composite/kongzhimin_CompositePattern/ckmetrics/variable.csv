@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],plate4,0
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],plate2,4
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],plate3,5
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],plate1,4
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obj2,2
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obj1,2
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obj5,2
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obj4,2
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obj3,2
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Plate.java,Plate,eat/0,object,1
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Plate.java,Plate,add/1[MyElement],element,1
+/root/DesignPatternsDetection/Data/Composite/kongzhimin_CompositePattern/ckmetrics/../src/Plate.java,Plate,remove/1[MyElement],element,1

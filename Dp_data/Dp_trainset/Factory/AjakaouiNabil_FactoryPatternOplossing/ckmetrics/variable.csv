@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Motor.java,factorypattern.Motor,"Motor/3[int,int,java.lang.String]",cc,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Motor.java,factorypattern.Motor,"Motor/3[int,int,java.lang.String]",kleppen,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Motor.java,factorypattern.Motor,"Motor/3[int,int,java.lang.String]",brandstof,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/SedanAuto.java,factorypattern.SedanAuto,SedanAuto/1[factorypattern.AutoFabriek],factory,2
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/FactoryPattern.java,factorypattern.FactoryPattern,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/FactoryPattern.java,factorypattern.FactoryPattern,main/1[java.lang.String[]],sf,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/FactoryPattern.java,factorypattern.FactoryPattern,main/1[java.lang.String[]],bf,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/FactoryPattern.java,factorypattern.FactoryPattern,main/1[java.lang.String[]],sa,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/FactoryPattern.java,factorypattern.FactoryPattern,main/1[java.lang.String[]],ba,1
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/BreakAuto.java,factorypattern.BreakAuto,BreakAuto/1[factorypattern.AutoFabriek],factory,2
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Auto.java,factorypattern.Auto,setCarrosserie/1[factorypattern.Carrosserie],carrosserie,2
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Auto.java,factorypattern.Auto,setMotor/1[factorypattern.Motor],motor,2
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Auto.java,factorypattern.Auto,setInterieur/1[factorypattern.Interieur],interieur,2

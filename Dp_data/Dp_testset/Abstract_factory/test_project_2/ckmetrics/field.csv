@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+./Abstract_factory/test_project_2/ckmetrics/../extentible/MontainBikeHandlebar.java,com.android.creationaldesignpatterns.abstractfactory.extentible.MontainBikeHandlebar,getDescription/0,type,1
+./Abstract_factory/test_project_2/ckmetrics/../extentible/RoadBikeHandlebar.java,com.android.creationaldesignpatterns.abstractfactory.extentible.RoadBikeHandlebar,getDescription/0,type,1
+./Abstract_factory/test_project_2/ckmetrics/../extentible/RoadBikeTire.java,com.android.creationaldesignpatterns.abstractfactory.extentible.RoadBikeTire,getDescription/0,width,1
+./Abstract_factory/test_project_2/ckmetrics/../extentible/MontainBikeTire.java,com.android.creationaldesignpatterns.abstractfactory.extentible.MontainBikeTire,getDescription/0,width,1
+./Abstract_factory/test_project_2/ckmetrics/../extentible/MontainBikeTire.java,com.android.creationaldesignpatterns.abstractfactory.extentible.MontainBikeTire,getDescription/0,pressure,1
+./Abstract_factory/test_project_2/ckmetrics/../complete/MontainBikeHandlebar.java,com.android.creationaldesignpatterns.abstractfactory.complete.MontainBikeHandlebar,getDescription/0,type,1
+./Abstract_factory/test_project_2/ckmetrics/../complete/RoadBikeHandlebar.java,com.android.creationaldesignpatterns.abstractfactory.complete.RoadBikeHandlebar,getDescription/0,type,1
+./Abstract_factory/test_project_2/ckmetrics/../complete/RoadBikeTire.java,com.android.creationaldesignpatterns.abstractfactory.complete.RoadBikeTire,getDescription/0,width,1
+./Abstract_factory/test_project_2/ckmetrics/../complete/MontainBikeTire.java,com.android.creationaldesignpatterns.abstractfactory.complete.MontainBikeTire,getDescription/0,width,1
+./Abstract_factory/test_project_2/ckmetrics/../complete/MontainBikeTire.java,com.android.creationaldesignpatterns.abstractfactory.complete.MontainBikeTire,getDescription/0,pressure,1

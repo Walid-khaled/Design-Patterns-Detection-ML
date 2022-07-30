@@ -1,0 +1,24 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex$Anonymous1,"updateItem/2[IPokemon,boolean]",name,30
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex$Anonymous1,"updateItem/2[IPokemon,boolean]",empty,2
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,comboBuild/0,comboBox,3
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,eastPane/0,eastPanel,5
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,eastPane/0,theListedPokemon,2
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,eastPane/0,scrollPane,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,eastPane/0,pokeBox,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,eastPane/0,param,0
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,start/1[pokedexApp.Stage],stage,4
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,StartScreen/0,borderPane,3
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,StartScreen/0,vox,4
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,pokemonSelector,2
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,selectedPokemon,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,err,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,alert,2
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,e,0
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,ditto,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,comboLabel,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,pokemonPrototype,3
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,westPanel,7
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokedexApp/RunPokedex.java,pokedexApp.RunPokedex,westPane/0,dittoView,3
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokemon/DittoFactory.java,pokemon.DittoFactory,getInstance/1[java.lang.String],s,1
+/root/DesignPatternsDetection/Data/Prototype/Chronocast_prototype-pattern-example/ckmetrics/../src/main/java/pokemon/DittoFactory.java,pokemon.DittoFactory,(initializer 1),i,4

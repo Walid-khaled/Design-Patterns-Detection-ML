@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],toyFactory1,2
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],cat1,1
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],cat,1
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],toyFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],bear1,1
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Test.java,Test,main/1[java.lang.String[]],bear,1

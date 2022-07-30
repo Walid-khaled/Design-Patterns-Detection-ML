@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Shape.java,shapes.Shape,Shape/1[shapes.Shape],color,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Shape.java,shapes.Shape,Shape/1[shapes.Shape],x,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Shape.java,shapes.Shape,Shape/1[shapes.Shape],y,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Shape.java,shapes.Shape,equals/1[java.lang.Object],color,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Shape.java,shapes.Shape,equals/1[java.lang.Object],x,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Shape.java,shapes.Shape,equals/1[java.lang.Object],y,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Circle.java,shapes.Circle,Circle/1[shapes.Circle],radius,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Circle.java,shapes.Circle,equals/1[java.lang.Object],radius,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Rectangle.java,shapes.Rectangle,Rectangle/1[shapes.Rectangle],width,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Rectangle.java,shapes.Rectangle,Rectangle/1[shapes.Rectangle],height,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Rectangle.java,shapes.Rectangle,equals/1[java.lang.Object],width,1
+/root/DesignPatternsDetection/Data/Prototype/Milkywayrules_prototypePattern/ckmetrics/../src/shapes/Rectangle.java,shapes.Rectangle,equals/1[java.lang.Object],height,1

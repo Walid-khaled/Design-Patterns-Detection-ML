@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,button,1
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,ae,0
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,listFactory,3
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,combo,3
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,buttonFactory,1
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,aFactory,1
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,pan,7
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,Window/0,button1,1
+/root/DesignPatternsDetection/Data/Factory/RomainEtienne_FactoryMethod/ckmetrics/../abstractfactory/Window.java,abstractfactory.Window,main/1[java.lang.String[]],args,0

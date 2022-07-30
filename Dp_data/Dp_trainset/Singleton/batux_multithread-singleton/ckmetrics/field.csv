@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/batux_multithread-singleton/ckmetrics/../com.design.pattern.singleton/src/main/java/com/design/pattern/singleton/LogManager.java,com.design.pattern.singleton.LogManager,getLogManager/0,self,4
+/root/DesignPatternsDetection/Data/Singleton/batux_multithread-singleton/ckmetrics/../com.design.pattern.singleton/src/main/java/com/design/pattern/singleton/Task.java,com.design.pattern.singleton.Task,Task/1[int],id,3
+/root/DesignPatternsDetection/Data/Singleton/batux_multithread-singleton/ckmetrics/../com.design.pattern.singleton/src/main/java/com/design/pattern/singleton/Task.java,com.design.pattern.singleton.Task,run/0,id,1

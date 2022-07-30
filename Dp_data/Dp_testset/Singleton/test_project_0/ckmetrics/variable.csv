@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Singleton/test_project_0/ckmetrics/../MyClass.java,phuongsala.designpattern.singleton.MyClass,setArg/1[java.lang.String],arg,2
+./Singleton/test_project_0/ckmetrics/../MyEnum.java,phuongsala.designpattern.singleton.MyEnum,setArg/1[java.lang.String],arg,2
+./Singleton/test_project_0/ckmetrics/../DEMO.java,phuongsala.designpattern.singleton.DEMO,main/1[java.lang.String[]],args,0
+./Singleton/test_project_0/ckmetrics/../MyClass2.java,phuongsala.designpattern.singleton.MyClass2,setArg/1[java.lang.String],arg,2

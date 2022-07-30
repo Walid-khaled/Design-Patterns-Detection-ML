@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeOpacityDecorator.java,changeOpacityDecorator,createButton/0,but,2
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeOpacityDecorator.java,changeOpacityDecorator,changeOpacityDecorator/1[IButton],button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/TextUpperCaseDecorator.java,TextUpperCaseDecorator,TextUpperCaseDecorator/1[IButton],button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/TextUpperCaseDecorator.java,TextUpperCaseDecorator,createButton/0,but,3
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,main/1[java.lang.String[]],args,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,start/1[Stage],themes,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,start/1[Stage],stage,3
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,start/1[Stage],root,3
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,start/1[Stage],comboBox,4
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,start/1[Stage],scene,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main$Anonymous1,handle/1[ActionEvent],e,0
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeSizeDecorator.java,changeSizeDecorator,changeSizeDecorator/1[IButton],button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeSizeDecorator.java,changeSizeDecorator,createButton/0,but,2
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/MarioButton.java,MarioButton,createButton/0,but,4
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/StarWarsButton.java,StarWarsButton,createButton/0,but,4

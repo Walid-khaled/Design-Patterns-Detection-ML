@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/Eskentuki_design-patterns/ckmetrics/../src/main/java/singleton/Main.java,singleton.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/Eskentuki_design-patterns/ckmetrics/../src/main/java/singleton/Main.java,singleton.Main,main/1[java.lang.String[]],third,1
+/root/DesignPatternsDetection/Data/Singleton/Eskentuki_design-patterns/ckmetrics/../src/main/java/singleton/Main.java,singleton.Main,main/1[java.lang.String[]],first,1
+/root/DesignPatternsDetection/Data/Singleton/Eskentuki_design-patterns/ckmetrics/../src/main/java/singleton/Main.java,singleton.Main,main/1[java.lang.String[]],second,1

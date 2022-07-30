@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",name,2
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",dept,2
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",sal,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,remove/1[Composite.Employee],e,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,add/1[Composite.Employee],e,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],check1,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],check2,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],headMarketing,3
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],headSales,3
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],salesExecutive1,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],salesExecutive2,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],CEO,4
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],headEmployee,2
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/CompositePatternDemo.java,Composite.CompositePatternDemo,main/1[java.lang.String[]],employee,1

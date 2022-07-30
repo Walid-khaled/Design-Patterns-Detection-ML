@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/mvalho_PrototypePattern/ckmetrics/../src/com/mvalho/study/pattern/prototype/cache/ShapeCache.java,com.mvalho.study.pattern.prototype.cache.ShapeCache,getShape/1[java.lang.String],shapeMap,1
+/root/DesignPatternsDetection/Data/Prototype/mvalho_PrototypePattern/ckmetrics/../src/com/mvalho/study/pattern/prototype/cache/ShapeCache.java,com.mvalho.study.pattern.prototype.cache.ShapeCache,loadCache/0,shapeMap,3
+/root/DesignPatternsDetection/Data/Prototype/mvalho_PrototypePattern/ckmetrics/../src/com/mvalho/study/pattern/prototype/model/Shape.java,com.mvalho.study.pattern.prototype.model.Shape,getType/0,type,1
+/root/DesignPatternsDetection/Data/Prototype/mvalho_PrototypePattern/ckmetrics/../src/com/mvalho/study/pattern/prototype/model/Shape.java,com.mvalho.study.pattern.prototype.model.Shape,setType/1[java.lang.String],type,3
+/root/DesignPatternsDetection/Data/Prototype/mvalho_PrototypePattern/ckmetrics/../src/com/mvalho/study/pattern/prototype/model/Shape.java,com.mvalho.study.pattern.prototype.model.Shape,getId/0,id,1
+/root/DesignPatternsDetection/Data/Prototype/mvalho_PrototypePattern/ckmetrics/../src/com/mvalho/study/pattern/prototype/model/Shape.java,com.mvalho.study.pattern.prototype.model.Shape,setId/1[java.lang.String],id,3

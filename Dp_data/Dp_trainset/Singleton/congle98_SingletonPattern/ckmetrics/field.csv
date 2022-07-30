@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,borrowBook/0,book,3
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,borrowBook/0,isLoanedOut,2
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,returnBook/1[Model.BookSingleton],isLoanedOut,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,BookSingleton/0,author,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,BookSingleton/0,book,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,BookSingleton/0,isLoanedOut,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,BookSingleton/0,title,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,getAuthor/0,author,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,getTitle/0,title,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookBorrower.java,Model.BookBorrower,getAuthorAndTitle/0,haveBook,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookBorrower.java,Model.BookBorrower,getAuthorAndTitle/0,borrowedBook,1
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookBorrower.java,Model.BookBorrower,returnBook/0,borrowedBook,2
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookBorrower.java,Model.BookBorrower,borrowBook/0,haveBook,2
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookBorrower.java,Model.BookBorrower,borrowBook/0,borrowedBook,2

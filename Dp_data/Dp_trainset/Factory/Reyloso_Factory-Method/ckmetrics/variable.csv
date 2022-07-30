@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../FacturaFactory.java,Metodos.FacturaFactory,getFactura/1[java.lang.String],tipo,1
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],op,3
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],q,3
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],importe2,1
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],id2,1
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],id,1
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],nueva2,4
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],nueva,4
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Main.java,Metodos.Main,main/1[java.lang.String[]],importe,1
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Factura.java,Metodos.Factura,setImporte/1[double],importe,2
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Factura.java,Metodos.Factura,setIdFactura/1[int],id_factura,2

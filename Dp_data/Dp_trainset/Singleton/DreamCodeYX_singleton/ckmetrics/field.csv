@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/badmashPattern/BadmashPattern.java,badmashPattern.BadmashPattern,getInstance/0,badmashPattern,1
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/badmashPattern/BadmashPattern.java,badmashPattern.BadmashPattern,readResolve/0,badmashPattern,1
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/lazy/LazySingleton.java,lazy.LazySingleton,getInstance/0,lazySingleton,4
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/register/ContainerSingleton.java,register.ContainerSingleton,getInstance/1[java.lang.String],ioc,4
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/register/EnumSingleton.java,register.EnumSingleton,getData/0,data,1
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/register/EnumSingleton.java,register.EnumSingleton,getInstance/0,INSTANCE,1
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/register/EnumSingleton.java,register.EnumSingleton,setData/1[java.lang.Object],data,3
+/root/DesignPatternsDetection/Data/Singleton/DreamCodeYX_singleton/ckmetrics/../src/clone/QiTianDaSheng.java,clone.QiTianDaSheng,QiTianDaSheng/0,family,1

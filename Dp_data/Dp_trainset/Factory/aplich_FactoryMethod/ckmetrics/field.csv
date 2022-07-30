@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,getParamOne/0,paramOne,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,getParamThree/0,paramThree,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,toString/0,paramThree,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,toString/0,paramOne,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,toString/0,paramTwo,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,"Unit/3[java.lang.String,java.lang.String,java.lang.String]",paramThree,3
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,"Unit/3[java.lang.String,java.lang.String,java.lang.String]",paramOne,3
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,"Unit/3[java.lang.String,java.lang.String,java.lang.String]",paramTwo,3
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,getParamTwo/0,paramTwo,1

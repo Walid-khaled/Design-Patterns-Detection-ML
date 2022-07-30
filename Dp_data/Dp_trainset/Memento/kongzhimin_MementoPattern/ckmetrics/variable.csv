@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Caretaker.java,Caretaker,setMemento/1[Memento],memento,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],c,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],user,10
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/UserInfoDTO.java,UserInfoDTO,setPassword/1[java.lang.String],password,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/UserInfoDTO.java,UserInfoDTO,setAccount/1[java.lang.String],account,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/UserInfoDTO.java,UserInfoDTO,restoreMemento/1[Memento],memento,3
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/UserInfoDTO.java,UserInfoDTO,setTelNo/1[java.lang.String],telNo,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Memento.java,Memento,setAccount/1[java.lang.String],account,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Memento.java,Memento,setTelNo/1[java.lang.String],telNo,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Memento.java,Memento,setPassword/1[java.lang.String],password,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Memento.java,Memento,"Memento/3[java.lang.String,java.lang.String,java.lang.String]",password,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Memento.java,Memento,"Memento/3[java.lang.String,java.lang.String,java.lang.String]",account,2
+/root/DesignPatternsDetection/Data/Memento/kongzhimin_MementoPattern/ckmetrics/../src/Memento.java,Memento,"Memento/3[java.lang.String,java.lang.String,java.lang.String]",telNo,2

@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/PieceFactory.java,PieceFactory,GetPiece/1[java.lang.String],p,2
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/PieceFactory.java,PieceFactory,GetPiece/1[java.lang.String],key,4
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],p,3
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],i,2
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],j,2
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],rm,3
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],pFactory,3
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/OnePiece.java,OnePiece,OnePiece/1[java.lang.String],inKind,1
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/OnePiece.java,OnePiece,"Play/2[int,int]",x,1
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/OnePiece.java,OnePiece,"Play/2[int,int]",y,1
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Apiece.java,Apiece,Apiece/1[java.lang.String],inKind,2
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Apiece.java,Apiece,"Play/2[int,int]",x,0
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Apiece.java,Apiece,"Play/2[int,int]",y,0

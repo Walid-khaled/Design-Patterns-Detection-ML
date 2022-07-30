@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Adapter/test_project_4/ckmetrics/../Duck.java,com.codevillain679.structural.adapter.Duck,Duck/1[java.lang.String],name,2
+./Adapter/test_project_4/ckmetrics/../DuckAdapter.java,com.codevillain679.structural.adapter.DuckAdapter,DuckAdapter/1[com.codevillain679.structural.adapter.Duck],duck,2
+./Adapter/test_project_4/ckmetrics/../Horse.java,com.codevillain679.structural.adapter.Horse,Horse/1[java.lang.String],name,2
+./Adapter/test_project_4/ckmetrics/../AdapterPattern.java,com.codevillain679.structural.adapter.AdapterPattern,AdapterPattern/0,henry,4
+./Adapter/test_project_4/ckmetrics/../AdapterPattern.java,com.codevillain679.structural.adapter.AdapterPattern,AdapterPattern/0,donald,5
+./Adapter/test_project_4/ckmetrics/../AdapterPattern.java,com.codevillain679.structural.adapter.AdapterPattern,AdapterPattern/0,donaldAdapter,4

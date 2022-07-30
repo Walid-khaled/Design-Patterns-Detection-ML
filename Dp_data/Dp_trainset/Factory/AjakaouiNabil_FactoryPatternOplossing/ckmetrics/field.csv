@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/SedanAuto.java,factorypattern.SedanAuto,SedanAuto/1[factorypattern.AutoFabriek],factory,3
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/SedanAuto.java,factorypattern.SedanAuto,maakAuto/0,factory,3
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/BreakAuto.java,factorypattern.BreakAuto,maakAuto/0,factory,3
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/BreakAuto.java,factorypattern.BreakAuto,BreakAuto/1[factorypattern.AutoFabriek],factory,3
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Auto.java,factorypattern.Auto,setCarrosserie/1[factorypattern.Carrosserie],carrosserie,4
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Auto.java,factorypattern.Auto,setMotor/1[factorypattern.Motor],motor,4
+/root/DesignPatternsDetection/Data/Factory/AjakaouiNabil_FactoryPatternOplossing/ckmetrics/../src/factorypattern/Auto.java,factorypattern.Auto,setInterieur/1[factorypattern.Interieur],interieur,4

@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,getRAM/0,RAM,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,toString/0,HDD,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,toString/0,isBluetoothEnabled,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,toString/0,RAM,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,getHDD/0,HDD,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,Computer/1[Computer.ComputerBulider],isGraphicsCardEnabled,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,Computer/1[Computer.ComputerBulider],HDD,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,Computer/1[Computer.ComputerBulider],isBluetoothEnabled,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,Computer/1[Computer.ComputerBulider],RAM,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,getisBluetoothEnabled/0,isBluetoothEnabled,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer,getisGraphicsCardEnabled/0,isGraphicsCardEnabled,1
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer$ComputerBulider,setGraphicsCardEnabled/1[java.lang.Boolean],isGraphicsCardEnabled,3
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer$ComputerBulider,setBluetoothEnabled/1[java.lang.Boolean],isBluetoothEnabled,3
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer$ComputerBulider,"ComputerBulider/2[java.lang.String,java.lang.String]",HDD,3
+/root/DesignPatternsDetection/Data/Builder/Design-pattrns_Builder-Pattern/ckmetrics/../src/Computer.java,Computer$ComputerBulider,"ComputerBulider/2[java.lang.String,java.lang.String]",RAM,3

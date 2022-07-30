@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Facade/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.facade.DEMO,main/1[java.lang.String[]],args,0
+./Facade/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.facade.DEMO,main/1[java.lang.String[]],cakeMaker,3

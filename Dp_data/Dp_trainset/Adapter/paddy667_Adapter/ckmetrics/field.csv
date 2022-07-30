@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/XYZCamera.java,adapterExamplePack.XYZCamera,getSensorSize/0,megalpixels,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/XYZCamera.java,adapterExamplePack.XYZCamera,toString/0,megalpixels,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/XYZCamera.java,adapterExamplePack.XYZCamera,XYZCamera/1[double],megalpixels,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/AbstractCamera.java,adapterExamplePack.AbstractCamera,"AbstractCamera/2[double,boolean]",motorised,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/AbstractCamera.java,adapterExamplePack.AbstractCamera,"AbstractCamera/2[double,boolean]",megapixels,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/AbstractCamera.java,adapterExamplePack.AbstractCamera,getMegaPixels/0,megapixels,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/AbstractCamera.java,adapterExamplePack.AbstractCamera,toString/0,megapixels,1
+/root/DesignPatternsDetection/Data/Adapter/paddy667_Adapter/ckmetrics/../src/adapterExamplePack/AbstractCamera.java,adapterExamplePack.AbstractCamera,motorised/0,motorised,2

@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,Singleton/1[java.lang.String],value,3
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,getInstance/0,ourInstance,1
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,getInstance/1[java.lang.String],instance,4
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,getInstance/1[java.lang.String],value,2

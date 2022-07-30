@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,setSuggar/1[java.lang.String],suggar,2
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,"MakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",coffeType,2
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,"MakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",conffeIntefrace,2
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,"MakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",suggar,2
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,setCoffeType/1[bridge.CoffeType],coffeType,2
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/Bridge.java,bridge.Bridge,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/Bridge.java,bridge.Bridge,main/1[java.lang.String[]],makeCoffe,5
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/Bridge.java,bridge.Bridge,main/1[java.lang.String[]],choice,1
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/ImplementMakeCoffe.java,bridge.ImplementMakeCoffe,"ImplementMakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",coffeType,1
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/ImplementMakeCoffe.java,bridge.ImplementMakeCoffe,"ImplementMakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",conffeIntefrace,1
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/ImplementMakeCoffe.java,bridge.ImplementMakeCoffe,"ImplementMakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",suggar,1

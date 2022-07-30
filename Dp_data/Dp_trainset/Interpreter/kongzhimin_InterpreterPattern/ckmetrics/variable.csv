@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,getMarriedWomanExpression/0,julie,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,getMarriedWomanExpression/0,married,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],isMale,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],isMarriedWomen,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,getMaleExpression/0,robert,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Client.java,Client,getMaleExpression/0,john,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/TerminalExpression.java,TerminalExpression,TerminalExpression/1[java.lang.String],data,2
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/TerminalExpression.java,TerminalExpression,interpret/1[java.lang.String],context,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/Expression.java,Expression,interpret/1[java.lang.String],context,0
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,interpret/1[java.lang.String],context,2
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,"OrExpression/2[Expression,Expression]",expr2,2
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,"OrExpression/2[Expression,Expression]",expr1,2
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,"AndExpression/2[Expression,Expression]",expr2,2
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,"AndExpression/2[Expression,Expression]",expr1,2
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,interpret/1[java.lang.String],context,2

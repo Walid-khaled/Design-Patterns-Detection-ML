@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/AjakaouiNabil_SingeltonPattern/ckmetrics/../src/singeltonpattern/Counter.java,singeltonpattern.Counter,Counter/0,teller,1
+/root/DesignPatternsDetection/Data/Singleton/AjakaouiNabil_SingeltonPattern/ckmetrics/../src/singeltonpattern/Counter.java,singeltonpattern.Counter,getInstance/0,instance,4
+/root/DesignPatternsDetection/Data/Singleton/AjakaouiNabil_SingeltonPattern/ckmetrics/../src/singeltonpattern/Counter.java,singeltonpattern.Counter,getInstance/0,teller,1
+/root/DesignPatternsDetection/Data/Singleton/AjakaouiNabil_SingeltonPattern/ckmetrics/../src/singeltonpattern/Counter.java,singeltonpattern.Counter,getTeller/0,teller,1

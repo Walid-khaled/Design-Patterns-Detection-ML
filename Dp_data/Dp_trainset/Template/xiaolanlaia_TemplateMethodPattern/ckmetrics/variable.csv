@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/androidTest/java/com/example/templatemethodpattern/ExampleInstrumentedTest.java,com.example.templatemethodpattern.ExampleInstrumentedTest,useAppContext/0,appContext,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/MainActivity.java,com.example.templatemethodpattern.MainActivity,onCreate/1[com.example.templatemethodpattern.Bundle],savedInstanceState,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/MainActivity.java,com.example.templatemethodpattern.MainActivity,onCreate/1[com.example.templatemethodpattern.Bundle],computer,3

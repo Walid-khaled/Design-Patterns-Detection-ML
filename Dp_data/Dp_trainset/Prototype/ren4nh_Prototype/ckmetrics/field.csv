@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/CarroPrototype.java,prototype.CarroPrototype,getValorCompra/0,valorCompra,1
+/root/DesignPatternsDetection/Data/Prototype/ren4nh_Prototype/ckmetrics/../src/prototype/CarroPrototype.java,prototype.CarroPrototype,setValorCompra/1[double],valorCompra,3

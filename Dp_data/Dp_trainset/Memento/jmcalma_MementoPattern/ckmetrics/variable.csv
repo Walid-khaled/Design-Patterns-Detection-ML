@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Caretaker.java,edu.cpp.cs356.memento.Caretaker,addMemento/1[edu.cpp.cs356.memento.Memento],m,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Caretaker.java,edu.cpp.cs356.memento.Caretaker,getMemento/1[int],index,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Originator.java,edu.cpp.cs356.memento.Originator,set/1[java.lang.String],newArticle,2
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Originator.java,edu.cpp.cs356.memento.Originator,restoreFromMemento/1[edu.cpp.cs356.memento.Memento],memento,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento$ButtonListener,actionPerformed/1[java.awt.event.ActionEvent],textBoxString,3
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento$ButtonListener,actionPerformed/1[java.awt.event.ActionEvent],textInTextArea,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento$ButtonListener,actionPerformed/1[java.awt.event.ActionEvent],e,3
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,undoListener,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,panel1,6
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,saveListener,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,redoListener,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Memento.java,edu.cpp.cs356.memento.Memento,Memento/1[java.lang.String],articleSave,1

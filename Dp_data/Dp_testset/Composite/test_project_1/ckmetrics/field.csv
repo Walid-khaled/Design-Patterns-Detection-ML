@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/Noodle.java,net.dskim.desingpattern.composite.Noodle,getPrice/0,price,2
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/Noodle.java,net.dskim.desingpattern.composite.Noodle,Noodle/1[int],price,3
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/SetMenu.java,net.dskim.desingpattern.composite.SetMenu,addMenu/1[net.dskim.desingpattern.composite.Menu],menus,1
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/SetMenu.java,net.dskim.desingpattern.composite.SetMenu,getPrice/0,menus,1
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/SetMenu.java,net.dskim.desingpattern.composite.SetMenu,SetMenu/0,menus,1
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/Rice.java,net.dskim.desingpattern.composite.Rice,getPrice/0,price,2
+./Composite/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/composite/Rice.java,net.dskim.desingpattern.composite.Rice,Rice/1[int],price,3

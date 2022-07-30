@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,setState/1[io.innofang.state.example.GameState],state,2
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,main/1[java.lang.String[]],args,0
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,main/1[java.lang.String[]],player,9
+./State/test_project_2/ckmetrics/../base/Context.java,io.innofang.state.base.Context,setState/1[io.innofang.state.base.State],state,2
+./State/test_project_2/ckmetrics/../base/Context.java,io.innofang.state.base.Context,main/1[java.lang.String[]],args,0
+./State/test_project_2/ckmetrics/../base/Context.java,io.innofang.state.base.Context,main/1[java.lang.String[]],context,4

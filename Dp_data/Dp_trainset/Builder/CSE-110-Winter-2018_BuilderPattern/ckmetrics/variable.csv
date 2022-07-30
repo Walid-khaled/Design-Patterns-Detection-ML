@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/BuilderTest.java,BuilderTest,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/BuilderTest.java,BuilderTest,main/1[java.lang.String[]],car1,0
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/BuilderTest.java,BuilderTest,main/1[java.lang.String[]],hotwheelsBuilder,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/BuilderTest.java,BuilderTest,main/1[java.lang.String[]],toyCarEngineer,2
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCar.java,ToyCar,setWheels/1[java.lang.String],wheelType,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCar.java,ToyCar,setEngine/1[java.lang.String],engineType,1
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCarBluePrints.java,ToyCarBluePrints,setEngine/1[java.lang.String],engineType,0
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCarBluePrints.java,ToyCarBluePrints,setWheels/1[java.lang.String],wheelType,0
+/root/DesignPatternsDetection/Data/Builder/CSE-110-Winter-2018_BuilderPattern/ckmetrics/../src/ToyCarEngineer.java,ToyCarEngineer,ToyCarEngineer/1[ToyCarBuilder],customToyCarBuilder,1

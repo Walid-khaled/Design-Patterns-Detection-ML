@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+./Adapter/test_project_4/ckmetrics/../Duck.java,com.codevillain679.structural.adapter.Duck,splash/0,name,1
+./Adapter/test_project_4/ckmetrics/../Duck.java,com.codevillain679.structural.adapter.Duck,swim/0,name,1
+./Adapter/test_project_4/ckmetrics/../Duck.java,com.codevillain679.structural.adapter.Duck,dobber/0,name,1
+./Adapter/test_project_4/ckmetrics/../Duck.java,com.codevillain679.structural.adapter.Duck,Duck/1[java.lang.String],name,3
+./Adapter/test_project_4/ckmetrics/../Duck.java,com.codevillain679.structural.adapter.Duck,slobber/0,name,1
+./Adapter/test_project_4/ckmetrics/../DuckAdapter.java,com.codevillain679.structural.adapter.DuckAdapter,move/0,duck,1
+./Adapter/test_project_4/ckmetrics/../DuckAdapter.java,com.codevillain679.structural.adapter.DuckAdapter,play/0,duck,1
+./Adapter/test_project_4/ckmetrics/../DuckAdapter.java,com.codevillain679.structural.adapter.DuckAdapter,sleep/0,duck,1
+./Adapter/test_project_4/ckmetrics/../DuckAdapter.java,com.codevillain679.structural.adapter.DuckAdapter,DuckAdapter/1[com.codevillain679.structural.adapter.Duck],duck,3
+./Adapter/test_project_4/ckmetrics/../DuckAdapter.java,com.codevillain679.structural.adapter.DuckAdapter,eat/0,duck,1
+./Adapter/test_project_4/ckmetrics/../Horse.java,com.codevillain679.structural.adapter.Horse,move/0,name,1
+./Adapter/test_project_4/ckmetrics/../Horse.java,com.codevillain679.structural.adapter.Horse,play/0,name,1
+./Adapter/test_project_4/ckmetrics/../Horse.java,com.codevillain679.structural.adapter.Horse,sleep/0,name,1
+./Adapter/test_project_4/ckmetrics/../Horse.java,com.codevillain679.structural.adapter.Horse,Horse/1[java.lang.String],name,3
+./Adapter/test_project_4/ckmetrics/../Horse.java,com.codevillain679.structural.adapter.Horse,eat/0,name,1

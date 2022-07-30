@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Mediator/devenfr_Mediator/ckmetrics/../src/main/java/com/mydomain/designpatterns/mediator/ConcreteMediator.java,com.mydomain.designpatterns.mediator.ConcreteMediator,"send/2[java.lang.String,com.mydomain.designpatterns.mediator.Colleague]",colleagues,1
+/root/DesignPatternsDetection/Data/Mediator/devenfr_Mediator/ckmetrics/../src/main/java/com/mydomain/designpatterns/mediator/ConcreteMediator.java,com.mydomain.designpatterns.mediator.ConcreteMediator,ConcreteMediator/0,colleagues,1
+/root/DesignPatternsDetection/Data/Mediator/devenfr_Mediator/ckmetrics/../src/main/java/com/mydomain/designpatterns/mediator/ConcreteMediator.java,com.mydomain.designpatterns.mediator.ConcreteMediator,addColleague/1[com.mydomain.designpatterns.mediator.Colleague],colleagues,1
+/root/DesignPatternsDetection/Data/Mediator/devenfr_Mediator/ckmetrics/../src/main/java/com/mydomain/designpatterns/mediator/Colleague.java,com.mydomain.designpatterns.mediator.Colleague,Colleague/1[com.mydomain.designpatterns.mediator.Mediator],mediator,1
+/root/DesignPatternsDetection/Data/Mediator/devenfr_Mediator/ckmetrics/../src/main/java/com/mydomain/designpatterns/mediator/Colleague.java,com.mydomain.designpatterns.mediator.Colleague,getMediator/0,mediator,1
+/root/DesignPatternsDetection/Data/Mediator/devenfr_Mediator/ckmetrics/../src/main/java/com/mydomain/designpatterns/mediator/Colleague.java,com.mydomain.designpatterns.mediator.Colleague,send/1[java.lang.String],mediator,1

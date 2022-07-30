@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Main.java,iteratorimpl.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Main.java,iteratorimpl.Main,main/1[java.lang.String[]],itr,2
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Main.java,iteratorimpl.Main,main/1[java.lang.String[]],students,1
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Main.java,iteratorimpl.Main,main/1[java.lang.String[]],main,0

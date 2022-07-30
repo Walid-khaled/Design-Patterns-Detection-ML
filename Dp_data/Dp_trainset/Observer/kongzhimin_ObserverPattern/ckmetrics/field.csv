@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/SubjectS.java,SubjectS,Add/1[Observer0],observers,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/SubjectS.java,SubjectS,Remove/1[Observer0],observers,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/SubjectS.java,SubjectS,SubjectS/0,observers,1

@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/ShapeFactory.java,ShapeFactory,getShape/1[java.lang.String],sh,4
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/FactoryProducer.java,FactoryProducer,getFactory/1[java.lang.String],factory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/ColorFactory.java,ColorFactory,getColor/1[java.lang.String],col,4

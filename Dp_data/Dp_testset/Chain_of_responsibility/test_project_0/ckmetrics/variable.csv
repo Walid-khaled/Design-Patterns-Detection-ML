@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+./Chain_of_responsibility/test_project_0/ckmetrics/../Handler.java,com.hundredwordsgof.chainofresponsibility.Handler,setSuccesor/1[com.hundredwordsgof.chainofresponsibility.Handler],succesor,2

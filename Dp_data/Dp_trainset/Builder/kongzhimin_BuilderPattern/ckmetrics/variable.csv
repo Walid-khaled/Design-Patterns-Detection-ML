@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,n1,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,classNode,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,c,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,e,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,cName,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,obj,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,builder,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,doc,2
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,dFactory,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],meal,2
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],mb,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],waiter,2
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,setFood/1[java.lang.String],food,2
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,setDrink/1[java.lang.String],drink,2
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/KFCWaiter.java,KFCWaiter,setMealBuilder/1[MealBuilder],mb,2

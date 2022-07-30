@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/Elf/ElfFactory.java,com.hscanales.Elf.ElfFactory,orcReator/1[java.lang.String],type,0
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/Elf/ElfFactory.java,com.hscanales.Elf.ElfFactory,elfCreator/1[java.lang.String],type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/FactoryProducer.java,com.hscanales.FactoryProducer,getFactory/1[java.lang.String],type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/AbstractInterface.java,com.hscanales.AbstractInterface,elfCreator/1[java.lang.String],type,0
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/AbstractInterface.java,com.hscanales.AbstractInterface,orcReator/1[java.lang.String],type,0
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/AbstractFactory.java,com.hscanales.AbstractFactory,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/AbstractFactory.java,com.hscanales.AbstractFactory,main/1[java.lang.String[]],factory,4
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/AbstractFactory.java,com.hscanales.AbstractFactory,main/1[java.lang.String[]],orco,1
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/AbstractFactory.java,com.hscanales.AbstractFactory,main/1[java.lang.String[]],elfo,1
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/Orc/OrcFactory.java,com.hscanales.Orc.OrcFactory,orcReator/1[java.lang.String],type,1
+/root/DesignPatternsDetection/Data/Abstract_factory/hscanales_Abstract-Factory/ckmetrics/../src/com/hscanales/Orc/OrcFactory.java,com.hscanales.Orc.OrcFactory,elfCreator/1[java.lang.String],type,0

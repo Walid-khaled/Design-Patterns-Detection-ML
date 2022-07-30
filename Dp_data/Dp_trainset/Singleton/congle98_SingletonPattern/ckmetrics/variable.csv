@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/View/Test.java,View.Test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/View/Test.java,View.Test,main/1[java.lang.String[]],bookBorrower1,4
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/View/Test.java,View.Test,main/1[java.lang.String[]],bookBorrower2,3
+/root/DesignPatternsDetection/Data/Singleton/congle98_SingletonPattern/ckmetrics/../src/Model/BookSingleton.java,Model.BookSingleton,returnBook/1[Model.BookSingleton],bookReturned,0

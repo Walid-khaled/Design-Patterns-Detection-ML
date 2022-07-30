@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/Neytllas_Pattern/ckmetrics/../src/pattern/Notifier.java,pattern.Notifier,setNextNotifier/1[pattern.Notifier],nextNotifier,3
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/Neytllas_Pattern/ckmetrics/../src/pattern/Notifier.java,pattern.Notifier,Notifier/1[int],priority,3
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/Neytllas_Pattern/ckmetrics/../src/pattern/Notifier.java,pattern.Notifier,"notifyManager/2[java.lang.String,int]",nextNotifier,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/Neytllas_Pattern/ckmetrics/../src/pattern/Notifier.java,pattern.Notifier,"notifyManager/2[java.lang.String,int]",priority,1

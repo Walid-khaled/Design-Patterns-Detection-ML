@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/euygor_Adapter/ckmetrics/../src/adapter/Main.java,adapter.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Adapter/euygor_Adapter/ckmetrics/../src/adapter/Main.java,adapter.Main,main/1[java.lang.String[]],pagamentoAdapter,1
+/root/DesignPatternsDetection/Data/Adapter/euygor_Adapter/ckmetrics/../src/adapter/Main.java,adapter.Main,main/1[java.lang.String[]],boleto,2
+/root/DesignPatternsDetection/Data/Adapter/euygor_Adapter/ckmetrics/../src/adapter/PagamentoAdapter.java,adapter.PagamentoAdapter,PagamentoAdapter/1[adapter.Pagamento],cartaoDebito,2

@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Bridge/xiaolanlaia_BridgePattern/ckmetrics/../app/src/main/java/com/example/bridgepattern/ProgressBar.java,com.example.bridgepattern.ProgressBar,"ProgressBar/3[com.example.bridgepattern.Context,com.example.bridgepattern.AttributeSet,int]",style,3
+/root/DesignPatternsDetection/Data/Bridge/xiaolanlaia_BridgePattern/ckmetrics/../app/src/main/java/com/example/bridgepattern/ProgressBar.java,com.example.bridgepattern.ProgressBar,"ProgressBar/3[com.example.bridgepattern.Context,com.example.bridgepattern.AttributeSet,int]",mBaseProgressBar,3
+/root/DesignPatternsDetection/Data/Bridge/xiaolanlaia_BridgePattern/ckmetrics/../app/src/main/java/com/example/bridgepattern/ProgressBar.java,com.example.bridgepattern.ProgressBar,onDraw/1[com.example.bridgepattern.Canvas],mBaseProgressBar,1
+/root/DesignPatternsDetection/Data/Bridge/xiaolanlaia_BridgePattern/ckmetrics/../app/src/main/java/com/example/bridgepattern/ProgressBar.java,com.example.bridgepattern.ProgressBar,"measureDimension/2[int,int]",style,1
+/root/DesignPatternsDetection/Data/Bridge/xiaolanlaia_BridgePattern/ckmetrics/../app/src/main/java/com/example/bridgepattern/ProgressBar.java,com.example.bridgepattern.ProgressBar,"measureDimension/2[int,int]",mBaseProgressBar,3
+/root/DesignPatternsDetection/Data/Bridge/xiaolanlaia_BridgePattern/ckmetrics/../app/src/main/java/com/example/bridgepattern/BaseProgressBar.java,com.example.bridgepattern.BaseProgressBar,BaseProgressBar/0,mPaint,1

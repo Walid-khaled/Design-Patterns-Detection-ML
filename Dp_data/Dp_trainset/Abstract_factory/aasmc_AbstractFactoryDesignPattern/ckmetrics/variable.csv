@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/AuctionSiteProject.java,com.ru.alex.aasmc.AuctionSiteProject,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/AuctionSiteProject.java,com.ru.alex.aasmc.AuctionSiteProject,main/1[java.lang.String[]],projectManager,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/AuctionSiteProject.java,com.ru.alex.aasmc.AuctionSiteProject,main/1[java.lang.String[]],tester,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/AuctionSiteProject.java,com.ru.alex.aasmc.AuctionSiteProject,main/1[java.lang.String[]],developer,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/AuctionSiteProject.java,com.ru.alex.aasmc.AuctionSiteProject,main/1[java.lang.String[]],websiteTeamFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/SuperBankSystem.java,com.ru.alex.aasmc.SuperBankSystem,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/SuperBankSystem.java,com.ru.alex.aasmc.SuperBankSystem,main/1[java.lang.String[]],projectManager,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/SuperBankSystem.java,com.ru.alex.aasmc.SuperBankSystem,main/1[java.lang.String[]],tester,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/SuperBankSystem.java,com.ru.alex.aasmc.SuperBankSystem,main/1[java.lang.String[]],developer,1
+/root/DesignPatternsDetection/Data/Abstract_factory/aasmc_AbstractFactoryDesignPattern/ckmetrics/../src/com/ru/alex/aasmc/SuperBankSystem.java,com.ru.alex.aasmc.SuperBankSystem,main/1[java.lang.String[]],bankingTeamFactory,3

@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapter.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapter,LightningToMicroUsbAdapter/1[net.dskim.desingpattern.adapter.LightningPhone],lightningPhone,2
+./Adapter/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapterTest.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapterTest,lightningToMicroUsbAdapterTest/0,iPhone,1
+./Adapter/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapterTest.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapterTest,lightningToMicroUsbAdapterTest/0,iphoneWithMicroUsbRechargeResult,2
+./Adapter/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapterTest.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapterTest,lightningToMicroUsbAdapterTest/0,android,1
+./Adapter/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapterTest.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapterTest,lightningToMicroUsbAdapterTest/0,androidRechargeResult,2
+./Adapter/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapterTest.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapterTest,rechargeMicroUsbPhone/1[net.dskim.desingpattern.adapter.MicroUsbPhone],microUsbPhone,2

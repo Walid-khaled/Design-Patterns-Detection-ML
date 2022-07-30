@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Singleton/test_project_1/ckmetrics/../concurrencycontrolling/Printer.java,com.android.creationaldesignpatterns.singleton.concurrencycontrolling.Printer,getInstance/0,printer,4
+./Singleton/test_project_1/ckmetrics/../concurrencycontrolling/Printer.java,com.android.creationaldesignpatterns.singleton.concurrencycontrolling.Printer,getInstance/0,initialized,2
+./Singleton/test_project_1/ckmetrics/../simple/Printer.java,com.android.creationaldesignpatterns.singleton.simple.Printer,getInstance/0,printer,4
+./Singleton/test_project_1/ckmetrics/../simple/Printer.java,com.android.creationaldesignpatterns.singleton.simple.Printer,getInstance/0,initialized,2

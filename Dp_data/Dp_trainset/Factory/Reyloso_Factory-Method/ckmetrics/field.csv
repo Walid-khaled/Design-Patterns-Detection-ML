@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Factura.java,Metodos.Factura,getIdFactura/0,id_factura,1
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Factura.java,Metodos.Factura,setImporte/1[double],importe,3
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Factura.java,Metodos.Factura,setIdFactura/1[int],id_factura,3
+/root/DesignPatternsDetection/Data/Factory/Reyloso_Factory-Method/ckmetrics/../Factura.java,Metodos.Factura,getImporte/0,importe,1

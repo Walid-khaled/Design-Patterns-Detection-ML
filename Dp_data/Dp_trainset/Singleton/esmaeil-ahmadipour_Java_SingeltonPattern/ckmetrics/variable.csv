@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/esmaeil-ahmadipour_Java_SingeltonPattern/ckmetrics/../app/src/androidTest/java/ir/sample/designpattern/ExampleInstrumentedTest.java,ir.sample.designpattern.ExampleInstrumentedTest,useAppContext/0,appContext,1
+/root/DesignPatternsDetection/Data/Singleton/esmaeil-ahmadipour_Java_SingeltonPattern/ckmetrics/../app/src/main/java/ir/sample/designpattern/Main.java,ir.sample.designpattern.Main,main/1[java.lang.String[]],args,0

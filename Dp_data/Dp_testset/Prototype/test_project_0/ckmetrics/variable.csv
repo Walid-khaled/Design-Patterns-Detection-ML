@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Prototype/test_project_0/ckmetrics/../Rectangle.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Rectangle,"Rectangle/2[int,int]",width,1
+./Prototype/test_project_0/ckmetrics/../Rectangle.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Rectangle,"Rectangle/2[int,int]",height,1
+./Prototype/test_project_0/ckmetrics/../Example1.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Example1,main/1[java.lang.String[]],args,0
+./Prototype/test_project_0/ckmetrics/../Example1.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Example1,main/1[java.lang.String[]],square,3
+./Prototype/test_project_0/ckmetrics/../Example1.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Example1,main/1[java.lang.String[]],squareClone,2
+./Prototype/test_project_0/ckmetrics/../Shape.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Shape,"Shape/2[int,int]",width,2
+./Prototype/test_project_0/ckmetrics/../Shape.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Shape,"Shape/2[int,int]",height,2
+./Prototype/test_project_0/ckmetrics/../Square.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Square,"Square/2[int,int]",width,1
+./Prototype/test_project_0/ckmetrics/../Square.java,DesignPatterns.Chapter02_Creational_Design_Patterns.P4_Prototype_Pattern.Example1.Square,"Square/2[int,int]",height,1

@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Strategy/test_project_0/ckmetrics/../example/java/Wang.java,io.innofang.strategy.example.java.Wang,take/0,goToStrategy,1
+./Strategy/test_project_0/ckmetrics/../example/java/Wang.java,io.innofang.strategy.example.java.Wang,setGoToStrategy/1[io.innofang.strategy.example.java.GoToStrategy],goToStrategy,3
+./Strategy/test_project_0/ckmetrics/../base/Context.java,io.innofang.strategy.base.Context,setStrategy/1[io.innofang.strategy.base.Strategy],strategy,3
+./Strategy/test_project_0/ckmetrics/../base/Context.java,io.innofang.strategy.base.Context,doSomething/0,strategy,1

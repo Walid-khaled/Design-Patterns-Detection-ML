@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Students.java,iteratorimpl.Students,Students/0,students,5
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Students.java,iteratorimpl.Students$StudentsIterator,next/0,position,1
+/root/DesignPatternsDetection/Data/Iterator/miskohut_Iterator/ckmetrics/../src/iteratorimpl/Students.java,iteratorimpl.Students$StudentsIterator,hasNext/0,position,1

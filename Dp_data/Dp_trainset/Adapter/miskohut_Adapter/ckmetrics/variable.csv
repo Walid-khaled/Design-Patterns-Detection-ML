@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Main.java,adapterimpl.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Main.java,adapterimpl.Main,main/1[java.lang.String[]],myself,1
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Main.java,adapterimpl.Main,main/1[java.lang.String[]],stone,1
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Person.java,adapterimpl.Person,"Person/2[java.lang.String,int]",name,2
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Person.java,adapterimpl.Person,"Person/2[java.lang.String,int]",age,2
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Stone.java,adapterimpl.Stone,"Stone/2[java.lang.String,int]",weight,2
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/Stone.java,adapterimpl.Stone,"Stone/2[java.lang.String,int]",type,2
+/root/DesignPatternsDetection/Data/Adapter/miskohut_Adapter/ckmetrics/../src/adapterimpl/StoneAdapter.java,adapterimpl.StoneAdapter,StoneAdapter/1[adapterimpl.Stone],stone,2

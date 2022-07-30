@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/java9s_singleton-pattern-java/ckmetrics/../src/com/java9s/tutorials/designpattern/singleton/Satellite.java,com.java9s.tutorials.designpattern.singleton.Satellite,getLazySatellite/0,_instance,3

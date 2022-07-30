@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/AudioPlayer.java,AudioPlayer,"play/2[java.lang.String,java.lang.String]",fileName,2
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/AudioPlayer.java,AudioPlayer,"play/2[java.lang.String,java.lang.String]",audioType,5
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/Mp4Player.java,Mp4Player,playVlc/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/Mp4Player.java,Mp4Player,playMp4/1[java.lang.String],fileName,1
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaAdapter.java,MediaAdapter,"play/2[java.lang.String,java.lang.String]",fileName,2
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaAdapter.java,MediaAdapter,"play/2[java.lang.String,java.lang.String]",audioType,2
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaAdapter.java,MediaAdapter,MediaAdapter/1[java.lang.String],mediaType,2
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaPlayer.java,MediaPlayer,"play/2[java.lang.String,java.lang.String]",fileName,0
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaPlayer.java,MediaPlayer,"play/2[java.lang.String,java.lang.String]",audioType,0
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],audioPlayer,4
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],arg,0
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/AdvancedMediaPlayer.java,AdvancedMediaPlayer,playMp4/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/AdvancedMediaPlayer.java,AdvancedMediaPlayer,playVlc/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/VlcPlayer.java,VlcPlayer,playVlc/1[java.lang.String],fileName,1
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/VlcPlayer.java,VlcPlayer,playMp4/1[java.lang.String],fileName,0

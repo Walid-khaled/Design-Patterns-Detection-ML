@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayContainer.java,net.dskim.desingpattern.iterator.ArrayContainer,ArrayContainer/1[java.lang.Object[]],array,2
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ReverseArrayIterator.java,net.dskim.desingpattern.iterator.ReverseArrayIterator,ReverseArrayIterator/1[java.lang.Object[]],originalArray,3
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ReverseArrayIterator.java,net.dskim.desingpattern.iterator.ReverseArrayIterator,ReverseArrayIterator/1[java.lang.Object[]],reverseArrayIndex,4
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayIterator.java,net.dskim.desingpattern.iterator.ArrayIterator,ArrayIterator/1[java.lang.Object[]],array,2
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,listIteratorTest/0,names,7
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,listIteratorTest/0,i,1
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,listIteratorTest/0,namesIterator,2
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,arrayIteratorTest/0,names,4
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,arrayIteratorTest/0,arrayContainer,2
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,arrayIteratorTest/0,reverseArrayIterator,2
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,arrayIteratorTest/0,i,3
+./Iterator/test_project_1/ckmetrics/../src/test/java/net/dskim/desingpattern/iterator/IteratorTest.java,net.dskim.desingpattern.iterator.IteratorTest,arrayIteratorTest/0,arrayIterator,2

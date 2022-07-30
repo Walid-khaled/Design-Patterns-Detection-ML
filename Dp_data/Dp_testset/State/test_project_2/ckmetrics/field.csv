@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,gainExperience/0,state,1
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,setState/1[io.innofang.state.example.GameState],state,3
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,pick/0,state,1
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,killMonster/0,state,1
+./State/test_project_2/ckmetrics/../example/Player.java,io.innofang.state.example.Player,next/0,state,1
+./State/test_project_2/ckmetrics/../base/Context.java,io.innofang.state.base.Context,setState/1[io.innofang.state.base.State],state,3
+./State/test_project_2/ckmetrics/../base/Context.java,io.innofang.state.base.Context,request/0,state,1

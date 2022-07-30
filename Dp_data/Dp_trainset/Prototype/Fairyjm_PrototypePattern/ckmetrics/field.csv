@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setPersonInfo/3[java.lang.String,java.lang.String,java.lang.String]",birthday,4
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setPersonInfo/3[java.lang.String,java.lang.String,java.lang.String]",school,4
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setPersonInfo/3[java.lang.String,java.lang.String,java.lang.String]",sex,4
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,display/0,birthday,1
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,display/0,school,1
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,display/0,sex,1
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,display/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,display/0,company,1
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,display/0,timeArea,1
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setWorkExperience/2[java.lang.String,java.lang.String]",company,4
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,"setWorkExperience/2[java.lang.String,java.lang.String]",timeArea,4
+/root/DesignPatternsDetection/Data/Prototype/Fairyjm_PrototypePattern/ckmetrics/../yuanxing/src/com/run/Resume.java,com.run.Resume,Resume/1[java.lang.String],name,3

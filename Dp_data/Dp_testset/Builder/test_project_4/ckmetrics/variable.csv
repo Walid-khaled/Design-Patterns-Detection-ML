@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+./Builder/test_project_4/ckmetrics/../Client.java,Builder.Client,main/1[java.lang.String[]],args,0
+./Builder/test_project_4/ckmetrics/../Client.java,Builder.Client,main/1[java.lang.String[]],newAccount,1
+./Builder/test_project_4/ckmetrics/../Client.java,Builder.Client,main/1[java.lang.String[]],newBuilder,1
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",address,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",mobileBanking,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",name,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",newsViaEmail,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",accountNumber,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",email,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,"BankAccountBuilder/2[java.lang.String,java.lang.String]",name,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,"BankAccountBuilder/2[java.lang.String,java.lang.String]",accountNumber,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,wantNewsViaEmail/1[boolean],newsViaEmail,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,build/0,bankAccount,1
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,withEmail/1[java.lang.String],email,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,wantMobileBanking/1[boolean],mobileBanking,2
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,withAddress/1[java.lang.String],address,2

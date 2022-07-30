@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/test/java/SpringFactoryPatternTest.java,SpringFactoryPatternTest,printStrategyFactoryTest/0,doc,4
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/main/java/strategy/PrintA4PortraitStrategy.java,strategy.PrintA4PortraitStrategy,print/1[model.Document],document,0
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/main/java/strategy/PrintA4LandscapeStrategy.java,strategy.PrintA4LandscapeStrategy,print/1[model.Document],document,0
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/main/java/strategy/PrintA5LandscapeStrategy.java,strategy.PrintA5LandscapeStrategy,print/1[model.Document],document,0
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/main/java/strategy/IPrintStrategy.java,strategy.IPrintStrategy,print/1[model.Document],document,0
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/main/java/strategy/PrintA5PortraitStrategy.java,strategy.PrintA5PortraitStrategy,print/1[model.Document],document,0
+/root/DesignPatternsDetection/Data/Factory/khyiu_Spring-Factory-Pattern/ckmetrics/../spring-factory-pattern/src/main/java/strategy/PrintStrategyFactory.java,strategy.PrintStrategyFactory,getStrategy/1[java.lang.String],strategyName,0

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Bear.java,Bear,getName/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/JGurman_AbstractFactoryPattern/ckmetrics/../src/Cat.java,Cat,getName/0,name,1

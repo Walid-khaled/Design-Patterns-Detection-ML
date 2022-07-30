@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/main/java/com/javatechie/singleton_design_pattern/EagerSingleton.java,com.javatechie.singleton_design_pattern.EagerSingleton,getInstance/0,instance,1
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/main/java/com/javatechie/singleton_design_pattern/DoubleCheckingLazySingleton.java,com.javatechie.singleton_design_pattern.DoubleCheckingLazySingleton,getInstance/0,instance,4
+/root/DesignPatternsDetection/Data/Singleton/Java-Techie-jt_singleton-design-pattern/ckmetrics/../src/main/java/com/javatechie/singleton_design_pattern/LazySingleton.java,com.javatechie.singleton_design_pattern.LazySingleton,getInstance/0,instance,3

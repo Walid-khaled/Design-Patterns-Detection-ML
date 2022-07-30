@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Bridge/test_project_2/ckmetrics/../ConcreteImplementorA.java,com.hundredwordsgof.bridge.ConcreteImplementorA,implementation/0,false,10,0,1,2,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+./Bridge/test_project_2/ckmetrics/../RefinedAbstraction.java,com.hundredwordsgof.bridge.RefinedAbstraction,RefinedAbstraction/1[com.hundredwordsgof.bridge.Implementor],true,10,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Bridge/test_project_2/ckmetrics/../RefinedAbstraction.java,com.hundredwordsgof.bridge.RefinedAbstraction,operation/0,false,14,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+./Bridge/test_project_2/ckmetrics/../Implementor.java,com.hundredwordsgof.bridge.Implementor,implementation/0,false,9,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Bridge/test_project_2/ckmetrics/../ConcreteImplementorB.java,com.hundredwordsgof.bridge.ConcreteImplementorB,implementation/0,false,10,0,1,2,3,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+./Bridge/test_project_2/ckmetrics/../Abstraction.java,com.hundredwordsgof.bridge.Abstraction,Abstraction/1[com.hundredwordsgof.bridge.Implementor],true,13,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Bridge/test_project_2/ckmetrics/../Abstraction.java,com.hundredwordsgof.bridge.Abstraction,operation/0,false,17,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1024,0,false

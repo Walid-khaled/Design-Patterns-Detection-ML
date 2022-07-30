@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/FlyweightPatternDemo.java,flyweight.FlyweightPatternDemo,getRandomColor/0,colors,1
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/ShapeFactory.java,flyweight.ShapeFactory,getCircle/1[java.lang.String],circleMap,2
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,setRadius/1[int],radius,3
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,draw/0,color,1
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,draw/0,x,1
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,draw/0,y,1
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,draw/0,radius,1
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,setY/1[int],y,3
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,Circle/1[java.lang.String],color,3
+/root/DesignPatternsDetection/Data/Flyweight/czq2019_FlyweightPattern/ckmetrics/../src/flyweight/Circle.java,flyweight.Circle,setX/1[int],x,3

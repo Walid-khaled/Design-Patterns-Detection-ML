@@ -1,0 +1,11 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/MonthlyReport.java,MonthlyReport,parse/0,false,5,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/YearlyReportDisplay.java,YearlyReportDisplay,getParser/0,false,5,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/MonthlyReportDisplay.java,MonthlyReportDisplay,getParser/0,false,5,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/DisplayService.java,DisplayService,getParser/0,false,9,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1028,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/DisplayService.java,DisplayService,display/0,false,3,2,1,3,5,0,2,0,3,1,1,0,0,0,0,0,0,2,0,0,0,0,0,8,1,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/TestFactory.java,TestFactory,main/1[java.lang.String[]],false,4,4,1,1,9,0,1,1,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,9,9,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/DailyReport.java,DailyReport,parse/0,false,5,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/YearlyReport.java,YearlyReport,parse/0,false,5,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/DailyReportDisplay.java,DailyReportDisplay,getParser/0,false,5,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,false
+/root/DesignPatternsDetection/Data/Factory/yusfia_FactoryMethod/ckmetrics/../src/XMLParser.java,XMLParser,parse/0,false,3,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false

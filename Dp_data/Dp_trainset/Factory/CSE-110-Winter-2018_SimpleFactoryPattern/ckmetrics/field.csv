@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/CSE-110-Winter-2018_SimpleFactoryPattern/ckmetrics/../src/ToyFactory.java,ToyFactory,isOptionAvailable/1[java.lang.String],availableOptions,1
+/root/DesignPatternsDetection/Data/Factory/CSE-110-Winter-2018_SimpleFactoryPattern/ckmetrics/../src/ToyFactory.java,ToyFactory,addOption/1[java.lang.String],availableOptions,1
+/root/DesignPatternsDetection/Data/Factory/CSE-110-Winter-2018_SimpleFactoryPattern/ckmetrics/../src/Toy.java,Toy,getToyName/0,toyName,1
+/root/DesignPatternsDetection/Data/Factory/CSE-110-Winter-2018_SimpleFactoryPattern/ckmetrics/../src/Toy.java,Toy,Toy/1[java.lang.String],toyName,1

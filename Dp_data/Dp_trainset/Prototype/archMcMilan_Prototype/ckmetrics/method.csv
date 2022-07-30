@@ -1,0 +1,9 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Human,"Human/2[int,java.lang.String]",true,30,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Human,copy/0,false,36,1,1,0,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Human,toString/0,false,42,0,1,0,3,1,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Copyable,copy/0,false,23,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,HumanFactory,makeCopy/0,false,61,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,HumanFactory,setProperty/1[Human],false,57,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,HumanFactory,HumanFactory/1[Human],true,53,2,1,1,3,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],false,5,2,1,4,12,0,5,1,4,0,0,0,0,0,0,2,2,5,0,0,0,0,0,9,9,0,false

@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,area/1[phuongsala.designpattern.prototype.MyRectangle],rect,2
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,"MyRectangle/2[int,int]",w,1
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,"MyRectangle/2[int,int]",h,1
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,clone/1[int],num,2
+./Prototype/test_project_1/ckmetrics/../MyPrototype.java,phuongsala.designpattern.prototype.MyPrototype,clone/1[int],num,0
+./Prototype/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.prototype.DEMO,main/1[java.lang.String[]],args,0
+./Prototype/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.prototype.DEMO,main/1[java.lang.String[]],rect1,4
+./Prototype/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.prototype.DEMO,main/1[java.lang.String[]],rect3,2
+./Prototype/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.prototype.DEMO,main/1[java.lang.String[]],rect2,2

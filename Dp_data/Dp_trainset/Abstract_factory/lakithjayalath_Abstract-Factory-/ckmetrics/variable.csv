@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Test.java,Test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Test.java,Test,main/1[java.lang.String[]],query1,0
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Test.java,Test,main/1[java.lang.String[]],query2,0
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/QueryBuilder.java,QueryBuilder,select/1[java.lang.String],select,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/QueryBuilder.java,QueryBuilder,where/1[java.lang.String],where,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/QueryBuilder.java,QueryBuilder,from/1[java.lang.String],from,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/QueryBuilder.java,QueryBuilder,orderBy/1[java.lang.String],orderBy,1

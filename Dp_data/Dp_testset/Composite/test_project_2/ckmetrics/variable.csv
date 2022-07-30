@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],args,0
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],list1,1
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],folder2,2
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],folder1,1
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],list2,1
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],file2,2
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],file3,2
+./Composite/test_project_2/ckmetrics/../Client.java,Composite.Client,main/1[java.lang.String[]],file1,2
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,totalSize/0,total,2
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,totalSize/0,file,1
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,showProperty/0,file,1
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,FolderComposite/1[java.util.List<Composite.FileComponent>],files,2
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,"FileLeaf/2[java.lang.String,long]",size,2
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,"FileLeaf/2[java.lang.String,long]",name,2

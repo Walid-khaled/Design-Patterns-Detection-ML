@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Command/test_project_2/ckmetrics/../Invoker.java,com.hundredwordsgof.command.Invoker,Invoker/1[com.hundredwordsgof.command.Command],command,3
+./Command/test_project_2/ckmetrics/../Invoker.java,com.hundredwordsgof.command.Invoker,execute/0,command,1
+./Command/test_project_2/ckmetrics/../Receiver.java,com.hundredwordsgof.command.Receiver,action/0,operationPerfomed,1
+./Command/test_project_2/ckmetrics/../Receiver.java,com.hundredwordsgof.command.Receiver,isOperationPerfomed/0,operationPerfomed,1
+./Command/test_project_2/ckmetrics/../ConcreteCommand.java,com.hundredwordsgof.command.ConcreteCommand,ConcreteCommand/1[com.hundredwordsgof.command.Receiver],receiver,3
+./Command/test_project_2/ckmetrics/../ConcreteCommand.java,com.hundredwordsgof.command.ConcreteCommand,execute/0,receiver,1

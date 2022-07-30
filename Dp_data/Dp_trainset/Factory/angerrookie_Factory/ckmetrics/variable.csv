@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/factoryMethod/TestFactoryMethod.java,com.muyu.factoryMethod.TestFactoryMethod,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/factoryMethod/TestFactoryMethod.java,com.muyu.factoryMethod.TestFactoryMethod,main/1[java.lang.String[]],circleFactory,1
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/factoryMethod/TestFactoryMethod.java,com.muyu.factoryMethod.TestFactoryMethod,main/1[java.lang.String[]],circle,1
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/simpleFactory/ShapeFactory.java,com.muyu.simpleFactory.ShapeFactory,getShape/1[java.lang.String],shapeType,4
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/simpleFactory/TestSimleFactory.java,com.muyu.simpleFactory.TestSimleFactory,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/simpleFactory/TestSimleFactory.java,com.muyu.simpleFactory.TestSimleFactory,main/1[java.lang.String[]],square,1
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/simpleFactory/TestSimleFactory.java,com.muyu.simpleFactory.TestSimleFactory,main/1[java.lang.String[]],rectangle,1
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/simpleFactory/TestSimleFactory.java,com.muyu.simpleFactory.TestSimleFactory,main/1[java.lang.String[]],circle,1
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/abstractFactory/TestAbstractFactory.java,com.muyu.abstractFactory.TestAbstractFactory,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/abstractFactory/TestAbstractFactory.java,com.muyu.abstractFactory.TestAbstractFactory,main/1[java.lang.String[]],factory,3
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/abstractFactory/TestAbstractFactory.java,com.muyu.abstractFactory.TestAbstractFactory,main/1[java.lang.String[]],gun,2
+/root/DesignPatternsDetection/Data/Factory/angerrookie_Factory/ckmetrics/../src/com/muyu/abstractFactory/TestAbstractFactory.java,com.muyu.abstractFactory.TestAbstractFactory,main/1[java.lang.String[]],bullet,2

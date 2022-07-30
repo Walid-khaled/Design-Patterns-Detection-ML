@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/Order.java,Order,Order/0,fruitmap,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/Order.java,Order,"setFruitmap/2[java.lang.String,int]",fruitmap,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/Order.java,Order,getId/0,id,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/Order.java,Order,getFruitmap/0,fruitmap,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/Order.java,Order,setId/1[int],id,3
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/OrderCommand.java,OrderCommand,execute/0,receiver,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/OrderCommand.java,OrderCommand,execute/0,order,2
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/OrderCommand.java,OrderCommand,"OrderCommand/2[Operator,Order]",receiver,3
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/OrderCommand.java,OrderCommand,"OrderCommand/2[Operator,Order]",order,3
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/WaitorInvoker.java,WaitorInvoker,SetCommand/1[Command],commands,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/WaitorInvoker.java,WaitorInvoker,WaitorInvoker/0,commands,1
+/root/DesignPatternsDetection/Data/Command/kongzhimin_CommandPattern/ckmetrics/../src/WaitorInvoker.java,WaitorInvoker,OrderUp/0,commands,1

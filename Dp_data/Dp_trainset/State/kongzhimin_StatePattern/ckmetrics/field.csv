@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,ThreadContext/0,threadState,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,setThreadState/1[ThreadState],threadState,3
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,start/0,threadState,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,getThreadState/0,threadState,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,resume/0,threadState,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,getCpu/0,threadState,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,suspend/0,threadState,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,stop/0,threadState,1

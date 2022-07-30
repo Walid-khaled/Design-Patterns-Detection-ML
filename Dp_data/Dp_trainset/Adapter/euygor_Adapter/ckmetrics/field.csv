@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/euygor_Adapter/ckmetrics/../src/adapter/PagamentoAdapter.java,adapter.PagamentoAdapter,metodoPagamento/0,cartaoDebito,1
+/root/DesignPatternsDetection/Data/Adapter/euygor_Adapter/ckmetrics/../src/adapter/PagamentoAdapter.java,adapter.PagamentoAdapter,PagamentoAdapter/1[adapter.Pagamento],cartaoDebito,3

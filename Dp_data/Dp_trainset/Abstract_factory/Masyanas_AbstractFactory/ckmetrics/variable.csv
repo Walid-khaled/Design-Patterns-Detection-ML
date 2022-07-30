@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/AbstractFactoryDemo.java,AbstractFactoryDemo,showEnginery/1[factory.enginery.EngineryFactory],aircraft,1
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/AbstractFactoryDemo.java,AbstractFactoryDemo,showEnginery/1[factory.enginery.EngineryFactory],engineryFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/AbstractFactoryDemo.java,AbstractFactoryDemo,showEnginery/1[factory.enginery.EngineryFactory],tank,1
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/AbstractFactoryDemo.java,AbstractFactoryDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/AbstractFactoryDemo.java,AbstractFactoryDemo,main/1[java.lang.String[]],engineryFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/model/aircraft/Aircraft.java,model.aircraft.Aircraft,setAltitude/1[int],altitude,2
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/model/aircraft/Aircraft.java,model.aircraft.Aircraft,setSpeed/1[int],speed,2
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/model/aircraft/Aircraft.java,model.aircraft.Aircraft,setPower/1[int],power,2
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/model/tank/Tank.java,model.tank.Tank,setSpeed/1[int],speed,2
+/root/DesignPatternsDetection/Data/Abstract_factory/Masyanas_AbstractFactory/ckmetrics/../src/model/tank/Tank.java,model.tank.Tank,setPower/1[int],power,2

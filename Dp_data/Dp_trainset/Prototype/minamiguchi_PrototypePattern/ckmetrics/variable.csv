@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],factory,3
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],printer,6
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,Printer/1[java.lang.String],str,2
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,clone/0,cloned,2
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Facotry.java,Facotry,create/1[java.lang.String],type,1

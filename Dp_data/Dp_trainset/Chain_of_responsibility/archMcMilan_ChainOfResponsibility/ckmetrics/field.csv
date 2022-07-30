@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/bankomate/BankomateApp.java,bankomate.NoteModule,setNextMoneyModule/1[bankomate.NoteModule],next,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/bankomate/BankomateApp.java,bankomate.Money,setAmount/1[int],amount,6
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/bankomate/BankomateApp.java,bankomate.Money,Money/1[int],amount,3
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/bankomate/BankomateApp.java,bankomate.Money,getAmount/0,amount,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/simple/realization/ChainOfResponsibilityApp.java,simple.realization.Logger,setNext/1[simple.realization.Logger],next,3
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/simple/realization/ChainOfResponsibilityApp.java,simple.realization.Logger,"writeMessage/2[java.lang.String,int]",next,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/simple/realization/ChainOfResponsibilityApp.java,simple.realization.Logger,"writeMessage/2[java.lang.String,int]",priority,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/archMcMilan_ChainOfResponsibility/ckmetrics/../src/simple/realization/ChainOfResponsibilityApp.java,simple.realization.Logger,Logger/1[int],priority,3

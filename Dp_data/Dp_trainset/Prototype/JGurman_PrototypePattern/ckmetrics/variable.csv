@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,CookieMachine/1[Cookie],cookie,2
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,main/1[java.lang.String[]],prot,1
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,main/1[java.lang.String[]],i,2
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,main/1[java.lang.String[]],cm,1
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,main/1[java.lang.String[]],tempCookie,2
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/Cookie.java,Cookie,clone/0,copy,1

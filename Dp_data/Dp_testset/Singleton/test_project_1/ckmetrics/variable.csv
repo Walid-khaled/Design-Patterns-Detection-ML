@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Singleton/test_project_1/ckmetrics/../concurrencycontrolling/ResourceManager.java,com.android.creationaldesignpatterns.singleton.concurrencycontrolling.ResourceManager,manageResources/0,threadTwo,1
+./Singleton/test_project_1/ckmetrics/../concurrencycontrolling/ResourceManager.java,com.android.creationaldesignpatterns.singleton.concurrencycontrolling.ResourceManager,manageResources/0,printer2,0
+./Singleton/test_project_1/ckmetrics/../concurrencycontrolling/ResourceManager.java,com.android.creationaldesignpatterns.singleton.concurrencycontrolling.ResourceManager,manageResources/0,printer1,0
+./Singleton/test_project_1/ckmetrics/../concurrencycontrolling/ResourceManager.java,com.android.creationaldesignpatterns.singleton.concurrencycontrolling.ResourceManager,manageResources/0,threadOne,1
+./Singleton/test_project_1/ckmetrics/../javaexample/ResourceManager.java,com.android.creationaldesignpatterns.singleton.javaexample.ResourceManager,manageResources/0,printers,2
+./Singleton/test_project_1/ckmetrics/../javaexample/ResourceManager.java,com.android.creationaldesignpatterns.singleton.javaexample.ResourceManager,manageResources/0,printer2,1
+./Singleton/test_project_1/ckmetrics/../javaexample/ResourceManager.java,com.android.creationaldesignpatterns.singleton.javaexample.ResourceManager,manageResources/0,printer,1
+./Singleton/test_project_1/ckmetrics/../javaexample/ResourceManager.java,com.android.creationaldesignpatterns.singleton.javaexample.ResourceManager,processResources/1[java.util.List<Type>],p,0
+./Singleton/test_project_1/ckmetrics/../javaexample/ResourceManager.java,com.android.creationaldesignpatterns.singleton.javaexample.ResourceManager,processResources/1[java.util.List<Type>],list,1

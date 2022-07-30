@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",str,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",con,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",wit,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",dex,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",inte,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",men,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",arma,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",imagem,1
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,"Personagem/9[int,int,int,int,int,int,java.lang.String,java.lang.String,java.lang.String]",armadura,3
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/Personagem.java,factory.method.Personagem,getImagem/0,imagem,1
+/root/DesignPatternsDetection/Data/Factory/euygor_FactoryMethod/ckmetrics/../src/factory/method/PersonagemFactory.java,factory.method.PersonagemFactory,exibirPersonagem/0,personagem,2

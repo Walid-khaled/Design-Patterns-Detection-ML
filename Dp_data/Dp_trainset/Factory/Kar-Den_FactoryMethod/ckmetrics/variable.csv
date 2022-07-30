@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Kar-Den_FactoryMethod/ckmetrics/../src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/Kar-Den_FactoryMethod/ckmetrics/../src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],developerFactory,1
+/root/DesignPatternsDetection/Data/Factory/Kar-Den_FactoryMethod/ckmetrics/../src/com/company/Main.java,com.company.Main,createDeveloperBySpec/1[java.lang.String],spec,4

@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,toString/0,toys,1
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,toString/0,name,4
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,getName/0,name,1
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,assemble/0,name,1
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,boxToy/0,name,1
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,priceToy/0,name,1

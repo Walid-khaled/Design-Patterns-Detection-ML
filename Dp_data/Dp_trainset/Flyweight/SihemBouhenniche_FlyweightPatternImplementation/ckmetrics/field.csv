@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/FactoryFlyweight.java,com.company.FactoryFlyweight,createCharctere/1[java.lang.String],charctereMap,2
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightChar.java,com.company.ConcreteFlyweightChar,"draw/3[java.lang.String,int,int]",character,1
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightChar.java,com.company.ConcreteFlyweightChar,ConcreteFlyweightChar/1[java.lang.String],character,3
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightChar.java,com.company.ConcreteFlyweightChar,getCharacter/0,character,1
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightChar.java,com.company.ConcreteFlyweightChar,setCharacter/1[java.lang.String],character,3
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightColumn.java,com.company.ConcreteFlyweightColumn,"draw/3[java.lang.String,int,int]",content,1
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightColumn.java,com.company.ConcreteFlyweightColumn,addCharacter/1[com.company.ConcreteFlyweightChar],content,1
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightRow.java,com.company.ConcreteFlyweightRow,"draw/3[java.lang.String,int,int]",content,1
+/root/DesignPatternsDetection/Data/Flyweight/SihemBouhenniche_FlyweightPatternImplementation/ckmetrics/../src/com/company/ConcreteFlyweightRow.java,com.company.ConcreteFlyweightRow,addCharacter/1[com.company.ConcreteFlyweightChar],content,1

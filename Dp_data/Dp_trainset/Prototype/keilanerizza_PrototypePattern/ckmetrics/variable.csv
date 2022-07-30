@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/principal/PrototypeDemo.java,principal.PrototypeDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/principal/PrototypeDemo.java,principal.PrototypeDemo,main/1[java.lang.String[]],calcaClonada,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/principal/PrototypeDemo.java,principal.PrototypeDemo,main/1[java.lang.String[]],calcaClonada2,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/principal/PrototypeDemo.java,principal.PrototypeDemo,main/1[java.lang.String[]],calcaClonada3,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/Calca.java,prototype.Calca,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/Calca.java,prototype.Calca,clone/0,clone,3
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/Calca.java,prototype.Calca,setId/1[java.lang.String],id,2
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,loadCache/0,moleton,3
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,loadCache/0,calcaJeans,3
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,loadCache/0,legging,3
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,getCalca/1[java.lang.String],cache,1
+/root/DesignPatternsDetection/Data/Prototype/keilanerizza_PrototypePattern/ckmetrics/../src/prototype/CalcaCache.java,prototype.CalcaCache,getCalca/1[java.lang.String],calcaId,1

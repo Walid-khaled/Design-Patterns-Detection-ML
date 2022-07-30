@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/stevejj_singletonPattern/ckmetrics/../SingletonPattern/src/jj/object/UserSync.java,jj.object.UserSync,getInstance/0,usr,3
+/root/DesignPatternsDetection/Data/Singleton/stevejj_singletonPattern/ckmetrics/../SingletonPattern/src/jj/object/UserLazy.java,jj.object.UserLazy,getInstance/0,usr,3
+/root/DesignPatternsDetection/Data/Singleton/stevejj_singletonPattern/ckmetrics/../SingletonPattern/src/jj/object/UserSyncVolatile.java,jj.object.UserSyncVolatile,getInstance/0,usr,4

@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Singleton/test_project_7/ckmetrics/../Design Pattern/src/Singleton/Singleton.java,Singleton.Singleton,doNameChange/1[java.lang.String],name,1
+./Singleton/test_project_7/ckmetrics/../Design Pattern/src/Singleton/Singleton.java,Singleton.Singleton,getTitles/1[int],i,2
+./Singleton/test_project_7/ckmetrics/../Design Pattern/src/Singleton/Singleton.java,Singleton.Singleton,getTitles/1[int],titles,2
+./Singleton/test_project_7/ckmetrics/../Design Pattern/src/Singleton/Singleton.java,Singleton.Singleton,getTitles/1[int],howmanytitles,1

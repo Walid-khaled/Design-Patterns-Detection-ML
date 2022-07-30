@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/farr3ll024_AbstractFactory/ckmetrics/../src/com/company/Product/CheesePizza.java,com.company.Product.CheesePizza,addIngredients/0,toppingFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/farr3ll024_AbstractFactory/ckmetrics/../src/com/company/Product/CheesePizza.java,com.company.Product.CheesePizza,CheesePizza/1[com.company.Factory.BaseToppingFactory],toppingFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/farr3ll024_AbstractFactory/ckmetrics/../src/com/company/Product/VeggiePizza.java,com.company.Product.VeggiePizza,addIngredients/0,toppingFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/farr3ll024_AbstractFactory/ckmetrics/../src/com/company/Product/VeggiePizza.java,com.company.Product.VeggiePizza,VeggiePizza/1[com.company.Factory.BaseToppingFactory],toppingFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/farr3ll024_AbstractFactory/ckmetrics/../src/com/company/Product/PepperoniPizza.java,com.company.Product.PepperoniPizza,addIngredients/0,toppingFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/farr3ll024_AbstractFactory/ckmetrics/../src/com/company/Product/PepperoniPizza.java,com.company.Product.PepperoniPizza,PepperoniPizza/1[com.company.Factory.BaseToppingFactory],toppingFactory,3

@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/OrderedState.java,statePattern.OrderedState,OrderedState/1[statePattern.Package],pkg,3
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/DeliveredState.java,statePattern.DeliveredState,DeliveredState/1[statePattern.Package],pkg,3
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/InTransitState.java,statePattern.InTransitState,InTransitState/1[statePattern.Package],pkg,3
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,getString/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,order/0,orderedState,2
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,mail/0,inTransitState,2
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,Package/1[java.lang.String],orderedState,1
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,Package/1[java.lang.String],inTransitState,1
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,Package/1[java.lang.String],deliveredState,1
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,Package/1[java.lang.String],name,1
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,setState/1[statePattern.State],state,3
+/root/DesignPatternsDetection/Data/State/BrentAble_stateDesignPattern/ckmetrics/../statePattern/Package.java,statePattern.Package,received/0,deliveredState,2

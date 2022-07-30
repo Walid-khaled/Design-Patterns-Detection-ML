@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+./Decorator/test_project_2/ckmetrics/../Decorator.java,com.hundredwordsgof.decorator.Decorator,setComponent/1[com.hundredwordsgof.decorator.Component],component,2

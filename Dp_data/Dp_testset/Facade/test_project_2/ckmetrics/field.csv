@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,CarDealer/0,tesla,1
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,CarDealer/0,volkswagen,1
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,buyTesla/0,tesla,3
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,buyVolkswagen/0,volkswagen,3
+./Facade/test_project_2/ckmetrics/../FacadePattern.java,com.codevillain679.structural.facade.FacadePattern,FacadePattern/0,choice,2

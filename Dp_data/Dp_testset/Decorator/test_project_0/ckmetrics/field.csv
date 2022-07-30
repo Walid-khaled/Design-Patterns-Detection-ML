@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Decorator/test_project_0/ckmetrics/../src/main/java/net/dskim/desingpattern/decorator/CondimentsDecoratorBase.java,net.dskim.desingpattern.decorator.CondimentsDecoratorBase,CondimentsDecoratorBase/1[net.dskim.desingpattern.decorator.BeverageBase],beverage,4
+./Decorator/test_project_0/ckmetrics/../src/main/java/net/dskim/desingpattern/decorator/BeverageBase.java,net.dskim.desingpattern.decorator.BeverageBase,getDescription/0,description,1

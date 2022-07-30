@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getApartmentNumber/0,apartmentNumber,1
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getProvince/0,province,1
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getStreetType/0,streetType,1
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getPostalCode/0,postalCode,1
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getStreetNumber/0,streetNumber,1
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getStreetName/0,streetName,1
+/root/DesignPatternsDetection/Data/Builder/csc301-fall2014_BuilderExample/ckmetrics/../src/csc301/builderExample/CanadianAddress.java,csc301.builderExample.CanadianAddress,getCity/0,city,1

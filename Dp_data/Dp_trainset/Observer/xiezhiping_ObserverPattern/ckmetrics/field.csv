@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,notifyObserver/1[java.lang.String],list,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,removeObserver/1[Observers],list,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,addObserver/1[Observers],list,1

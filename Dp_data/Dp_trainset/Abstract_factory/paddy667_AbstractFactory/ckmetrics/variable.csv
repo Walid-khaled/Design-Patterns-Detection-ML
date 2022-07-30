@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/SensorController.java,SensorController,SensorController/1[ISensorFactory],factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/Application.java,Application,main/1[java.lang.String[]],args,1
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/Application.java,Application,main/1[java.lang.String[]],sc,2
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/Application.java,Application,main/1[java.lang.String[]],factory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/Application.java,Application,main/1[java.lang.String[]],e,0
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/Application.java,Application,main/1[java.lang.String[]],choice,2

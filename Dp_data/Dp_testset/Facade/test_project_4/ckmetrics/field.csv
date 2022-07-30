@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+./Facade/test_project_4/ckmetrics/../OperandNode.java,com.hundredwordsgof.facade.OperandNode,setValue/1[int],value,3
+./Facade/test_project_4/ckmetrics/../OperandNode.java,com.hundredwordsgof.facade.OperandNode,getValue/0,value,1
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,getLeft/0,left,1
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,setLeft/1[com.hundredwordsgof.facade.Node],left,3
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,getOperator/0,operator,1
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,getRight/0,right,1
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,setRight/1[com.hundredwordsgof.facade.Node],right,3
+./Facade/test_project_4/ckmetrics/../ExpressionNode.java,com.hundredwordsgof.facade.ExpressionNode,setOperator/1[char],operator,3
+./Facade/test_project_4/ckmetrics/../Parser.java,com.hundredwordsgof.facade.Parser,parse/1[java.util.List<java.lang.String>],expressionStack,3
+./Facade/test_project_4/ckmetrics/../Parser.java,com.hundredwordsgof.facade.Parser,parse/1[java.util.List<java.lang.String>],operandStack,3

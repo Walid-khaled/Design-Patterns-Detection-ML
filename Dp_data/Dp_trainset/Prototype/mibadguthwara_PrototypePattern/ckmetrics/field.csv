@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/Bidang.java,Bidang,setId/1[java.lang.String],id,3
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/Bidang.java,Bidang,getType/0,type,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/Bidang.java,Bidang,getId/0,id,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,loadCache/0,bidangMap,4
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,getBidang/1[java.lang.String],bidangMap,1

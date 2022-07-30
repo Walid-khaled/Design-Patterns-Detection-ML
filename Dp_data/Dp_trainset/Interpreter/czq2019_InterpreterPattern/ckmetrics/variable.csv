@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/TerminalExpression.java,interpreter.TerminalExpression,TerminalExpression/1[java.lang.String],data,2
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/TerminalExpression.java,interpreter.TerminalExpression,interpret/1[java.lang.String],context,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,getMarriedWomanExpression/0,juile,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,getMarriedWomanExpression/0,married,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,main/1[java.lang.String[]],isMale,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,main/1[java.lang.String[]],isMarriedWoman,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,getMaleExpression/0,robert,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/InterpreterPatternDemo.java,interpreter.InterpreterPatternDemo,getMaleExpression/0,john,1
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/Expression.java,interpreter.Expression,interpret/1[java.lang.String],context,0
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,interpret/1[java.lang.String],context,2
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,"OrExpression/2[interpreter.Expression,interpreter.Expression]",expr2,2
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/OrExpression.java,interpreter.OrExpression,"OrExpression/2[interpreter.Expression,interpreter.Expression]",expr1,2
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,interpret/1[java.lang.String],context,2
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,"AndExpression/2[interpreter.Expression,interpreter.Expression]",expr2,2
+/root/DesignPatternsDetection/Data/Interpreter/czq2019_InterpreterPattern/ckmetrics/../src/interpreter/AndExpression.java,interpreter.AndExpression,"AndExpression/2[interpreter.Expression,interpreter.Expression]",expr1,2

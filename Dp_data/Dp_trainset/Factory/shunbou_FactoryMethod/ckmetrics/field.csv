@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Counter,getTvNumber/0,tvNum,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Counter,getRadioNumber/0,radioNum,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Television,print/0,date,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Television,print/0,tvSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Television,numberring/0,tvSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Television,setDate/1[java.lang.String],date,3
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Radio,numberring/0,radioSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Radio,print/0,radioSerialNumber,1

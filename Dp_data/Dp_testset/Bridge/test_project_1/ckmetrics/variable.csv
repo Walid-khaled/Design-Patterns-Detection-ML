@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Bridge/test_project_1/ckmetrics/../Animal.java,phuongsala.designpattern.bridge.Animal,Animal/1[phuongsala.designpattern.bridge.Movement],movement,2
+./Bridge/test_project_1/ckmetrics/../Sloth.java,phuongsala.designpattern.bridge.Sloth,Sloth/1[phuongsala.designpattern.bridge.Movement],movement,1
+./Bridge/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.bridge.DEMO,main/1[java.lang.String[]],args,0
+./Bridge/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.bridge.DEMO,main/1[java.lang.String[]],eagle,1
+./Bridge/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.bridge.DEMO,main/1[java.lang.String[]],dog,1
+./Bridge/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.bridge.DEMO,main/1[java.lang.String[]],sloth,1
+./Bridge/test_project_1/ckmetrics/../Eagle.java,phuongsala.designpattern.bridge.Eagle,Eagle/1[phuongsala.designpattern.bridge.Movement],movement,1
+./Bridge/test_project_1/ckmetrics/../Dog.java,phuongsala.designpattern.bridge.Dog,Dog/1[phuongsala.designpattern.bridge.Movement],movement,1

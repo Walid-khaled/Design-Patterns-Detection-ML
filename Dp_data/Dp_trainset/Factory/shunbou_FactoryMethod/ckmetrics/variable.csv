@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,TvKoujyou,touroku/1[Seihin],s,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,TvKoujyou,touroku/1[Seihin],t,2
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Koujyou,create/0,seihin,2
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Koujyou,touroku/1[Seihin],s,0
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Television,setDate/1[java.lang.String],date,2
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Client,main/1[java.lang.String[]],array,5
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Client,main/1[java.lang.String[]],i,3
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Client,main/1[java.lang.String[]],koujyou2,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,Client,main/1[java.lang.String[]],koujyou1,2
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,RadioKoujyou,touroku/1[Seihin],r,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../FactoryMethod/src/Client.java,RadioKoujyou,touroku/1[Seihin],s,1
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../NonFactoryMethod/src/Client.java,Television,setDate/1[String],date,2
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../NonFactoryMethod/src/Client.java,Client,main/1[String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../NonFactoryMethod/src/Client.java,Client,main/1[String[]],seihins,11
+/root/DesignPatternsDetection/Data/Factory/shunbou_FactoryMethod/ckmetrics/../NonFactoryMethod/src/Client.java,Client,main/1[String[]],i,11

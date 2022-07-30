@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Template/java9s_template-method-pattern/ckmetrics/../src/com/java9s/tutorials/designpattern/template/AccountCreator.java,com.java9s.tutorials.designpattern.template.AccountCreator,receivePayment/1[int],payment,0
+/root/DesignPatternsDetection/Data/Template/java9s_template-method-pattern/ckmetrics/../src/com/java9s/tutorials/designpattern/template/Exec.java,com.java9s.tutorials.designpattern.template.Exec,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Template/java9s_template-method-pattern/ckmetrics/../src/com/java9s/tutorials/designpattern/template/Exec.java,com.java9s.tutorials.designpattern.template.Exec,main/1[java.lang.String[]],ac,1
+/root/DesignPatternsDetection/Data/Template/java9s_template-method-pattern/ckmetrics/../src/com/java9s/tutorials/designpattern/template/Exec.java,com.java9s.tutorials.designpattern.template.Exec,main/1[java.lang.String[]],pac,1

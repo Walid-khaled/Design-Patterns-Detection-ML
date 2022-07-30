@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Employees.java,Employees,Employees/1[java.util.List<java.lang.String>],emp,2
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Employees.java,Employees,clone/0,temp,2
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Employees.java,Employees,clone/0,s,1
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],emps1,1
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],emps2,2
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],list,2
+/root/DesignPatternsDetection/Data/Prototype/Design-pattrns_Prototype-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],employes,4

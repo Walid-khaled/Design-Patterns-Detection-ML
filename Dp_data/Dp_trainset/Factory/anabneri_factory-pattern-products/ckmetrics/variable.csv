@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/anabneri_factory-pattern-products/ckmetrics/../src/main/java/factory/Client.java,factory.Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/anabneri_factory-pattern-products/ckmetrics/../src/main/java/factory/Client.java,factory.Client,main/1[java.lang.String[]],iphone11ProFactory,1
+/root/DesignPatternsDetection/Data/Factory/anabneri_factory-pattern-products/ckmetrics/../src/main/java/factory/Client.java,factory.Client,main/1[java.lang.String[]],iphone2,1
+/root/DesignPatternsDetection/Data/Factory/anabneri_factory-pattern-products/ckmetrics/../src/main/java/factory/Client.java,factory.Client,main/1[java.lang.String[]],iphone,1
+/root/DesignPatternsDetection/Data/Factory/anabneri_factory-pattern-products/ckmetrics/../src/main/java/factory/Client.java,factory.Client,main/1[java.lang.String[]],iphoneXFactory,1
+/root/DesignPatternsDetection/Data/Factory/anabneri_factory-pattern-products/ckmetrics/../src/main/java/factory/factory/IPhoneFactory.java,factory.factory.IPhoneFactory,orderIPhone/0,device,6

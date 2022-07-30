@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,removePropertyChangeListener/1[java.beans.PropertyChangeListener],pcl,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,setNews/1[java.lang.String],news,2
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,addPropertyChangeListener/1[java.beans.PropertyChangeListener],pcl,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsChannel.java,net.dskim.desingpattern.observer.NewsChannel,propertyChange/1[java.beans.PropertyChangeEvent],evt,1
+./Observer/test_project_3/ckmetrics/../src/test/java/net/dskim/desingpattern/observer/ObserverTest.java,net.dskim.desingpattern.observer.ObserverTest,whenChangingPCLNewsAgencyState_thenONewsChannelNotified/0,observable,3
+./Observer/test_project_3/ckmetrics/../src/test/java/net/dskim/desingpattern/observer/ObserverTest.java,net.dskim.desingpattern.observer.ObserverTest,whenChangingPCLNewsAgencyState_thenONewsChannelNotified/0,observer1,3
+./Observer/test_project_3/ckmetrics/../src/test/java/net/dskim/desingpattern/observer/ObserverTest.java,net.dskim.desingpattern.observer.ObserverTest,whenChangingPCLNewsAgencyState_thenONewsChannelNotified/0,newsName,3
+./Observer/test_project_3/ckmetrics/../src/test/java/net/dskim/desingpattern/observer/ObserverTest.java,net.dskim.desingpattern.observer.ObserverTest,whenChangingPCLNewsAgencyState_thenONewsChannelNotified/0,observer2,2

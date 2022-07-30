@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ConsoleLogger.java,responsibility.ConsoleLogger,ConsoleLogger/1[int],level,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ConsoleLogger.java,responsibility.ConsoleLogger,write/1[java.lang.String],message,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ErrorLogger.java,responsibility.ErrorLogger,ErrorLogger/1[int],level,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ErrorLogger.java,responsibility.ErrorLogger,write/1[java.lang.String],message,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,"logMessage/2[int,java.lang.String]",level,3
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,"logMessage/2[int,java.lang.String]",message,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,setNextLogger/1[responsibility.AbstractLogger],nextLogger,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,write/1[java.lang.String],message,0
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ChainPatternDemo.java,responsibility.ChainPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ChainPatternDemo.java,responsibility.ChainPatternDemo,main/1[java.lang.String[]],loggerChain,3
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ChainPatternDemo.java,responsibility.ChainPatternDemo,getChainOfLoggers/0,consoleLogger,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ChainPatternDemo.java,responsibility.ChainPatternDemo,getChainOfLoggers/0,errorLogger,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/ChainPatternDemo.java,responsibility.ChainPatternDemo,getChainOfLoggers/0,fileLogger,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/FileLogger.java,responsibility.FileLogger,FileLogger/1[int],level,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/FileLogger.java,responsibility.FileLogger,write/1[java.lang.String],message,1

@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/99mini_FactoryMethod/ckmetrics/../src/concrete/Main.java,concrete.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/99mini_FactoryMethod/ckmetrics/../src/concrete/Main.java,concrete.Main,main/1[java.lang.String[]],item,4
+/root/DesignPatternsDetection/Data/Factory/99mini_FactoryMethod/ckmetrics/../src/concrete/Main.java,concrete.Main,main/1[java.lang.String[]],creater,4
+/root/DesignPatternsDetection/Data/Factory/99mini_FactoryMethod/ckmetrics/../src/framework/ItemCreater.java,framework.ItemCreater,create/0,item,2

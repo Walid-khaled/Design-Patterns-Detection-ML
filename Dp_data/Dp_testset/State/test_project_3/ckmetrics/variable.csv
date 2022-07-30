@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+./State/test_project_3/ckmetrics/../Context.java,com.hundredwordsgof.state.Context,setState/1[com.hundredwordsgof.state.State],state,2

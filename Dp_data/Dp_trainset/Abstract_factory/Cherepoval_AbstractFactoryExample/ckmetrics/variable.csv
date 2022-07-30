@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Configuration,configureApp/0,factory,4
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Configuration,configureApp/0,application,3
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Configuration,configureApp/0,osNameName,2
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Configuration,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Configuration,main/1[java.lang.String[]],application,1
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Application,Application/1[factories.GuiFactory],factory,2

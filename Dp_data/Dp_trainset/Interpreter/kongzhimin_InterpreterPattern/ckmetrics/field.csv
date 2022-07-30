@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/TerminalExpression.java,TerminalExpression,TerminalExpression/1[java.lang.String],data,3
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/TerminalExpression.java,TerminalExpression,interpret/1[java.lang.String],data,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,interpret/1[java.lang.String],expr2,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,interpret/1[java.lang.String],expr1,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,"OrExpression/2[Expression,Expression]",expr2,3
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/OrExpression.java,OrExpression,"OrExpression/2[Expression,Expression]",expr1,3
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,"AndExpression/2[Expression,Expression]",expr2,3
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,"AndExpression/2[Expression,Expression]",expr1,3
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,interpret/1[java.lang.String],expr2,1
+/root/DesignPatternsDetection/Data/Interpreter/kongzhimin_InterpreterPattern/ckmetrics/../src/AndExpression.java,AndExpression,interpret/1[java.lang.String],expr1,1

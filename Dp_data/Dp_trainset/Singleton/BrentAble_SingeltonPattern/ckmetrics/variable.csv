@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../AddSongTest.java,jukeBoxTester.AddSongTest,test/0,test,0
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../AddSongTest.java,jukeBoxTester.AddSongTest,test/0,song1,1
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../AddSongTest.java,jukeBoxTester.AddSongTest,test/0,song2,1
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,requestSong/1[java.lang.String],song,2
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,playNextSong/0,song,3
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../JukeBox.java,jukeBoxTester.JukeBox,playNextSong/0,i,3
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../MusicDriver.java,jukeBoxTester.MusicDriver,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/BrentAble_SingeltonPattern/ckmetrics/../MusicDriver.java,jukeBoxTester.MusicDriver,main/1[java.lang.String[]],jukeBox,6

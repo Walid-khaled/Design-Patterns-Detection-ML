@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Chef.java,Chef,SetCutMethod/1[ICutFruit],cutmethod,3
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Chef.java,Chef,CutFruit/1[java.lang.String],cutmethod,1

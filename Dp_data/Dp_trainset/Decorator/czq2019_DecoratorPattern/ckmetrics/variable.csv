@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/RedShapeDecorator.java,Decorator.RedShapeDecorator,setRedBorder/1[Decorator.Shape],decoratedShape,0
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/RedShapeDecorator.java,Decorator.RedShapeDecorator,RedShapeDecorator/1[Decorator.Shape],decoratedShape,1
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/DecoratorPatternDemo.java,Decorator.DecoratorPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/DecoratorPatternDemo.java,Decorator.DecoratorPatternDemo,main/1[java.lang.String[]],redRectangle,1
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/DecoratorPatternDemo.java,Decorator.DecoratorPatternDemo,main/1[java.lang.String[]],redCircle,1
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/DecoratorPatternDemo.java,Decorator.DecoratorPatternDemo,main/1[java.lang.String[]],circle,1
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/ShapeDecorator.java,Decorator.ShapeDecorator,ShapeDecorator/1[Decorator.Shape],decoratedShape,2

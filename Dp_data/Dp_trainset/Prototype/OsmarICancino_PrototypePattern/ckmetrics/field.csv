@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/MainActivity.java,com.dalvikmx.prototypepattern.MainActivity,init/0,t1,2
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/MainActivity.java,com.dalvikmx.prototypepattern.MainActivity,init/0,t2,2
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/MainActivity.java,com.dalvikmx.prototypepattern.MainActivity,init/0,t3,2
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/SequenceCache.java,com.dalvikmx.prototypepattern.SequenceCache,getSequence/1[java.lang.String],sequenceHashtable,1
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/SequenceCache.java,com.dalvikmx.prototypepattern.SequenceCache,loadCache/0,sequenceHashtable,2
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/Sequence.java,com.dalvikmx.prototypepattern.Sequence,clone/0,TAG,1
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/Sequence.java,com.dalvikmx.prototypepattern.Sequence,getResult/0,result,1
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/Sequence.java,com.dalvikmx.prototypepattern.Sequence,getId/0,id,1
+/root/DesignPatternsDetection/Data/Prototype/OsmarICancino_PrototypePattern/ckmetrics/../app/src/main/java/com/dalvikmx/prototypepattern/Sequence.java,com.dalvikmx.prototypepattern.Sequence,setId/1[java.lang.String],id,3

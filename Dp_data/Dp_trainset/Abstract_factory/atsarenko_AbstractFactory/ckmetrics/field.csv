@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Application.java,Application,Application/1[IGUIFactory],button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Application.java,Application,Application/1[IGUIFactory],checkbox,1
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Application.java,Application,paint/0,button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Application.java,Application,paint/0,checkbox,1

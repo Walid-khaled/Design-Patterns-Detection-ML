@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Television,setDate/1[java.lang.String],date,2
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,TvKoujyou,touroku/1[Seihin],s,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,TvKoujyou,touroku/1[Seihin],t,2
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,RadioKoujyou,touroku/1[Seihin],r,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,RadioKoujyou,touroku/1[Seihin],s,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Client,main/1[java.lang.String[]],array,5
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Client,main/1[java.lang.String[]],i,3
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Client,main/1[java.lang.String[]],koujyou2,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Client,main/1[java.lang.String[]],koujyou1,2
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factorymethod2.java,Client,main/1[String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factorymethod2.java,Client,main/1[String[]],seihins,11
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factorymethod2.java,Client,main/1[String[]],i,11
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factorymethod2.java,Television,setDate/1[String],date,2

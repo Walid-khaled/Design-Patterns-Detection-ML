@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/MealBuilder.java,MealBuilder,getMeal/0,meal,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,setFood/1[java.lang.String],food,3
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,setDrink/1[java.lang.String],drink,3
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,getDrink/0,drink,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/Meal.java,Meal,getFood/0,food,1
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/KFCWaiter.java,KFCWaiter,setMealBuilder/1[MealBuilder],mb,3
+/root/DesignPatternsDetection/Data/Builder/kongzhimin_BuilderPattern/ckmetrics/../src/KFCWaiter.java,KFCWaiter,construct/0,mb,3

@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Leopard.java,temp.Leopard$builder,setGender/1[java.lang.String],gender,2
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Leopard.java,temp.Leopard$builder,build/0,n,1
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Leopard.java,temp.Leopard$builder,setColor/1[java.lang.String],color,2
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Leopard.java,temp.Leopard$builder,builder/1[java.lang.String],color,2
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Leopard.java,temp.Leopard,Leopard/1[temp.Leopard.builder],r,2
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Main.java,temp.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Builder/AnkurKumar23612_Builder-pattern/ckmetrics/../Main.java,temp.Main,main/1[java.lang.String[]],n,1

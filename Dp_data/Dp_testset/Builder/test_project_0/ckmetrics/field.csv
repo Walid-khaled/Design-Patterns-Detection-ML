@@ -1,0 +1,21 @@
+file,class,method,variable,usage
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withSzin/1[java.lang.String],szin,3
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,build/0,attackNumber,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,build/0,name,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,build/0,dorombol,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,build/0,szin,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,build/0,age,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withName/1[java.lang.String],name,3
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withAge/1[int],age,3
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withAttackNumber/1[int],attackNumber,3
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,but/0,attackNumber,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,but/0,name,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,but/0,szin,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,but/0,dorombol,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,but/0,age,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withDorombol/1[boolean],dorombol,3
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica,toString/0,attackNumber,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica,toString/0,name,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica,toString/0,szin,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica,toString/0,dorombol,1
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica,toString/0,age,1

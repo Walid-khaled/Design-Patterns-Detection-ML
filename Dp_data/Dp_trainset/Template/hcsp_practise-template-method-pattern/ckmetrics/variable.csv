@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Template/hcsp_practise-template-method-pattern/ckmetrics/../src/test/java/com/github/hcsp/inheritance/StoryTest.java,com.github.hcsp.inheritance.StoryTest,test/1[CaptureSystemOutput.OutputCapture],capture,1
+/root/DesignPatternsDetection/Data/Template/hcsp_practise-template-method-pattern/ckmetrics/../src/main/java/com/github/hcsp/inheritance/MonsterStory.java,com.github.hcsp.inheritance.MonsterStory,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Template/hcsp_practise-template-method-pattern/ckmetrics/../src/main/java/com/github/hcsp/inheritance/Story.java,com.github.hcsp.inheritance.Story,main/1[java.lang.String[]],args,0

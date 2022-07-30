@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Shape.java,Shape,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Shape.java,Shape,clone/0,clone,3
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Shape.java,Shape,setId/1[java.lang.String],id,2
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],clonedShape3,1
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],clonedShape2,1
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],clonedShape,1
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,getShape/1[java.lang.String],id,1
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,getShape/1[java.lang.String],cachedShape,1
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,loadCache/0,square,3
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,loadCache/0,rectangle,3
+/root/DesignPatternsDetection/Data/Prototype/ilroberts_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,loadCache/0,circle,3

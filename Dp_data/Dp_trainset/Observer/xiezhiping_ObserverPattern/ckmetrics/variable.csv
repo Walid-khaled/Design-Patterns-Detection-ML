@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,notifyObserver/1[java.lang.String],s,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,notifyObserver/1[java.lang.String],observers,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,removeObserver/1[Observers],observers,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Station.java,Station,addObserver/1[Observers],observers,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Observers.java,Observers,excute/1[java.lang.String],s,0
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Executor.java,Executor,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Executor.java,Executor,main/1[java.lang.String[]],station,5
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Observer.java,Observer,excute/1[java.lang.String],s,1
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Stations.java,Stations,notifyObserver/1[java.lang.String],s,0
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Stations.java,Stations,removeObserver/1[Observers],observers,0
+/root/DesignPatternsDetection/Data/Observer/xiezhiping_ObserverPattern/ckmetrics/../src/Stations.java,Stations,addObserver/1[Observers],observers,0

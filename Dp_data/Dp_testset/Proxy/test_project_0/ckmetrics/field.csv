@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Proxy/test_project_0/ckmetrics/../Proxy.java,com.hundredwordsgof.proxy.Proxy,getRealSubject/0,realSubject,1
+./Proxy/test_project_0/ckmetrics/../Proxy.java,com.hundredwordsgof.proxy.Proxy,doOperation/0,realSubject,2

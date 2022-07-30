@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/RunnableState.java,RunnableState,getCpu/1[ThreadContext],tc,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/ThreadContext.java,ThreadContext,setThreadState/1[ThreadState],threadState,2
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/BlockedState.java,BlockedState,resume/1[ThreadContext],tc,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],tc,3
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/NewState.java,NewState,start/1[ThreadContext],tc,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/RunningState.java,RunningState,suspend/1[ThreadContext],tc,1
+/root/DesignPatternsDetection/Data/State/kongzhimin_StatePattern/ckmetrics/../src/RunningState.java,RunningState,stop/1[ThreadContext],tc,1

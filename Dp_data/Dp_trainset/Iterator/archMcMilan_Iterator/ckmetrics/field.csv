@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,ConcreteAggreagate$TaskIterator,hasNext/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/archMcMilan_Iterator/ckmetrics/../src/IteratorApp.java,ConcreteAggreagate$TaskIterator,next/0,index,1

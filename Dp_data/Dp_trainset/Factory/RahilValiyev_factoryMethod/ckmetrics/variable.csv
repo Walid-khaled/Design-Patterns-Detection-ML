@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/StudentCreator.java,factory.StudentCreator,getData/0,str,1
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/StudentCreator.java,factory.StudentCreator,getData/0,fw,1
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/StudentCreator.java,factory.StudentCreator,getData/0,bw,2
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/StudentCreator.java,factory.StudentCreator,getData/0,e,1
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/Main.java,factory.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/Main.java,factory.Main,main/1[java.lang.String[]],factory,1
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/Main.java,factory.Main,main/1[java.lang.String[]],product,1
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/Main.java,factory.Main,main/1[java.lang.String[]],product1,1
+/root/DesignPatternsDetection/Data/Factory/RahilValiyev_factoryMethod/ckmetrics/../src/factory/Main.java,factory.Main,main/1[java.lang.String[]],factory1,1

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/cakefactory/CakeFactory.java,phuongsala.designpattern.abstractfactory.cakefactory.CakeFactory,getCake/1[java.lang.String],type,3
+/cakefactory/CakeFactory.java,phuongsala.designpattern.abstractfactory.cakefactory.CakeFactory,getFruit/1[java.lang.String],type,0

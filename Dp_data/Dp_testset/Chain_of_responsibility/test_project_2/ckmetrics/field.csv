@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+./Chain_of_responsibility/test_project_2/ckmetrics/../example/Handler.java,io.innofang.chain_of_responsibility.example.Handler,handleRequest/1[int],successor,2

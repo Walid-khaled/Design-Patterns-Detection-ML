@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeOpacityDecorator.java,changeOpacityDecorator,createButton/0,_but,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeOpacityDecorator.java,changeOpacityDecorator,changeOpacityDecorator/1[IButton],_but,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/TextUpperCaseDecorator.java,TextUpperCaseDecorator,TextUpperCaseDecorator/1[IButton],_but,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/TextUpperCaseDecorator.java,TextUpperCaseDecorator,createButton/0,_but,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/Main.java,Main,start/1[Stage],button,2
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeSizeDecorator.java,changeSizeDecorator,changeSizeDecorator/1[IButton],_but,1
+/root/DesignPatternsDetection/Data/Abstract_factory/clusson_AbstractFactory/ckmetrics/../src/main/java/changeSizeDecorator.java,changeSizeDecorator,createButton/0,_but,1

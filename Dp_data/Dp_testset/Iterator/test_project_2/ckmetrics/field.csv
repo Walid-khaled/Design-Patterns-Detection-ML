@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+./Iterator/test_project_2/ckmetrics/../ConcreteAggregate.java,com.hundredwordsgof.iterator.ConcreteAggregate,getRecords/0,records,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,next/0,concreteAggregate,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,next/0,index,2
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,ConcreteIterator/1[com.hundredwordsgof.iterator.ConcreteAggregate],concreteAggregate,3
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,currentItem/0,concreteAggregate,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,currentItem/0,index,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,isDone/0,concreteAggregate,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,isDone/0,index,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,first/0,concreteAggregate,1
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,first/0,index,2

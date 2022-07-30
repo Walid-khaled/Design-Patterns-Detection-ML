@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/Extra.java,extra.Extra,getPrecio/0,vehiculo,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/Extra.java,extra.Extra,"Extra/2[vehiculo.Vehiculo,double]",vehiculo,3
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/Extra.java,extra.Extra,descripcion/0,vehiculo,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/vehiculo/Vehiculo.java,vehiculo.Vehiculo,Vehiculo/1[double],precio,3
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/vehiculo/Vehiculo.java,vehiculo.Vehiculo,getPrecio/0,precio,1

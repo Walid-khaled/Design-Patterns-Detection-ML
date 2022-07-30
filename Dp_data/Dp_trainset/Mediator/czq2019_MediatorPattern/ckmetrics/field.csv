@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Mediator/czq2019_MediatorPattern/ckmetrics/../src/Mediator/User.java,Mediator.User,User/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Mediator/czq2019_MediatorPattern/ckmetrics/../src/Mediator/User.java,Mediator.User,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Mediator/czq2019_MediatorPattern/ckmetrics/../src/Mediator/User.java,Mediator.User,getName/0,name,1

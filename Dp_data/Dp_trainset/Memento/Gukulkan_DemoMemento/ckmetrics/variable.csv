@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car$CarMemento,"CarMemento/2[int,int]",powerState,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car$CarMemento,"CarMemento/2[int,int]",speedState,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setSpeed/1[int],speed,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,"Car/2[int,int]",power,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,"Car/2[int,int]",speed,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setPower/1[int],power,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setMemento/1[java.lang.Object],memento,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setMemento/1[java.lang.Object],object,2
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/DemoMemento.java,org.memento.DemoMemento,main/1[java.lang.String[]],atgs,0
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/DemoMemento.java,org.memento.DemoMemento,main/1[java.lang.String[]],car,7
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/DemoMemento.java,org.memento.DemoMemento,main/1[java.lang.String[]],memento,1

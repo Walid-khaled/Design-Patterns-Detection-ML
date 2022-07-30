@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,textkill,textkill/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,imagekill,imagekill/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,get/1[int],index,1
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,remove/1[Component],component,1
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,folder/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,add/1[Component],component,1
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,kill/0,file,1
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],f1,3
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],f2,2
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],f3,2

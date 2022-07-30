@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/ui/Text.java,assignment2.ui.Text,Text/1[java.lang.String],true,6,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/ui/Image.java,assignment2.ui.Image,Image/1[java.lang.String],true,9,0,1,2,4,0,1,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,9,1,0,false
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/ui/Stack.java,assignment2.ui.Stack,Stack/1[assignment2.ui.View[]],true,6,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/BedView.java,assignment2.hms.BedView,BedView/1[assignment2.hms.HealthCondition],true,12,2,7,0,17,0,0,1,0,0,0,0,6,0,0,3,0,3,0,2,0,0,0,16,1,0,false
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/PatientView.java,assignment2.hms.PatientView,"PatientView/2[java.lang.String,assignment2.hms.HealthCondition]",true,12,1,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,0,false
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/PatientView.java,assignment2.hms.PatientView,render/0,false,17,4,1,0,4,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,11,1,0,false
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/Application.java,assignment2.hms.Application,main/1[java.lang.String[]],false,8,3,1,1,4,0,2,1,1,0,0,0,0,0,0,3,3,2,0,0,0,0,0,11,9,0,false

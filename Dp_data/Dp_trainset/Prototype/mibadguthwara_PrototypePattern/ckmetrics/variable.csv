@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/Bidang.java,Bidang,setId/1[java.lang.String],id,2
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/Bidang.java,Bidang,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/Bidang.java,Bidang,clone/0,clone,3
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,loadCache/0,jajargenjang,3
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,loadCache/0,segitiga,3
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,loadCache/0,bintang,3
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,loadCache/0,segienam,3
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,getBidang/1[java.lang.String],cachedBidang,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/BidangCache.java,BidangCache,getBidang/1[java.lang.String],bidangId,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/PrototypePatternDemo.java,PrototypePatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/PrototypePatternDemo.java,PrototypePatternDemo,main/1[java.lang.String[]],clonedBidang4,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/PrototypePatternDemo.java,PrototypePatternDemo,main/1[java.lang.String[]],clonedBidang,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/PrototypePatternDemo.java,PrototypePatternDemo,main/1[java.lang.String[]],clonedBidang3,1
+/root/DesignPatternsDetection/Data/Prototype/mibadguthwara_PrototypePattern/ckmetrics/../src/PrototypePatternDemo.java,PrototypePatternDemo,main/1[java.lang.String[]],clonedBidang2,1

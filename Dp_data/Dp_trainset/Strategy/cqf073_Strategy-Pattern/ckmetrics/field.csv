@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashRebate.java,CashRebate,CashRebate/1[double],moneyRebate,3
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashRebate.java,CashRebate,acceptCash/1[double],moneyRebate,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,"CashReturn/2[double,double]",moneyCondition,3
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,"CashReturn/2[double,double]",moneyReturn,3
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,acceptCash/1[double],moneyCondition,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,acceptCash/1[double],moneyReturn,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],total,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,"consume/3[java.lang.String,int,double]",total,1

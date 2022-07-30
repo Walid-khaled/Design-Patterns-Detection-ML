@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/test/java/vehiculo/FamiliarTest.java,vehiculo.FamiliarTest,testFamiliar/0,vehiculo,8
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/test/java/vehiculo/UtilitarioTest.java,vehiculo.UtilitarioTest,testUtilitarioConAireAcondicionadoPinturaMetalizada/0,vehiculo,8
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/test/java/vehiculo/UtilitarioTest.java,vehiculo.UtilitarioTest,testUtilitarioConPinturaMetalizadaAireAcondicionado/0,vehiculo,8
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/test/java/vehiculo/UtilitarioTest.java,vehiculo.UtilitarioTest,testUtilitarioConAireAcondicinado/0,vehiculo,4
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/Extra.java,extra.Extra,"Extra/2[vehiculo.Vehiculo,double]",precioExtra,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/Extra.java,extra.Extra,"Extra/2[vehiculo.Vehiculo,double]",vehiculo,2
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/ConAireAcondicionado.java,extra.ConAireAcondicionado,"ConAireAcondicionado/2[vehiculo.Vehiculo,double]",precioExtra,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/ConAireAcondicionado.java,extra.ConAireAcondicionado,"ConAireAcondicionado/2[vehiculo.Vehiculo,double]",vehiculo,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/ConPinturaMetalizada.java,extra.ConPinturaMetalizada,"ConPinturaMetalizada/2[vehiculo.Vehiculo,double]",precioExtra,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/ConPinturaMetalizada.java,extra.ConPinturaMetalizada,"ConPinturaMetalizada/2[vehiculo.Vehiculo,double]",vehiculo,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/ConTechoSolar.java,extra.ConTechoSolar,"ConTechoSolar/2[vehiculo.Vehiculo,double]",precioExtra,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/extra/ConTechoSolar.java,extra.ConTechoSolar,"ConTechoSolar/2[vehiculo.Vehiculo,double]",vehiculo,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/vehiculo/Utilitario.java,vehiculo.Utilitario,Utilitario/1[double],precio,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/vehiculo/Familiar.java,vehiculo.Familiar,Familiar/1[double],precio,1
+/root/DesignPatternsDetection/Data/Decorator/ProgramacionAvanzadaUJI_DecoratorPattern/ckmetrics/../src/main/java/vehiculo/Vehiculo.java,vehiculo.Vehiculo,Vehiculo/1[double],precio,2

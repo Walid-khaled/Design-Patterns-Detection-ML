@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Hub.java,Test.Hub,Hub/1[java.lang.String],type,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],df,7
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],nd1,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],nd3,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],nd2,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],nd5,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Client.java,Test.Client,main/1[java.lang.String[]],nd4,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../DeviceFactory.java,Test.DeviceFactory,getNetworkDevice/1[java.lang.String],type,2
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../DeviceFactory.java,Test.DeviceFactory,DeviceFactory/0,nd1,1
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../DeviceFactory.java,Test.DeviceFactory,DeviceFactory/0,nd2,1
+/root/DesignPatternsDetection/Data/Flyweight/Marshmallow36_Flyweight-Pattern/ckmetrics/../Switch.java,Test.Switch,Switch/1[java.lang.String],type,2

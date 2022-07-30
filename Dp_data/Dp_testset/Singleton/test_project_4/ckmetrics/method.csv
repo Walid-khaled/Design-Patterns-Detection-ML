@@ -1,0 +1,4 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,Singleton/0,true,14,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,getInstance/0,false,16,1,2,0,6,1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,5,9,0,false
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,main/1[java.lang.String[]],false,28,1,1,2,7,0,2,1,2,1,1,0,0,0,0,1,0,3,0,0,0,0,0,5,9,0,false

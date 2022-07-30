@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Builder.java,Builder,getMeme/0,meme,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Builder.java,Builder,init/0,meme,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setTop/1[java.lang.String],top,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setOutput/1[Image],output,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setOutput/1[Image],image,2
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,get/0,output,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,get/0,image,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,get/0,top,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,get/0,bottom,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setBottom/1[java.lang.String],bottom,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Meme.java,Meme,setImage/1[java.lang.String],image,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/MemeBuilder.java,MemeBuilder,read/1[java.lang.String],br,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Director.java,Director,setBuilder/1[Builder],builder,3
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Director.java,Director,create/0,builder,1
+/root/DesignPatternsDetection/Data/Factory/oxyc_java-builder-factory-example/ckmetrics/../src/Director.java,Director,getMeme/0,builder,1

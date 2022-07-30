@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],args,0
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],kazan,2
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],newYork,2
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],usa,2
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],world,1
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],russia,2
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],moscow,2
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],databaseTemperatureProvider,4
+./Composite/ProjectTeam5/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],losAngeles,2
+./Composite/ProjectTeam5/ckmetrics/../regions/DatabaseTemperatureRegion.java,regions.DatabaseTemperatureRegion,"DatabaseTemperatureRegion/2[database.DatabaseTemperatureProvider,java.lang.String]",cityName,2
+./Composite/ProjectTeam5/ckmetrics/../regions/DatabaseTemperatureRegion.java,regions.DatabaseTemperatureRegion,"DatabaseTemperatureRegion/2[database.DatabaseTemperatureProvider,java.lang.String]",temperatureProvider,2
+./Composite/ProjectTeam5/ckmetrics/../regions/AverageTemperatureRegion.java,regions.AverageTemperatureRegion,AverageTemperatureRegion/1[regions.TemperatureRegion[]],regions,2
+./Composite/ProjectTeam5/ckmetrics/../regions/AverageTemperatureRegion.java,regions.AverageTemperatureRegion,getTemperature/0,sum,2
+./Composite/ProjectTeam5/ckmetrics/../regions/AverageTemperatureRegion.java,regions.AverageTemperatureRegion,getTemperature/0,region,1
+./Composite/ProjectTeam5/ckmetrics/../database/DatabaseTemperatureProvider.java,database.DatabaseTemperatureProvider,getTemperature/1[java.lang.String],cityName,0
+./Composite/ProjectTeam5/ckmetrics/../database/DummyDatabaseTemperatureProvider.java,database.DummyDatabaseTemperatureProvider,getTemperature/1[java.lang.String],cityName,1

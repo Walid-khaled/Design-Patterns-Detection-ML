@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withSzin/1[java.lang.String],szin,2
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,build/0,cica,6
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withName/1[java.lang.String],name,2
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withAge/1[int],age,2
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withAttackNumber/1[int],attackNumber,2
+./Builder/test_project_0/ckmetrics/../Design Pattern/src/BuilderV2/Cica.java,BuilderV2.Cica$CicaBuilder,withDorombol/1[boolean],dorombol,2

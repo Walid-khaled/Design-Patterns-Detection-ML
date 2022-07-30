@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Decorator/test_project_1/ckmetrics/../example/java/DecorateCake.java,io.innofang.decorator.example.java.DecorateCake,DecorateCake/1[io.innofang.decorator.example.java.Cake],cake,3
+./Decorator/test_project_1/ckmetrics/../example/java/DecorateCake.java,io.innofang.decorator.example.java.DecorateCake,make/0,cake,1
+./Decorator/test_project_1/ckmetrics/../base/Decorator.java,io.innofang.decorator.base.Decorator,operation/0,component,1
+./Decorator/test_project_1/ckmetrics/../base/Decorator.java,io.innofang.decorator.base.Decorator,Decorator/1[io.innofang.decorator.base.Component],component,3

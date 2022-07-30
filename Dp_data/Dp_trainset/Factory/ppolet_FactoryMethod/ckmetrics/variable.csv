@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/male/MaleFactory.java,factorymethod.male.MaleFactory,getPerson/1[int],age,2
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/female/FemaleFactory.java,factorymethod.female.FemaleFactory,getPerson/1[int],age,2
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/Solution.java,factorymethod.Solution,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/Solution.java,factorymethod.Solution,main/1[java.lang.String[]],maleFactory,3
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/Solution.java,factorymethod.Solution,main/1[java.lang.String[]],femaleFactory,3
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/FactoryProducer.java,factorymethod.FactoryProducer,getFactory/1[factorymethod.FactoryProducer.HumanFactoryType],humanType,1
+/root/DesignPatternsDetection/Data/Factory/ppolet_FactoryMethod/ckmetrics/../src/factorymethod/AbstractFactory.java,factorymethod.AbstractFactory,getPerson/1[int],age,0

@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/PrototypeDesignPatternMainStart.java,prototype.PrototypeDesignPatternMainStart,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/PrototypeDesignPatternMainStart.java,prototype.PrototypeDesignPatternMainStart,main/1[java.lang.String[]],e,1
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/PrototypeDesignPatternMainStart.java,prototype.PrototypeDesignPatternMainStart,main/1[java.lang.String[]],student2,4
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/PrototypeDesignPatternMainStart.java,prototype.PrototypeDesignPatternMainStart,main/1[java.lang.String[]],science,1
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/PrototypeDesignPatternMainStart.java,prototype.PrototypeDesignPatternMainStart,main/1[java.lang.String[]],student1,5
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Course.java,prototype.Course,"Course/3[java.lang.String,java.lang.String,java.lang.String]",sub2,1
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Course.java,prototype.Course,"Course/3[java.lang.String,java.lang.String,java.lang.String]",sub3,1
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Course.java,prototype.Course,"Course/3[java.lang.String,java.lang.String,java.lang.String]",sub1,1
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Student.java,prototype.Student,"Student/3[int,java.lang.String,prototype.Course]",name,2
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Student.java,prototype.Student,"Student/3[int,java.lang.String,prototype.Course]",course,2
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Student.java,prototype.Student,"Student/3[int,java.lang.String,prototype.Course]",id,2
+/root/DesignPatternsDetection/Data/Prototype/ssharif-uvic_PrototypePattern/ckmetrics/../Prototype-Java_proj/src/prototype/Student.java,prototype.Student,clone/0,student,2

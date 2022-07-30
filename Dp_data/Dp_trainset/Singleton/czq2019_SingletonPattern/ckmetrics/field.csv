@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/czq2019_SingletonPattern/ckmetrics/../src/singleton/SingleObject.java,singleton.SingleObject,getInstance/0,instance,1
+/root/DesignPatternsDetection/Data/Singleton/czq2019_SingletonPattern/ckmetrics/../src/singletonways/Singleton1.java,singletonways.Singleton1,getInstance/0,instance,3
+/root/DesignPatternsDetection/Data/Singleton/czq2019_SingletonPattern/ckmetrics/../src/singletonways/Singleton4.java,singletonways.Singleton4,getInstance/0,instance,4
+/root/DesignPatternsDetection/Data/Singleton/czq2019_SingletonPattern/ckmetrics/../src/singletonways/Singleton3.java,singletonways.Singleton3,getInstance/0,instance,1
+/root/DesignPatternsDetection/Data/Singleton/czq2019_SingletonPattern/ckmetrics/../src/singletonways/Singleton2.java,singletonways.Singleton2,getInstance/0,instance,3

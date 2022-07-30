@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Weapon.java,Weapon,setRange/1[int],range,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Weapon.java,Weapon,getAtk/0,atk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Weapon.java,Weapon,display/0,atk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Weapon.java,Weapon,display/0,range,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Weapon.java,Weapon,setAtk/1[int],atk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Weapon.java,Weapon,getRange/0,range,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/WarriorTrainingCamp.java,WarriorTrainingCamp,trainAdventurer/0,factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Adventurer.java,Adventurer,setClothes/1[Clothes],clothes,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Adventurer.java,Adventurer,setWeapon/1[Weapon],weapon,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/EquipFactoryTest.java,EquipFactoryTest,main/1[java.lang.String[]],equipFactory,6
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/ArcherTrainingCamp.java,ArcherTrainingCamp,trainAdventurer/0,factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Clothes.java,Clothes,display/0,def,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Clothes.java,Clothes,setDef/1[int],def,1
+/root/DesignPatternsDetection/Data/Abstract_factory/a7512cs_AbstractFactoryPattern/ckmetrics/../src/Clothes.java,Clothes,getDef/0,def,1

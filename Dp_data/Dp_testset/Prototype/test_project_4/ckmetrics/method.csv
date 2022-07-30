@@ -1,0 +1,5 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Prototype/test_project_4/ckmetrics/../Client.java,com.hundredwordsgof.prototype.Client,operation/0,false,15,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+./Prototype/test_project_4/ckmetrics/../Client.java,com.hundredwordsgof.prototype.Client,Client/1[com.hundredwordsgof.prototype.Prototype],true,10,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Prototype/test_project_4/ckmetrics/../ConcretePrototype.java,com.hundredwordsgof.prototype.ConcretePrototype,copyMe/0,false,8,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,1,0,true
+./Prototype/test_project_4/ckmetrics/../Prototype.java,com.hundredwordsgof.prototype.Prototype,copyMe/0,false,8,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1024,0,true

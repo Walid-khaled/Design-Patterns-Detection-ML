@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/AbstractFactory/Window.java,AbstractFactory.Window,Window/0,model,2
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/AdapteurAvion.java,Adapteur.AdapteurAvion,getLongueur/0,p,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/AdapteurAvion.java,Adapteur.AdapteurAvion,AdapteurAvion/1[Adapteur.PisteAvion],p,3
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/AdapteurAvion.java,Adapteur.AdapteurAvion,getLargeur/0,p,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteBowling.java,Adapteur.PisteBowling,getLargeur/0,largeur,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteBowling.java,Adapteur.PisteBowling,"PisteBowling/2[int,int]",longueur,3
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteBowling.java,Adapteur.PisteBowling,"PisteBowling/2[int,int]",largeur,3
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteBowling.java,Adapteur.PisteBowling,getLongueur/0,longueur,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/Boule.java,Adapteur.Boule,lancer/0,piste,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/Boule.java,Adapteur.Boule,Boule/1[Adapteur.Piste],piste,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteAvion.java,Adapteur.PisteAvion,getDemiLongueur/0,longueur,1
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteAvion.java,Adapteur.PisteAvion,"PisteAvion/2[int,int]",longueur,3
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteAvion.java,Adapteur.PisteAvion,"PisteAvion/2[int,int]",largeur,3
+/root/DesignPatternsDetection/Data/Factory/MedinaAlex_FactoryMethod/ckmetrics/../src/Adapteur/PisteAvion.java,Adapteur.PisteAvion,getDemiLargeur/0,largeur,1

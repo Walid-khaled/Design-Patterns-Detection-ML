@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Chain_of_responsibility/test_project_0/ckmetrics/../Handler.java,com.hundredwordsgof.chainofresponsibility.Handler,setSuccesor/1[com.hundredwordsgof.chainofresponsibility.Handler],succesor,3
+./Chain_of_responsibility/test_project_0/ckmetrics/../ConcreteHandler1.java,com.hundredwordsgof.chainofresponsibility.ConcreteHandler1,handleRequest/0,handleRequestInvoked,2
+./Chain_of_responsibility/test_project_0/ckmetrics/../ConcreteHandler1.java,com.hundredwordsgof.chainofresponsibility.ConcreteHandler1,isHandleRequestInvoked/0,handleRequestInvoked,1
+./Chain_of_responsibility/test_project_0/ckmetrics/../ConcreteHandler2.java,com.hundredwordsgof.chainofresponsibility.ConcreteHandler2,handleRequest/0,handleRequestInvoked,1
+./Chain_of_responsibility/test_project_0/ckmetrics/../ConcreteHandler2.java,com.hundredwordsgof.chainofresponsibility.ConcreteHandler2,isHandleRequestInvoked/0,handleRequestInvoked,1

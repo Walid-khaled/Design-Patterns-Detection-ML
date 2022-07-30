@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+./Chain_of_responsibility/test_project_1/ckmetrics/../ThirdTrain.java,com.codevillain679.behavioral.chainofresponsibility.ThirdTrain,handlePassengers/1[int],passengers,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../ThirdTrain.java,com.codevillain679.behavioral.chainofresponsibility.ThirdTrain,setNext/1[com.codevillain679.behavioral.chainofresponsibility.Train],nextTrain,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../FirstTrain.java,com.codevillain679.behavioral.chainofresponsibility.FirstTrain,handlePassengers/1[int],passengers,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../FirstTrain.java,com.codevillain679.behavioral.chainofresponsibility.FirstTrain,setNext/1[com.codevillain679.behavioral.chainofresponsibility.Train],nextTrain,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../SecondTrain.java,com.codevillain679.behavioral.chainofresponsibility.SecondTrain,handlePassengers/1[int],passengers,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../SecondTrain.java,com.codevillain679.behavioral.chainofresponsibility.SecondTrain,setNext/1[com.codevillain679.behavioral.chainofresponsibility.Train],nextTrain,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../ChainOfResponsibilityPattern.java,com.codevillain679.behavioral.chainofresponsibility.ChainOfResponsibilityPattern,ChainOfResponsibilityPattern/0,secondTrain,2
+./Chain_of_responsibility/test_project_1/ckmetrics/../ChainOfResponsibilityPattern.java,com.codevillain679.behavioral.chainofresponsibility.ChainOfResponsibilityPattern,ChainOfResponsibilityPattern/0,firstTrain,4
+./Chain_of_responsibility/test_project_1/ckmetrics/../ChainOfResponsibilityPattern.java,com.codevillain679.behavioral.chainofresponsibility.ChainOfResponsibilityPattern,ChainOfResponsibilityPattern/0,thirdTrain,1
+./Chain_of_responsibility/test_project_1/ckmetrics/../Train.java,com.codevillain679.behavioral.chainofresponsibility.Train,setNext/1[com.codevillain679.behavioral.chainofresponsibility.Train],nextTrain,0
+./Chain_of_responsibility/test_project_1/ckmetrics/../Train.java,com.codevillain679.behavioral.chainofresponsibility.Train,handlePassengers/1[int],passengers,0

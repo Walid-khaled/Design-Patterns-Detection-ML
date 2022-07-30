@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/KorneliaJagodzinska_Adapter/ckmetrics/../src/main/java/TwoWayAdapter.java,TwoWayAdapter,"TwoWayAdapter/2[UKDevice,ContinentalDevice]",ukDevice,2
+/root/DesignPatternsDetection/Data/Adapter/KorneliaJagodzinska_Adapter/ckmetrics/../src/main/java/TwoWayAdapter.java,TwoWayAdapter,"TwoWayAdapter/2[UKDevice,ContinentalDevice]",device,2
+/root/DesignPatternsDetection/Data/Adapter/KorneliaJagodzinska_Adapter/ckmetrics/../src/main/java/UKToContinentalAdapter.java,UKToContinentalAdapter,UKToContinentalAdapter/1[UKDevice],device,2
+/root/DesignPatternsDetection/Data/Adapter/KorneliaJagodzinska_Adapter/ckmetrics/../src/main/java/UKSocket.java,UKSocket,plugIn/1[UKDevice],device,1
+/root/DesignPatternsDetection/Data/Adapter/KorneliaJagodzinska_Adapter/ckmetrics/../src/main/java/ContinentalSocket.java,ContinentalSocket,plugIn/1[ContinentalDevice],device,1

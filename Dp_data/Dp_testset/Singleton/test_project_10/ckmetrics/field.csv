@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.ThreadSafeSingleton,getInstance/0,instance,3
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.EagerInitializedSingleton,getInstance/0,INSTANCE,1
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.DoubleCheckLockingSingleton,getInstance/0,instance,4
+./Singleton/test_project_10/ckmetrics/../Singleton.java,Singleton.LazyInitializedSingleton,getInstance/0,instance,3

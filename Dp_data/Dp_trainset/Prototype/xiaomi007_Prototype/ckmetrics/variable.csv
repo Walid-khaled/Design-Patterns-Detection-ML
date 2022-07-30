@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/Sheep.java,fr.xiaomi.Sheep,makeCopy/0,sheepObject,2
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/Sheep.java,fr.xiaomi.Sheep,makeCopy/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/CloneFactory.java,fr.xiaomi.CloneFactory,getClone/1[fr.xiaomi.Animal],animalSample,1
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/Main.java,fr.xiaomi.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/Main.java,fr.xiaomi.Main,main/1[java.lang.String[]],animalMaker,1
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/Main.java,fr.xiaomi.Main,main/1[java.lang.String[]],clonedSally,1
+/root/DesignPatternsDetection/Data/Prototype/xiaomi007_Prototype/ckmetrics/../src/fr/xiaomi/Main.java,fr.xiaomi.Main,main/1[java.lang.String[]],sally,2

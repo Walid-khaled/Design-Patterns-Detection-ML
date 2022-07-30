@@ -1,0 +1,6 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Template/test_project_2/ckmetrics/../ConcreteClass.java,com.hundredwordsgof.templatemethod.ConcreteClass,primitiveOperation1/0,false,11,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Template/test_project_2/ckmetrics/../ConcreteClass.java,com.hundredwordsgof.templatemethod.ConcreteClass,primitiveOperation2/0,false,15,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Template/test_project_2/ckmetrics/../AbstractClass.java,com.hundredwordsgof.templatemethod.AbstractClass,primitiveOperation1/0,false,20,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1024,0,false
+./Template/test_project_2/ckmetrics/../AbstractClass.java,com.hundredwordsgof.templatemethod.AbstractClass,templateMethod/0,false,16,1,1,2,3,1,0,0,2,2,1,0,0,0,0,0,0,0,1,0,0,0,0,13,1,0,true
+./Template/test_project_2/ckmetrics/../AbstractClass.java,com.hundredwordsgof.templatemethod.AbstractClass,primitiveOperation2/0,false,22,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1024,0,false

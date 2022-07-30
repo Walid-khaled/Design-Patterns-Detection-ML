@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],factory,2
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],log,2
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],e,1

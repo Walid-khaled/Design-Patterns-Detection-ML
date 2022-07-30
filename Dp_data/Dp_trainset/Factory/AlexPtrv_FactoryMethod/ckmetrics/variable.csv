@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/AlexPtrv_FactoryMethod/ckmetrics/../src/ShowCars.java,ShowCars,showCarsByMark/1[java.lang.String],car,4
+/root/DesignPatternsDetection/Data/Factory/AlexPtrv_FactoryMethod/ckmetrics/../src/ShowCars.java,ShowCars,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/AlexPtrv_FactoryMethod/ckmetrics/../src/ShowCars.java,ShowCars,main/1[java.lang.String[]],cars,1
+/root/DesignPatternsDetection/Data/Factory/AlexPtrv_FactoryMethod/ckmetrics/../src/ShowCars.java,ShowCars,main/1[java.lang.String[]],carFactory,1

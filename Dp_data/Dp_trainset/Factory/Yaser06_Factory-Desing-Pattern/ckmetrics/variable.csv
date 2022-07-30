@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Yaser06_Factory-Desing-Pattern/ckmetrics/../FactoryDesingPattern/src/com/yaser/domain/ShapeFactory.java,com.yaser.domain.ShapeFactory,getShape/1[java.lang.String],shapeType,4
+/root/DesignPatternsDetection/Data/Factory/Yaser06_Factory-Desing-Pattern/ckmetrics/../FactoryDesingPattern/src/com/yaser/main/DriverFactoryDesingPattern.java,com.yaser.main.DriverFactoryDesingPattern,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/Yaser06_Factory-Desing-Pattern/ckmetrics/../FactoryDesingPattern/src/com/yaser/main/DriverFactoryDesingPattern.java,com.yaser.main.DriverFactoryDesingPattern,main/1[java.lang.String[]],shape1,1
+/root/DesignPatternsDetection/Data/Factory/Yaser06_Factory-Desing-Pattern/ckmetrics/../FactoryDesingPattern/src/com/yaser/main/DriverFactoryDesingPattern.java,com.yaser.main.DriverFactoryDesingPattern,main/1[java.lang.String[]],shape2,1
+/root/DesignPatternsDetection/Data/Factory/Yaser06_Factory-Desing-Pattern/ckmetrics/../FactoryDesingPattern/src/com/yaser/main/DriverFactoryDesingPattern.java,com.yaser.main.DriverFactoryDesingPattern,main/1[java.lang.String[]],shapeFactory,2

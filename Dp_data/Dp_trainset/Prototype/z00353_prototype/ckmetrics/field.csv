@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,Sheep/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,Sheep/1[Sheep],name,1
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/Sheep.java,Sheep,getName/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/FF7ProfessorHojo.java,FF7ProfessorHojo,FF7ProfessorHojo/1[PrototypeCloner],prototypeCloner,3
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/FF7ProfessorHojo.java,FF7ProfessorHojo,operation/0,productGetter,2
+/root/DesignPatternsDetection/Data/Prototype/z00353_prototype/ckmetrics/../src/main/java/FF7ProfessorHojo.java,FF7ProfessorHojo,operation/0,prototypeCloner,2

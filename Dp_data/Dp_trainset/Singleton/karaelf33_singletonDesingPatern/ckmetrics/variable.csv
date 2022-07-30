@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../src/main/java/com/desingpatern/singleton/SingletonApplication.java,com.desingpatern.singleton.SingletonApplication,main/1[java.lang.String[]],args,1
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],args,1
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],outputFile,5
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],mavenWrapperPropertyFile,2
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],e,3
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],mavenWrapperPropertyFileInputStream,4
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],mavenWrapperProperties,2
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],baseDirectory,3
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,main/1[java.lang.String[]],url,4
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",password,0
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",website,1
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",rbc,3
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",urlString,1
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",destination,1
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",fos,2
+/root/DesignPatternsDetection/Data/Singleton/karaelf33_singletonDesingPatern/ckmetrics/../.mvn/wrapper/MavenWrapperDownloader.java,MavenWrapperDownloader,"downloadFileFromURL/2[java.lang.String,java.io.File]",username,0

@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/State/java9s_state-pattern-example/ckmetrics/../src/com/java9s/designpattern/state/Kid.java,com.java9s.designpattern.state.Kid,eat/0,kidState,1
+/root/DesignPatternsDetection/Data/State/java9s_state-pattern-example/ckmetrics/../src/com/java9s/designpattern/state/Kid.java,com.java9s.designpattern.state.Kid,play/0,kidState,1
+/root/DesignPatternsDetection/Data/State/java9s_state-pattern-example/ckmetrics/../src/com/java9s/designpattern/state/Kid.java,com.java9s.designpattern.state.Kid,setAge/1[int],kidState,5
+/root/DesignPatternsDetection/Data/State/java9s_state-pattern-example/ckmetrics/../src/com/java9s/designpattern/state/Kid.java,com.java9s.designpattern.state.Kid,setAge/1[int],age,7
+/root/DesignPatternsDetection/Data/State/java9s_state-pattern-example/ckmetrics/../src/com/java9s/designpattern/state/Kid.java,com.java9s.designpattern.state.Kid,Kid/1[int],age,2

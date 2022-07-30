@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Bridge/test_project_2/ckmetrics/../RefinedAbstraction.java,com.hundredwordsgof.bridge.RefinedAbstraction,RefinedAbstraction/1[com.hundredwordsgof.bridge.Implementor],implementor,1
+./Bridge/test_project_2/ckmetrics/../Abstraction.java,com.hundredwordsgof.bridge.Abstraction,Abstraction/1[com.hundredwordsgof.bridge.Implementor],implementor,2

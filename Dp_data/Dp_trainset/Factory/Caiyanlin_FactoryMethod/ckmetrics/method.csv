@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,Ford,GetLogo/0,false,10,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,carFactory,getCar/0,false,24,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1024,0,false
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,ToyotaFactory,getCar/0,false,35,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,false
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,FactoryMethod,main/1[java.lang.String[]],false,41,3,1,2,5,0,2,1,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,9,0,false
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,fordFactory,getCar/0,false,29,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,false
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,Toyota,GetLogo/0,false,17,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Factory/Caiyanlin_FactoryMethod/ckmetrics/../FactoryMethod.java,car,GetLogo/0,false,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false

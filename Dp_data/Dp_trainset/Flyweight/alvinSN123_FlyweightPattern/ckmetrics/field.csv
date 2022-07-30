@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,setX/1[int],x,3
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,draw/0,color,1
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,draw/0,x,1
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,draw/0,y,1
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,draw/0,radius,1
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,Bulat/1[java.lang.String],color,3
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,setRadius/1[int],radius,3
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/Bulat.java,com.mycompany.flyweight.Bulat,setY/1[int],y,3
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/FlyweightPatternDemo.java,com.mycompany.flyweight.FlyweightPatternDemo,getRandomColor/0,colors,1
+/root/DesignPatternsDetection/Data/Flyweight/alvinSN123_FlyweightPattern/ckmetrics/../src/main/java/com/mycompany/flyweight/BidangFactory.java,com.mycompany.flyweight.BidangFactory,getBulat/1[java.lang.String],bulatMap,2

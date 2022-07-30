@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Factory/test_project_0/ckmetrics/../BTC.java,FactoryAndPrototype.BTC,identify/0,fullName,1
+./Factory/test_project_0/ckmetrics/../XRP.java,FactoryAndPrototype.XRP,identify/0,fullName,1
+./Factory/test_project_0/ckmetrics/../CryptoCurrency.java,FactoryAndPrototype.CryptoCurrency,setDateOfCreation/1[java.util.Date],dateOfCreation,1
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,mine/1[java.lang.String],prototypes,1
+./Factory/test_project_0/ckmetrics/../ETH.java,FactoryAndPrototype.ETH,identify/0,fullName,1

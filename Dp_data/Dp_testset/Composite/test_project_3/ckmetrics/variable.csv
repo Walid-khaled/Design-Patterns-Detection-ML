@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,"Leaf/2[java.lang.String,java.lang.Double]",price,2
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,"Leaf/2[java.lang.String,java.lang.Double]",name,2
+./Composite/test_project_3/ckmetrics/../src/TestCompositePattern.java,TestCompositePattern,main/1[java.lang.String[]],args,0
+./Composite/test_project_3/ckmetrics/../src/TestCompositePattern.java,TestCompositePattern,main/1[java.lang.String[]],glue,1
+./Composite/test_project_3/ckmetrics/../src/TestCompositePattern.java,TestCompositePattern,main/1[java.lang.String[]],book,1
+./Composite/test_project_3/ckmetrics/../src/TestCompositePattern.java,TestCompositePattern,main/1[java.lang.String[]],pencil,1
+./Composite/test_project_3/ckmetrics/../src/TestCompositePattern.java,TestCompositePattern,main/1[java.lang.String[]],listOfItems,5
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,compPrice/0,temporalvariable,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,compPrice/0,totalcost,2
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,toString/0,temporalvariable,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,addItem/1[Leaf],item,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,removeItem/1[Leaf],item,1

@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Observer/test_project_4/ckmetrics/../ConcreteSubject.java,com.hundredwordsgof.observer.ConcreteSubject,setState/1[int],state,2
+./Observer/test_project_4/ckmetrics/../ConcreteObserver.java,com.hundredwordsgof.observer.ConcreteObserver,ConcreteObserver/1[com.hundredwordsgof.observer.ConcreteSubject],subject,2
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,attach/1[com.hundredwordsgof.observer.Observer],observer,1
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,dettach/1[com.hundredwordsgof.observer.Observer],observer,1
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,notifyObervers/0,observer,1
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,notifyObervers/0,iterator,3

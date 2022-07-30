@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/Vodafone.java,com.java9s.tutorials.designpattern.proxy.Vodafone,getResource/1[java.lang.String],site,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/ISP.java,com.java9s.tutorials.designpattern.proxy.ISP,getResource/1[java.lang.String],site,0
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/InternetProxy.java,com.java9s.tutorials.designpattern.proxy.InternetProxy,getResource/1[java.lang.String],networkSettings,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/InternetProxy.java,com.java9s.tutorials.designpattern.proxy.InternetProxy,getResource/1[java.lang.String],site,3
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/InternetProxy.java,com.java9s.tutorials.designpattern.proxy.InternetProxy,logRequest/1[java.lang.String],site,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/InternetProxy.java,com.java9s.tutorials.designpattern.proxy.InternetProxy,isBlocked/1[java.lang.String],site,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/Exec.java,com.java9s.tutorials.designpattern.proxy.Exec,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/Exec.java,com.java9s.tutorials.designpattern.proxy.Exec,main/1[java.lang.String[]],browser,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/Browser.java,com.java9s.tutorials.designpattern.proxy.Browser,sendRequest/0,site,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/Browser.java,com.java9s.tutorials.designpattern.proxy.Browser,sendRequest/0,response,1
+/root/DesignPatternsDetection/Data/Proxy/java9s_proxy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/proxy/Browser.java,com.java9s.tutorials.designpattern.proxy.Browser,loadResponse/1[java.lang.String],response,1

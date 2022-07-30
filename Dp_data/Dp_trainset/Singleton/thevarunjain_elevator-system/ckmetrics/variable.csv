@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorServer.java,ElevatorServer,"isApproachingFloor/2[Elevator,int]",e,4
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorServer.java,ElevatorServer,"isApproachingFloor/2[Elevator,int]",floor,2
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorServer.java,ElevatorServer,run/0,e,2
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorServer.java,ElevatorServer,startMovingUp/1[Elevator],e,0
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorServer.java,ElevatorServer,startMovingDown/1[Elevator],e,0
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],server,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],elevator,7
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,a,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/Elevator.java,Elevator,Elevator/0,b,1
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorHandler.java,ElevatorHandler,"goToFloor/2[Elevator,int]",elevator,13
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/ElevatorHandler.java,ElevatorHandler,"goToFloor/2[Elevator,int]",floor,12
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/PhysicalElevator.java,PhysicalElevator,"isApproachingFloor/2[Elevator,int]",e,0
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/PhysicalElevator.java,PhysicalElevator,"isApproachingFloor/2[Elevator,int]",floor,0
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/PhysicalElevator.java,PhysicalElevator,startMovingDown/1[Elevator],e,0
+/root/DesignPatternsDetection/Data/Singleton/thevarunjain_elevator-system/ckmetrics/../src/PhysicalElevator.java,PhysicalElevator,startMovingUp/1[Elevator],e,0

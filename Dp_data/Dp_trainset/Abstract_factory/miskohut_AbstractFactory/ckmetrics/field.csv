@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/ClassicPhone.java,abstractfactoryimpl.ClassicPhone,getManufacturer/0,manufacturer,1
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/ClassicPhone.java,abstractfactoryimpl.ClassicPhone,getScreenSize/0,screenSize,1
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/ClassicPhone.java,abstractfactoryimpl.ClassicPhone,ClassicPhone/1[int],screenSize,3
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/SmartPhone.java,abstractfactoryimpl.SmartPhone,getManufacturer/0,manufacturer,1
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/SmartPhone.java,abstractfactoryimpl.SmartPhone,"SmartPhone/2[int,boolean]",screenSize,3
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/SmartPhone.java,abstractfactoryimpl.SmartPhone,"SmartPhone/2[int,boolean]",NFC,3
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/SmartPhone.java,abstractfactoryimpl.SmartPhone,hasNFC/0,NFC,1
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/SmartPhone.java,abstractfactoryimpl.SmartPhone,getOS/0,OS,1
+/root/DesignPatternsDetection/Data/Abstract_factory/miskohut_AbstractFactory/ckmetrics/../src/abstractfactoryimpl/SmartPhone.java,abstractfactoryimpl.SmartPhone,getScreenSize/0,screenSize,1

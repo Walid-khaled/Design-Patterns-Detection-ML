@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,getInstance/0,instance,3
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,main/1[java.lang.String[]],message,3

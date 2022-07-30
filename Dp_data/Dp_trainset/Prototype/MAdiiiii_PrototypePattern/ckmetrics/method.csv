@@ -1,0 +1,15 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Shape.java,Shape,draw/0,false,8,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1024,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Shape.java,Shape,clone/0,false,21,0,2,2,10,1,1,0,2,0,0,0,0,1,0,0,0,2,0,1,0,0,0,8,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Shape.java,Shape,setid/1[java.lang.String],false,18,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Shape.java,Shape,getType/0,false,10,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Shape.java,Shape,getId/0,false,14,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Circle.java,Circle,Circle/0,true,10,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Circle.java,Circle,draw/0,false,5,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/PrototypePatternDemo.java,PrototypePatternDemo,main/1[java.lang.String[]],false,3,2,1,4,9,0,3,1,4,0,0,0,0,0,0,6,0,3,3,0,0,0,0,6,9,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Rectangle.java,Rectangle,Rectangle/0,true,11,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Rectangle.java,Rectangle,draw/0,false,5,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Square.java,Square,draw/0,false,5,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/Square.java,Square,Square/0,true,10,0,1,0,3,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,getShape/1[java.lang.String],false,8,1,1,2,4,1,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,9,0,false
+/root/DesignPatternsDetection/Data/Prototype/MAdiiiii_PrototypePattern/ckmetrics/../src/ShapeCache.java,ShapeCache,loadCache/0,false,15,4,1,3,11,0,3,0,3,0,0,0,0,0,0,3,0,3,0,0,0,0,0,8,9,0,false

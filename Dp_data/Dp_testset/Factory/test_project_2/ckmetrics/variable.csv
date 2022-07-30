@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Factory/test_project_2/ckmetrics/../ConcreteCreator.java,com.hundredwordsgof.factorymethod.ConcreteCreator,factoryMethod/1[java.lang.String],type,2
+./Factory/test_project_2/ckmetrics/../Creator.java,com.hundredwordsgof.factorymethod.Creator,factoryMethod/1[java.lang.String],type,0

@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Observer/test_project_4/ckmetrics/../Observer.java,com.hundredwordsgof.observer.Observer,update/0,false,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Observer/test_project_4/ckmetrics/../ConcreteSubject.java,com.hundredwordsgof.observer.ConcreteSubject,setState/1[int],false,16,1,1,1,4,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Observer/test_project_4/ckmetrics/../ConcreteSubject.java,com.hundredwordsgof.observer.ConcreteSubject,getState/0,false,12,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Observer/test_project_4/ckmetrics/../ConcreteObserver.java,com.hundredwordsgof.observer.ConcreteObserver,ConcreteObserver/1[com.hundredwordsgof.observer.ConcreteSubject],true,15,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+./Observer/test_project_4/ckmetrics/../ConcreteObserver.java,com.hundredwordsgof.observer.ConcreteObserver,update/0,false,19,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Observer/test_project_4/ckmetrics/../ConcreteObserver.java,com.hundredwordsgof.observer.ConcreteObserver,getObserverState/0,false,23,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,0,false
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,attach/1[com.hundredwordsgof.observer.Observer],false,16,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,dettach/1[com.hundredwordsgof.observer.Observer],false,20,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Observer/test_project_4/ckmetrics/../Subject.java,com.hundredwordsgof.observer.Subject,notifyObervers/0,false,24,1,2,4,6,0,2,0,4,0,0,1,0,0,0,0,0,2,0,1,0,0,0,6,1,0,false

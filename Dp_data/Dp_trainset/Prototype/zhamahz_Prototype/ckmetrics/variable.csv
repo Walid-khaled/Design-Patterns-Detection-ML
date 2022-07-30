@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/Shape.java,com.company.Shape,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/Shape.java,com.company.Shape,clone/0,clone,3
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/Shape.java,com.company.Shape,setId/1[java.lang.String],id,2
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/PrototypePatternDemo.java,com.company.PrototypePatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/PrototypePatternDemo.java,com.company.PrototypePatternDemo,main/1[java.lang.String[]],clonedShape3,1
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/PrototypePatternDemo.java,com.company.PrototypePatternDemo,main/1[java.lang.String[]],clonedShape2,1
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/PrototypePatternDemo.java,com.company.PrototypePatternDemo,main/1[java.lang.String[]],clonedShape,1
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/ShapeCache.java,com.company.ShapeCache,getShape/1[java.lang.String],shapeId,1
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/ShapeCache.java,com.company.ShapeCache,getShape/1[java.lang.String],cachedShape,1
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/ShapeCache.java,com.company.ShapeCache,loadCache/0,square,3
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/ShapeCache.java,com.company.ShapeCache,loadCache/0,rectangle,3
+/root/DesignPatternsDetection/Data/Prototype/zhamahz_Prototype/ckmetrics/../src/com/company/ShapeCache.java,com.company.ShapeCache,loadCache/0,circle,3

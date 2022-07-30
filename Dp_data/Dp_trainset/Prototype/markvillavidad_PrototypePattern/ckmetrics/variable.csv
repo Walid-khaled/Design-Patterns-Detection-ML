@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/PrototypePatternTest.java,design.prototype.PrototypePatternTest,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/PrototypePatternTest.java,design.prototype.PrototypePatternTest,main/1[java.lang.String[]],empsNew,1
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/PrototypePatternTest.java,design.prototype.PrototypePatternTest,main/1[java.lang.String[]],list1,2
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/PrototypePatternTest.java,design.prototype.PrototypePatternTest,main/1[java.lang.String[]],emps,4
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/PrototypePatternTest.java,design.prototype.PrototypePatternTest,main/1[java.lang.String[]],empsNew1,1
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/PrototypePatternTest.java,design.prototype.PrototypePatternTest,main/1[java.lang.String[]],list,2
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,clone/0,temp,2
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,clone/0,s,1
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,Employees/1[java.util.List<java.lang.String>],list,1

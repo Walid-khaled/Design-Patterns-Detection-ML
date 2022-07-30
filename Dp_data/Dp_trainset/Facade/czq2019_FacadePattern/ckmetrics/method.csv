@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/Shape.java,facade.Shape,draw/0,false,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/Circle.java,facade.Circle,draw/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,ShapeMaker/0,true,7,3,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,8,1,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,drawCircle/0,false,12,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,drawRectangle/0,false,15,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/ShapeMaker.java,facade.ShapeMaker,drawSquare/0,false,18,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/Rectangle.java,facade.Rectangle,draw/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/FacadePatternDemo.java,facade.FacadePatternDemo,main/1[java.lang.String[]],false,4,1,1,3,6,0,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,9,0,false
+/root/DesignPatternsDetection/Data/Facade/czq2019_FacadePattern/ckmetrics/../src/facade/Square.java,facade.Square,draw/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false

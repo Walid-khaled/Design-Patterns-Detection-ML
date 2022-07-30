@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Singleton/test_project_5/ckmetrics/../LazySingletonClass.java,singleton.LazySingletonClass,LazySingletonClass/0,message,1
+./Singleton/test_project_5/ckmetrics/../LazySingletonClass.java,singleton.LazySingletonClass,getInstance/0,instance,4
+./Singleton/test_project_5/ckmetrics/../LazySingletonClass.java,singleton.LazySingletonClass,getMessage/0,message,1
+./Singleton/test_project_5/ckmetrics/../SimpleSingletonClass.java,singleton.SimpleSingletonClass,SimpleSingletonClass/0,message,1
+./Singleton/test_project_5/ckmetrics/../SimpleSingletonClass.java,singleton.SimpleSingletonClass,getInstance/0,INSTANCE,1
+./Singleton/test_project_5/ckmetrics/../SimpleSingletonClass.java,singleton.SimpleSingletonClass,getMessage/0,message,1

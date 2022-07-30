@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,setLadoC/1[float],ladoC,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,setLadoB/1[float],ladoB,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,"Triangulo/3[float,float,float]",ladoC,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,"Triangulo/3[float,float,float]",ladoB,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,"Triangulo/3[float,float,float]",ladoA,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,setTipoTriangulo/1[java.lang.String],tipoTriangulo,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,getTipoFigura/0,resultado,5
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Triangulo.java,Triangulo,setLadoA/1[float],ladoA,2
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/MarcosMFC_FactoryMethod/ckmetrics/../FactoryMehtod/src/Main.java,Main,main/1[java.lang.String[]],t,1

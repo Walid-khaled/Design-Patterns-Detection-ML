@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/JokerLigang_Singleton/ckmetrics/../src/main/java/com/ligang/Singleton/lazy/RightWayBySync/LazySingleton.java,com.ligang.Singleton.lazy.RightWayBySync.LazySingleton,getInstance/0,lazySingleton,3
+/root/DesignPatternsDetection/Data/Singleton/JokerLigang_Singleton/ckmetrics/../src/main/java/com/ligang/Singleton/lazy/RightWayByDoubleCheck/LazySingleton.java,com.ligang.Singleton.lazy.RightWayByDoubleCheck.LazySingleton,getInstance/0,lazySingleton,4
+/root/DesignPatternsDetection/Data/Singleton/JokerLigang_Singleton/ckmetrics/../src/main/java/com/ligang/Singleton/lazy/WrongWay/LazySingleton.java,com.ligang.Singleton.lazy.WrongWay.LazySingleton,getInstance/0,lazySingleton,3
+/root/DesignPatternsDetection/Data/Singleton/JokerLigang_Singleton/ckmetrics/../src/main/java/com/ligang/Singleton/Static/StaticSingleton.java,com.ligang.Singleton.Static.StaticSingleton,getInstance/0,staticSingleton,1
+/root/DesignPatternsDetection/Data/Singleton/JokerLigang_Singleton/ckmetrics/../src/main/java/com/ligang/Singleton/hungry/HungrySingleton.java,com.ligang.Singleton.hungry.HungrySingleton,getInstance/0,hungrySingleton,1

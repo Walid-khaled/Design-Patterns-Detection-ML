@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/ui/Text.java,assignment2.ui.Text,Text/1[java.lang.String],value,3
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/ui/Image.java,assignment2.ui.Image,Image/1[java.lang.String],fileContents,1
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/ui/Stack.java,assignment2.ui.Stack,Stack/1[assignment2.ui.View[]],children,3
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/BedView.java,assignment2.hms.BedView,BedView/1[assignment2.hms.HealthCondition],injuredBed,2
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/BedView.java,assignment2.hms.BedView,BedView/1[assignment2.hms.HealthCondition],almostHealthyBed,2
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/BedView.java,assignment2.hms.BedView,BedView/1[assignment2.hms.HealthCondition],criticalBed,2
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/PatientView.java,assignment2.hms.PatientView,"PatientView/2[java.lang.String,assignment2.hms.HealthCondition]",name,3
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/PatientView.java,assignment2.hms.PatientView,"PatientView/2[java.lang.String,assignment2.hms.HealthCondition]",health,3
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/PatientView.java,assignment2.hms.PatientView,render/0,name,1
+./Flyweight/project22/ckmetrics/../src/ssd/assignment2/hms/PatientView.java,assignment2.hms.PatientView,render/0,health,1

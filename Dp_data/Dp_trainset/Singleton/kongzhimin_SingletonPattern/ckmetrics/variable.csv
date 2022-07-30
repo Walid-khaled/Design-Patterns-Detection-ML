@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],no2,3
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],no1,3
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],str1,4
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],str2,4
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/IdentityCardNo.java,IdentityCardNo,setIdentityCardNo/1[java.lang.String],no,2

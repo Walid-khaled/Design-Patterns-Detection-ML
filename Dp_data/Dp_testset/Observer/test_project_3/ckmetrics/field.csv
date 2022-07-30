@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,removePropertyChangeListener/1[java.beans.PropertyChangeListener],support,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,NewsAgency/0,support,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,setNews/1[java.lang.String],support,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,setNews/1[java.lang.String],previousNews,2
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsAgency.java,net.dskim.desingpattern.observer.NewsAgency,addPropertyChangeListener/1[java.beans.PropertyChangeListener],support,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsChannel.java,net.dskim.desingpattern.observer.NewsChannel,propertyChange/1[java.beans.PropertyChangeEvent],news,1
+./Observer/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/observer/NewsChannel.java,net.dskim.desingpattern.observer.NewsChannel,getNews/0,news,1

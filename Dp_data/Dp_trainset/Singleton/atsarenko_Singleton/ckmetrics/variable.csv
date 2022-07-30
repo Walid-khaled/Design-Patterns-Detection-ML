@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,Singleton/1[java.lang.String],value,2
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,getInstance/1[java.lang.String],result,2
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Singleton.java,Singleton,getInstance/1[java.lang.String],value,1
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Main.java,Main$ThreadFoo,run/0,singleton,1
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],threadBar,1
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],threadFoo,1
+/root/DesignPatternsDetection/Data/Singleton/atsarenko_Singleton/ckmetrics/../src/Main.java,Main$ThreadBar,run/0,singleton,1

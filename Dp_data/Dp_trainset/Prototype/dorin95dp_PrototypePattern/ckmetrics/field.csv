@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/Shape.java,com.company.models.Shape,setId/1[java.lang.String],id,3
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/Shape.java,com.company.models.Shape,getType/0,type,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/Shape.java,com.company.models.Shape,getId/0,id,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,getShape/1[java.lang.String],shapeMap,1
+/root/DesignPatternsDetection/Data/Prototype/dorin95dp_PrototypePattern/ckmetrics/../src/main/java/com/company/models/ShapeCache.java,com.company.models.ShapeCache,loadCache/0,shapeMap,3

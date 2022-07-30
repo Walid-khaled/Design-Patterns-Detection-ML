@@ -1,0 +1,12 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,textkill,kill/0,false,40,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,textkill,textkill/1[java.lang.String],true,34,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,imagekill,imagekill/1[java.lang.String],true,20,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,imagekill,kill/0,false,26,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,Component,kill/0,false,15,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,get/1[int],false,61,1,1,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,remove/1[Component],false,58,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,folder/1[java.lang.String],true,50,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,add/1[Component],false,54,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Component.java,folder,kill/0,false,67,1,2,2,6,0,0,0,2,0,0,1,0,0,0,1,0,0,1,1,0,0,0,5,1,0,false
+/root/DesignPatternsDetection/Data/Composite/cqf073_Composite_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],false,3,4,1,4,13,0,3,1,4,0,0,0,0,0,0,6,0,3,0,0,0,0,0,9,9,0,false

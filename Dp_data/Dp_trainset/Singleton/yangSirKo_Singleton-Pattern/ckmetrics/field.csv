@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton6.java,secondChapter.interview2.Singleton6,getName/0,name,1
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton6.java,secondChapter.interview2.Singleton6,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton1.java,secondChapter.interview2.Singleton1,getInstance/0,instance,3
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton4.java,secondChapter.interview2.Singleton4,getInstance/0,instance,1
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton3.java,secondChapter.interview2.Singleton3,getInstance/0,instance,4
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton3.java,secondChapter.interview2.Singleton3,getInstance/0,obj,1
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton2.java,secondChapter.interview2.Singleton2,getInstance/0,instance,3
+/root/DesignPatternsDetection/Data/Singleton/yangSirKo_Singleton-Pattern/ckmetrics/../Singleton2.java,secondChapter.interview2.Singleton2,getInstance/0,obj,1

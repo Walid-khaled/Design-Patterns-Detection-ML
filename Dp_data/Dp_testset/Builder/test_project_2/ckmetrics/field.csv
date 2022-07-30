@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getID/0,ID,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getEmail/0,email,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,Account/1[com.codevillain679.creational.builder.Account.Builder],name,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,Account/1[com.codevillain679.creational.builder.Account.Builder],verified,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,Account/1[com.codevillain679.creational.builder.Account.Builder],ID,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,Account/1[com.codevillain679.creational.builder.Account.Builder],email,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,toString/0,name,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,toString/0,verified,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,toString/0,ID,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,toString/0,email,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getVerified/0,verified,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getName/0,name,1
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setVerified/1[java.lang.Boolean],verified,3
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setID/1[int],ID,3
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setName/1[java.lang.String],name,3
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setEmail/1[java.lang.String],email,3

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/RameshMF_factory-pattern-java8/ckmetrics/../src/net/javaguides/designpatterns/factorypattern/ShapeFactory.java,net.javaguides.designpatterns.factorypattern.ShapeFactory,getShape/1[net.javaguides.designpatterns.factorypattern.ShapeType],map,1
+/root/DesignPatternsDetection/Data/Factory/RameshMF_factory-pattern-java8/ckmetrics/../src/net/javaguides/designpatterns/factorypattern/ShapeFactoryLambda.java,net.javaguides.designpatterns.factorypattern.ShapeFactoryLambda,getShape/1[net.javaguides.designpatterns.factorypattern.ShapeType],map,1

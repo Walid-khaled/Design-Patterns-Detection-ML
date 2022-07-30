@@ -1,0 +1,13 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Builder/test_project_2/ckmetrics/../BuilderPattern.java,com.codevillain679.creational.builder.BuilderPattern,BuilderPattern/0,true,4,2,1,7,4,0,1,0,7,0,0,0,0,0,0,2,1,1,0,0,0,0,0,5,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getID/0,false,17,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getEmail/0,false,25,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,Account/1[com.codevillain679.creational.builder.Account.Builder],true,10,1,1,0,6,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,3,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,toString/0,false,64,0,1,0,3,1,0,0,0,0,0,0,0,0,0,5,0,0,2,0,0,0,0,7,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getVerified/0,false,29,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account,getName/0,false,21,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setVerified/1[java.lang.Boolean],false,53,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setID/1[int],false,38,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setName/1[java.lang.String],false,43,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,build/0,false,58,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Builder/test_project_2/ckmetrics/../Account.java,com.codevillain679.creational.builder.Account$Builder,setEmail/1[java.lang.String],false,48,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false

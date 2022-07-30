@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/fruits/BaseFruit.java,waffle_decorator.fruits.BaseFruit,getPrice/0,baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/fruits/BaseFruit.java,waffle_decorator.fruits.BaseFruit,BaseFruit/1[waffle_dough.BaseWaffle],baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/sauce/BaseSauce.java,waffle_decorator.sauce.BaseSauce,getPrice/0,baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/sauce/BaseSauce.java,waffle_decorator.sauce.BaseSauce,BaseSauce/1[waffle_dough.BaseWaffle],baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/chocolate/BaseChocolate.java,waffle_decorator.chocolate.BaseChocolate,getPrice/0,baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/chocolate/BaseChocolate.java,waffle_decorator.chocolate.BaseChocolate,BaseChocolate/1[waffle_dough.BaseWaffle],baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/nuts/BaseNuts.java,waffle_decorator.nuts.BaseNuts,BaseNuts/1[waffle_dough.BaseWaffle],baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_decorator/nuts/BaseNuts.java,waffle_decorator.nuts.BaseNuts,getPrice/0,baseWaffle,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_dough/BaseWaffle.java,waffle_dough.BaseWaffle,getDescription/0,description,1
+/root/DesignPatternsDetection/Data/Decorator/mervebasak_Decorator-Pattern-Example/ckmetrics/../src/main/java/waffle_dough/BaseWaffle.java,waffle_dough.BaseWaffle,getPrice/0,price,1

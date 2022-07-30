@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],area,1
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],square,3
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],adapter,1
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/Inscribable.java,Inscribable,circleArea/1[Squareable],shape,0
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/Square.java,Square,Square/1[double],width,2
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/CircleToSquareAdapter.java,CircleToSquareAdapter,circleArea/1[Squareable],area,1
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/CircleToSquareAdapter.java,CircleToSquareAdapter,circleArea/1[Squareable],shape,1
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/CircleToSquareAdapter.java,CircleToSquareAdapter,circleArea/1[Squareable],width,1
+/root/DesignPatternsDetection/Data/Adapter/jordan-seneca_Adapter/ckmetrics/../src/CircleToSquareAdapter.java,CircleToSquareAdapter,CircleToSquareAdapter/1[Squareable],shape,2

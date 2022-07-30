@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/PieceFactory.java,PieceFactory,GetPiece/1[java.lang.String],PiecePool,3
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/PieceFactory.java,PieceFactory,GetPieceCount/0,PiecePool,1
+/root/DesignPatternsDetection/Data/Flyweight/kongzhimin_FlyweighPattern/ckmetrics/../src/Apiece.java,Apiece,Apiece/1[java.lang.String],inKind,3

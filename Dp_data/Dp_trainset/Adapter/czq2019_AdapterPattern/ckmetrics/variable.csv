@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/AudioPlayer.java,adapter.AudioPlayer,"play/2[java.lang.String,java.lang.String]",fileName,2
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/AudioPlayer.java,adapter.AudioPlayer,"play/2[java.lang.String,java.lang.String]",audioType,6
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/Mp4Player.java,adapter.Mp4Player,playMp4/1[java.lang.String],fileName,1
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/Mp4Player.java,adapter.Mp4Player,playVlc/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/AdapterPatternDemo.java,adapter.AdapterPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/AdapterPatternDemo.java,adapter.AdapterPatternDemo,main/1[java.lang.String[]],audioPlayer,4
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/MediaAdapter.java,adapter.MediaAdapter,"play/2[java.lang.String,java.lang.String]",fileName,2
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/MediaAdapter.java,adapter.MediaAdapter,"play/2[java.lang.String,java.lang.String]",audioType,2
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/MediaAdapter.java,adapter.MediaAdapter,MediaAdapter/1[java.lang.String],audioType,2
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/inter/MediaPlayer.java,adapter.inter.MediaPlayer,"play/2[java.lang.String,java.lang.String]",fileName,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/inter/MediaPlayer.java,adapter.inter.MediaPlayer,"play/2[java.lang.String,java.lang.String]",audioType,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/inter/AdvancedMediaPlayer.java,adapter.inter.AdvancedMediaPlayer,playMp4/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/inter/AdvancedMediaPlayer.java,adapter.inter.AdvancedMediaPlayer,playVlc/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/VlcPlayer.java,adapter.VlcPlayer,playMp4/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/VlcPlayer.java,adapter.VlcPlayer,playVlc/1[java.lang.String],fileName,1

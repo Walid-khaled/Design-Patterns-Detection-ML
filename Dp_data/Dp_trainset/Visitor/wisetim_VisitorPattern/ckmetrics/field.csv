@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,setStaffs/1[java.util.List<model.Staff>],staffs,3
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,showReport/0,visitor,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,showReport/0,staffs,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,getStaffs/0,staffs,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,setVisitor/1[model.Visitor],visitor,3
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,BusinessReport/0,staffs,5
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BusinessReport.java,model.BusinessReport,getVisitor/0,visitor,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/Manager.java,model.Manager,getProducts/0,products,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/Manager.java,model.Manager,Manager/1[java.lang.String],products,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BussinessReport.java,model.BussinessReport,BussinessReport/0,staffs,5
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/BussinessReport.java,model.BussinessReport,showReport/1[model.Visitor],staffs,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/Staff.java,model.Staff,Staff/1[java.lang.String],kpi,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/Staff.java,model.Staff,Staff/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/Staff.java,model.Staff,getName/0,name,1
+/root/DesignPatternsDetection/Data/Visitor/wisetim_VisitorPattern/ckmetrics/../src/model/Staff.java,model.Staff,getKpi/0,kpi,1

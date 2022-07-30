@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Creator/Cuaderno.java,Creator.Cuaderno,getPrecio/0,precio,1
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Creator/Cuaderno.java,Creator.Cuaderno,Cuaderno/1[int],precio,2
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Creator/Cuaderno.java,Creator.Cuaderno,setPrecio/1[int],precio,3

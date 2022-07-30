@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/FileLogFactory.java,FileLogFactory,createLog/0,false,2,2,1,1,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],false,4,2,2,5,12,0,2,1,5,0,0,0,0,1,0,0,0,2,0,1,0,0,0,8,9,0,false
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/DatabaseLog.java,DatabaseLog,writeLog/0,false,2,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/LogFactory.java,LogFactory,writeLog/0,false,2,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/Log.java,Log,createLog/0,false,2,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/FileLog.java,FileLog,writeLog/0,false,2,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Factory/kongzhimin_FactoryMethod/ckmetrics/../src/DatabaseLogFactory.java,DatabaseLogFactory,writeLog/0,false,2,2,1,1,4,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,1,0,false

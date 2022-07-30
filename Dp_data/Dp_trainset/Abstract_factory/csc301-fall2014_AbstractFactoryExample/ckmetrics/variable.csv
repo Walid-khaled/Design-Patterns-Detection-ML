@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/csc301-fall2014_AbstractFactoryExample/ckmetrics/../src/csc301/abstractFactoryExample/TripAdvisor1.java,csc301.abstractFactoryExample.TripAdvisor1,"getCheapestPrice/2[java.lang.String,java.lang.String]",toStation,0
+/root/DesignPatternsDetection/Data/Abstract_factory/csc301-fall2014_AbstractFactoryExample/ckmetrics/../src/csc301/abstractFactoryExample/TripAdvisor1.java,csc301.abstractFactoryExample.TripAdvisor1,"getCheapestPrice/2[java.lang.String,java.lang.String]",fromStation,0
+/root/DesignPatternsDetection/Data/Abstract_factory/csc301-fall2014_AbstractFactoryExample/ckmetrics/../src/csc301/abstractFactoryExample/Main.java,csc301.abstractFactoryExample.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/csc301-fall2014_AbstractFactoryExample/ckmetrics/../src/csc301/abstractFactoryExample/Main.java,csc301.abstractFactoryExample.Main,main/1[java.lang.String[]],advisor,1
+/root/DesignPatternsDetection/Data/Abstract_factory/csc301-fall2014_AbstractFactoryExample/ckmetrics/../src/csc301/abstractFactoryExample/Main.java,csc301.abstractFactoryExample.Main,main/1[java.lang.String[]],price,1

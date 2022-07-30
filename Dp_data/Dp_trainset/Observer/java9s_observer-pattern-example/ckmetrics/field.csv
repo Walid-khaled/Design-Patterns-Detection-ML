@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,registerObserver/1[com.java9s.tutorials.designpattern.observer.Observer],observers,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,getStockName/0,name,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,updateStockPrice/1[int],price,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,Stock/0,observers,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,removeObserver/1[com.java9s.tutorials.designpattern.observer.Observer],observers,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,setName/1[java.lang.String],name,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,notifyObservers/0,observers,1
+/root/DesignPatternsDetection/Data/Observer/java9s_observer-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/observer/Stock.java,com.java9s.tutorials.designpattern.observer.Stock,getStockPrice/0,price,1

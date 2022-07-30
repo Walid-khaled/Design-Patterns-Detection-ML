@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/RegisterSingletonPattern/ContainerSingleton.java,com.lg.RegisterSingletonPattern.ContainerSingleton,getBean/1[java.lang.String],e,1
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/RegisterSingletonPattern/ContainerSingleton.java,com.lg.RegisterSingletonPattern.ContainerSingleton,getBean/1[java.lang.String],className,4
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/RegisterSingletonPattern/ContainerSingleton.java,com.lg.RegisterSingletonPattern.ContainerSingleton,getBean/1[java.lang.String],object,3
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/RegisterSingletonPattern/EnumSingleton.java,com.lg.RegisterSingletonPattern.EnumSingleton,setData/1[java.lang.Object],data,2
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/LazySingletonTest.java,com.lg.test.LazySingletonTest,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/LazySingletonTest.java,com.lg.test.LazySingletonTest,main/1[java.lang.String[]],instace,0
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/LazySingletonTest.java,com.lg.test.LazySingletonTest,main/1[java.lang.String[]],thread1,1
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/LazySingletonTest.java,com.lg.test.LazySingletonTest,main/1[java.lang.String[]],thread2,1
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/HungrySingletonTest.java,com.lg.test.HungrySingletonTest,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/HungrySingletonTest.java,com.lg.test.HungrySingletonTest,main/1[java.lang.String[]],instance,9
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/test/HungrySingletonTest.java,com.lg.test.HungrySingletonTest,main/1[java.lang.String[]],hungrySingletonV2,9
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/App.java,com.lg.App,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/luogang2008_designPattern-singletonPattern/ckmetrics/../src/main/java/com/lg/thread/ExectorThread.java,com.lg.thread.ExectorThread,run/0,simpleSingleton,1

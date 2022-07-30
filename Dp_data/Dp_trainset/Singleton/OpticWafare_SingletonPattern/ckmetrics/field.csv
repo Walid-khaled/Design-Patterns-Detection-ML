@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,attack/0,name,1
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,getInstance/0,unserKoenig,3
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Singleton/OpticWafare_SingletonPattern/ckmetrics/../src/King.java,King,defend/0,name,1

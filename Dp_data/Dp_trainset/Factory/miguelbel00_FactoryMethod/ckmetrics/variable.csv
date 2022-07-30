@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/CuadernoFactoryMethod/CuadernoFactoryMethod.java,CuadernoFactoryMethod.CuadernoFactoryMethod,createCuaderno/1[int],precio,0
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Creator/Cuaderno.java,Creator.Cuaderno,Cuaderno/1[int],precio,1
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Creator/Cuaderno.java,Creator.Cuaderno,setPrecio/1[int],precio,2
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/ConcretProduct/Mediano.java,ConcretProduct.Mediano,Mediano/1[int],precio,1
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/ConcretProduct/Pequeno.java,ConcretProduct.Pequeno,Pequeno/1[int],precio,1
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/ConcretProduct/Grande.java,ConcretProduct.Grande,Grande/1[int],precio,1
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/ConcretCreator/CuadernoFactory.java,ConcretCreator.CuadernoFactory,createCuaderno/1[int],precio,7
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Main/Main.java,Main.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Main/Main.java,Main.Main,main/1[java.lang.String[]],factory,1
+/root/DesignPatternsDetection/Data/Factory/miguelbel00_FactoryMethod/ckmetrics/../src/Main/Main.java,Main.Main,main/1[java.lang.String[]],cuaderno,1

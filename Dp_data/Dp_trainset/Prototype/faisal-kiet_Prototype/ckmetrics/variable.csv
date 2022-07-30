@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/faisal-kiet_Prototype/ckmetrics/../src/Sheep.java,Sheep,makeCopy/0,sheepObject,2
+/root/DesignPatternsDetection/Data/Prototype/faisal-kiet_Prototype/ckmetrics/../src/Sheep.java,Sheep,makeCopy/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/faisal-kiet_Prototype/ckmetrics/../src/TestCloning.java,TestCloning,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/faisal-kiet_Prototype/ckmetrics/../src/CloneFactory.java,CloneFactory,getclone/1[Animal],animalSample,1

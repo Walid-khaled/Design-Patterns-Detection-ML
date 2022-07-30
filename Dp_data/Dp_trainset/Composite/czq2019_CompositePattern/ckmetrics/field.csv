@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,getSubordinates/0,subordinates,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",name,3
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",dept,3
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",salary,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,"Employee/3[java.lang.String,java.lang.String,int]",subordinates,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,toString/0,name,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,toString/0,dept,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,toString/0,salary,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,remove/1[Composite.Employee],subordinates,1
+/root/DesignPatternsDetection/Data/Composite/czq2019_CompositePattern/ckmetrics/../src/Composite/Employee.java,Composite.Employee,add/1[Composite.Employee],subordinates,1

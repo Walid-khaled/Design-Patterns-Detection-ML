@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,area/1[phuongsala.designpattern.prototype.MyRectangle],false,13,1,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,1,0,false
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,clone/0,false,18,0,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,"MyRectangle/2[int,int]",true,8,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,4,1,0,false
+./Prototype/test_project_1/ckmetrics/../MyRectangle.java,phuongsala.designpattern.prototype.MyRectangle,clone/1[int],false,23,1,1,0,3,1,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,9,1,0,false
+./Prototype/test_project_1/ckmetrics/../MyPrototype.java,phuongsala.designpattern.prototype.MyPrototype,clone/0,false,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,false
+./Prototype/test_project_1/ckmetrics/../MyPrototype.java,phuongsala.designpattern.prototype.MyPrototype,clone/1[int],false,5,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,false
+./Prototype/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.prototype.DEMO,main/1[java.lang.String[]],false,4,1,1,4,8,0,3,1,4,0,0,0,0,0,0,3,3,3,3,0,0,0,0,13,9,0,false

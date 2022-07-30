@@ -1,0 +1,11 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Builder/test_project_4/ckmetrics/../Client.java,Builder.Client,main/1[java.lang.String[]],false,5,2,1,4,5,0,2,1,4,0,0,0,0,0,0,3,0,2,0,0,0,0,0,8,9,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,toString/0,false,84,0,1,0,3,1,0,0,0,0,0,0,0,0,0,7,0,0,1,0,0,0,0,12,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount,"BankAccount/6[java.lang.String,java.lang.String,java.lang.String,java.lang.String,boolean,boolean]",true,18,0,1,0,9,0,0,6,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,12,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,"BankAccountBuilder/2[java.lang.String,java.lang.String]",true,38,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,wantNewsViaEmail/1[boolean],false,53,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,validateUserObject/0,false,75,0,3,0,5,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,16,2,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,build/0,false,63,2,1,1,5,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,withEmail/1[java.lang.String],false,48,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,wantMobileBanking/1[boolean],false,58,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,1,0,false
+./Builder/test_project_4/ckmetrics/../BankAccount.java,Builder.BankAccount$BankAccountBuilder,withAddress/1[java.lang.String],false,43,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,1,0,false

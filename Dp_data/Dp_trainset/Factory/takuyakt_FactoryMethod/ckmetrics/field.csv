@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,use/0,owner,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,getOwner/0,owner,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,"IDCard/2[java.lang.String,int]",owner,4
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,"IDCard/2[java.lang.String,int]",no,3
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCard.java,idcard.IDCard,getNo/0,no,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCardFactory.java,idcard.IDCardFactory,createProduct/1[java.lang.String],no,1
+/root/DesignPatternsDetection/Data/Factory/takuyakt_FactoryMethod/ckmetrics/../src/idcard/IDCardFactory.java,idcard.IDCardFactory,registerProduct/1[framework.Product],owners,1

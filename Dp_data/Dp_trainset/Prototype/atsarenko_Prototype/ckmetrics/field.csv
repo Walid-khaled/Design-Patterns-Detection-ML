@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Shape.java,Shape,equals/1[java.lang.Object],color,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Shape.java,Shape,equals/1[java.lang.Object],x,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Shape.java,Shape,equals/1[java.lang.Object],y,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Shape.java,Shape,Shape/1[Shape],color,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Shape.java,Shape,Shape/1[Shape],x,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Shape.java,Shape,Shape/1[Shape],y,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Circle.java,Circle,equals/1[java.lang.Object],radius,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Circle.java,Circle,Circle/1[Circle],radius,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Rectangle.java,Rectangle,equals/1[java.lang.Object],width,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Rectangle.java,Rectangle,equals/1[java.lang.Object],height,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Rectangle.java,Rectangle,Rectangle/1[Rectangle],width,1
+/root/DesignPatternsDetection/Data/Prototype/atsarenko_Prototype/ckmetrics/../src/Rectangle.java,Rectangle,Rectangle/1[Rectangle],height,1

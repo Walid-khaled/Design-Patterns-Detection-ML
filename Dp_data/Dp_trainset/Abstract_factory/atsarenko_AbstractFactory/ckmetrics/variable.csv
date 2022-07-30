@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Application.java,Application,Application/1[IGUIFactory],factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Main.java,Main,configureApplication/0,app,2
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Main.java,Main,configureApplication/0,factory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Main.java,Main,configureApplication/0,osName,1
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/atsarenko_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],app,1

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Strategy/test_project_1/ckmetrics/../Context.java,com.hundredwordsgof.strategy.Context,contextInterface/0,strategy,1
+./Strategy/test_project_1/ckmetrics/../Context.java,com.hundredwordsgof.strategy.Context,Context/1[com.hundredwordsgof.strategy.Strategy],strategy,3

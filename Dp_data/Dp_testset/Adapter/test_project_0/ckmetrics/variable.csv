@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/Client.java,io.innofang.adapter.example.object_adapter.Client,main/1[java.lang.String[]],args,0
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/Client.java,io.innofang.adapter.example.object_adapter.Client,main/1[java.lang.String[]],adapter,1
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/Client.java,io.innofang.adapter.example.object_adapter.Client,main/1[java.lang.String[]],volt,1
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/Client.java,io.innofang.adapter.example.object_adapter.Client,main/1[java.lang.String[]],volt220,1
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/VoltAdapter.java,io.innofang.adapter.example.object_adapter.VoltAdapter,provideVoltFive/0,volt,2
+./Adapter/test_project_0/ckmetrics/../example/object_adapter/VoltAdapter.java,io.innofang.adapter.example.object_adapter.VoltAdapter,VoltAdapter/1[io.innofang.adapter.example.object_adapter.Volt220],volt220,2
+./Adapter/test_project_0/ckmetrics/../example/class_adapter/Client.java,io.innofang.adapter.example.class_adapter.Client,main/1[java.lang.String[]],args,0
+./Adapter/test_project_0/ckmetrics/../example/class_adapter/Client.java,io.innofang.adapter.example.class_adapter.Client,main/1[java.lang.String[]],adapter,1
+./Adapter/test_project_0/ckmetrics/../example/class_adapter/Client.java,io.innofang.adapter.example.class_adapter.Client,main/1[java.lang.String[]],volt,1
+./Adapter/test_project_0/ckmetrics/../base/object_adapter/Client.java,io.innofang.adapter.base.object_adapter.Client,main/1[java.lang.String[]],args,0
+./Adapter/test_project_0/ckmetrics/../base/object_adapter/Client.java,io.innofang.adapter.base.object_adapter.Client,main/1[java.lang.String[]],adapter,1
+./Adapter/test_project_0/ckmetrics/../base/object_adapter/Client.java,io.innofang.adapter.base.object_adapter.Client,main/1[java.lang.String[]],adaptee,1
+./Adapter/test_project_0/ckmetrics/../base/object_adapter/Adapter.java,io.innofang.adapter.base.object_adapter.Adapter,Adapter/1[io.innofang.adapter.base.object_adapter.Adaptee],adaptee,2
+./Adapter/test_project_0/ckmetrics/../base/class_adapter/Client.java,io.innofang.adapter.base.class_adapter.Client,main/1[java.lang.String[]],args,0
+./Adapter/test_project_0/ckmetrics/../base/class_adapter/Client.java,io.innofang.adapter.base.class_adapter.Client,main/1[java.lang.String[]],adapter,2

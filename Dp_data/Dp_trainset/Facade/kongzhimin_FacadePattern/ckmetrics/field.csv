@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,GeneralSwitchFacade/0,fan,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,GeneralSwitchFacade/0,ac,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,GeneralSwitchFacade/0,tv,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,GeneralSwitchFacade/0,lights,4
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,off/0,fan,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,off/0,ac,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,off/0,tv,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,off/0,lights,4
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,on/0,fan,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,on/0,ac,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,on/0,tv,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,on/0,lights,4
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,on/0,position,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,off/0,position,1
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,Light/1[java.lang.String],position,3

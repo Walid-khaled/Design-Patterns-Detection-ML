@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/App.java,App,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/App.java,App,main/1[java.lang.String[]],yeniUye,1
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/App.java,App,main/1[java.lang.String[]],yeniUye2,1
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/App.java,App,main/1[java.lang.String[]],list1,2
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/App.java,App,main/1[java.lang.String[]],uyeler,4
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/App.java,App,main/1[java.lang.String[]],list,2
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,clone/0,s,1
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,clone/0,uyeListesi,2
+/root/DesignPatternsDetection/Data/Prototype/BrkSe_PrototypePattern/ckmetrics/../src/main/java/Uye.java,Uye,Uye/1[java.util.List<java.lang.String>],liste,1

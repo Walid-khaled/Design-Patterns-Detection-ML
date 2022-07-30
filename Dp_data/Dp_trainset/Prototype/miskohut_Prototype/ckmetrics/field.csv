@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,getTaste/0,taste,1
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,setTaste/1[java.lang.String],taste,3
+/root/DesignPatternsDetection/Data/Prototype/miskohut_Prototype/ckmetrics/../src/prototypeimpl/fruits/Fruit.java,prototypeimpl.fruits.Fruit,Fruit/1[java.lang.String],taste,3

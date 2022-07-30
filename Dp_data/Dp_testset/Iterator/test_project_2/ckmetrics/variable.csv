@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+./Iterator/test_project_2/ckmetrics/../ConcreteIterator.java,com.hundredwordsgof.iterator.ConcreteIterator,ConcreteIterator/1[com.hundredwordsgof.iterator.ConcreteAggregate],concreteAggregate,2

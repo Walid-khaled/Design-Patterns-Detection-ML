@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/domain/furniture/Sofa.java,com.company.domain.furniture.Sofa,setHasLegs/1[boolean],hasLegs,2
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/domain/furniture/Sofa.java,com.company.domain.furniture.Sofa,setSitOn/1[boolean],sitOn,2
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/domain/furniture/Table.java,com.company.domain.furniture.Table,setHasLegs/1[boolean],hasLegs,2
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/domain/furniture/Table.java,com.company.domain.furniture.Table,setSitOn/1[boolean],sitOn,2
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/domain/furniture/Chair.java,com.company.domain.furniture.Chair,setHasLegs/1[boolean],hasLegs,2
+/root/DesignPatternsDetection/Data/Abstract_factory/SanzharDev_factoryPatternDemo/ckmetrics/../src/com/company/domain/furniture/Chair.java,com.company.domain.furniture.Chair,setSitOn/1[boolean],sitOn,2

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/CarPrototype.java,prototype.CarPrototype,setBuyValue/1[double],buyValue,3
+/root/DesignPatternsDetection/Data/Prototype/rafamagalhas_prototype/ckmetrics/../src/prototype/CarPrototype.java,prototype.CarPrototype,getBuyValue/0,buyValue,1

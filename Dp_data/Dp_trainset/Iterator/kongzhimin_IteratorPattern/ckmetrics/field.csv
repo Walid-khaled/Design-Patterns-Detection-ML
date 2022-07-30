@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/TCLTelevision.java,TCLTelevision$TCLIterator,previous/0,currentIndex,2
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/TCLTelevision.java,TCLTelevision$TCLIterator,setChannel/1[int],currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/TCLTelevision.java,TCLTelevision$TCLIterator,currentChannel/0,currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/TCLTelevision.java,TCLTelevision$TCLIterator,isLast/0,currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/TCLTelevision.java,TCLTelevision$TCLIterator,isFirst/0,currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/TCLTelevision.java,TCLTelevision$TCLIterator,next/0,currentIndex,2
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/SkyworthTelevision.java,SkyworthTelevision$SkyworthIterator,next/0,currentIndex,2
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/SkyworthTelevision.java,SkyworthTelevision$SkyworthIterator,isFirst/0,currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/SkyworthTelevision.java,SkyworthTelevision$SkyworthIterator,isLast/0,currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/SkyworthTelevision.java,SkyworthTelevision$SkyworthIterator,setChannel/1[int],currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/SkyworthTelevision.java,SkyworthTelevision$SkyworthIterator,currentChannel/0,currentIndex,1
+/root/DesignPatternsDetection/Data/Iterator/kongzhimin_IteratorPattern/ckmetrics/../src/SkyworthTelevision.java,SkyworthTelevision$SkyworthIterator,previous/0,currentIndex,2

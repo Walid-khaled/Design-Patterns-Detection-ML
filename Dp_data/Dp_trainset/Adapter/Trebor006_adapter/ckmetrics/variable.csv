@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/Mp3Player.java,com.mibu.adapter.Mp3Player,"play/2[java.lang.String,java.lang.String]",fileName,2
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/Mp3Player.java,com.mibu.adapter.Mp3Player,"play/2[java.lang.String,java.lang.String]",audioType,6
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/Mp4Player.java,com.mibu.adapter.Mp4Player,advancedPlay/1[java.lang.String],fileName,1
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/SimpleMediaPlayer.java,com.mibu.adapter.SimpleMediaPlayer,"play/2[java.lang.String,java.lang.String]",fileName,0
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/SimpleMediaPlayer.java,com.mibu.adapter.SimpleMediaPlayer,"play/2[java.lang.String,java.lang.String]",audioType,0
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/Main.java,com.mibu.adapter.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/Main.java,com.mibu.adapter.Main,main/1[java.lang.String[]],audioPlayer,4
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/AdvancedMediaPlayer.java,com.mibu.adapter.AdvancedMediaPlayer,advancedPlay/1[java.lang.String],fileName,0
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/AdapterSimpleToAdvancedMediaPlayer.java,com.mibu.adapter.AdapterSimpleToAdvancedMediaPlayer,AdapterSimpleToAdvancedMediaPlayer/1[java.lang.String],audioType,2
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/AdapterSimpleToAdvancedMediaPlayer.java,com.mibu.adapter.AdapterSimpleToAdvancedMediaPlayer,"play/2[java.lang.String,java.lang.String]",fileName,1
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/AdapterSimpleToAdvancedMediaPlayer.java,com.mibu.adapter.AdapterSimpleToAdvancedMediaPlayer,"play/2[java.lang.String,java.lang.String]",audioType,0
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/VlcPlayer.java,com.mibu.adapter.VlcPlayer,advancedPlay/1[java.lang.String],fileName,1

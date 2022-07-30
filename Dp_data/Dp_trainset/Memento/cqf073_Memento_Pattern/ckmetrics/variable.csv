@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],memeradum_manage,4
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],action,7
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],action2,7
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Action.java,Action,restore/1[Memoradum],memoradum,1
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Action.java,Action$Memto,"setState/1[java.util.HashMap<java.lang.String,java.lang.String>]",state,2
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Action.java,Action$Memto,Memto/1[java.util.HashMap],state,2
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Action2.java,Action2,restore/1[Memoradum],memoradum,1
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Action2.java,Action2$Memto,Memto/1[java.util.ArrayList],state,2
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Action2.java,Action2$Memto,setState/1[java.util.ArrayList<java.lang.String>],state,2
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Memeradum_manage.java,Memeradum_manage,rememory/1[java.lang.String],name,1
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Memeradum_manage.java,Memeradum_manage,"savememery/2[java.lang.String,Memoradum]",name,1
+/root/DesignPatternsDetection/Data/Memento/cqf073_Memento_Pattern/ckmetrics/../src/Memeradum_manage.java,Memeradum_manage,"savememery/2[java.lang.String,Memoradum]",memto,1

@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/stonehqs_pattern/ckmetrics/../src/main/java/com/hqs/pattern/config/SwaggerConfig.java,com.hqs.pattern.config.SwaggerConfig,api/0,swaggerSwitch,1
+/root/DesignPatternsDetection/Data/Factory/stonehqs_pattern/ckmetrics/../src/main/java/com/hqs/pattern/controller/StrategyController.java,com.hqs.pattern.controller.StrategyController,strategy/1[java.lang.String],factoryForStrategy,1
+/root/DesignPatternsDetection/Data/Factory/stonehqs_pattern/ckmetrics/../src/main/java/com/hqs/pattern/factory/FactoryForStrategy.java,com.hqs.pattern.factory.FactoryForStrategy,getStrategy/1[java.lang.String],strategys,1

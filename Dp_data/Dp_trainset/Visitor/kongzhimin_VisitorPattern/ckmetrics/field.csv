@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/BuyBasket.java,BuyBasket,accept/1[AVisitor],list,1
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/BuyBasket.java,BuyBasket,addProduct/1[IProduct],list,1
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/BuyBasket.java,BuyBasket,removeProduct/1[IProduct],list,1
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/AVisitor.java,AVisitor,setName/1[java.lang.String],name,3

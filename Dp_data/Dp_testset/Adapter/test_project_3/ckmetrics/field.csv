@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Adapter/test_project_3/ckmetrics/../TranslatorAdapter.java,Adapter.TranslatorAdapter,TranslatorAdapter/1[Adapter.JapaneseAdaptee],adaptee,3
+./Adapter/test_project_3/ckmetrics/../TranslatorAdapter.java,Adapter.TranslatorAdapter,send/1[java.lang.String],adaptee,1

@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+./Observer/test_project_0/ckmetrics/../HelloListener.java,phuongsala.designpattern.observer.HelloListener,reply/1[java.lang.String],s,0
+./Observer/test_project_0/ckmetrics/../DEMO.java,phuongsala.designpattern.observer.DEMO,main/1[java.lang.String[]],args,0
+./Observer/test_project_0/ckmetrics/../DEMO.java,phuongsala.designpattern.observer.DEMO,main/1[java.lang.String[]],name,1
+./Observer/test_project_0/ckmetrics/../DEMO.java,phuongsala.designpattern.observer.DEMO,main/1[java.lang.String[]],hello,1
+./Observer/test_project_0/ckmetrics/../DEMO.java,phuongsala.designpattern.observer.DEMO$Anonymous1,reply/1[java.lang.String],s,1
+./Observer/test_project_0/ckmetrics/../HelloObserver.java,phuongsala.designpattern.observer.HelloObserver,sayHello/1[java.lang.String],s,2
+./Observer/test_project_0/ckmetrics/../HelloObserver.java,phuongsala.designpattern.observer.HelloObserver,HelloObserver/1[phuongsala.designpattern.observer.HelloListener],helloListener,1

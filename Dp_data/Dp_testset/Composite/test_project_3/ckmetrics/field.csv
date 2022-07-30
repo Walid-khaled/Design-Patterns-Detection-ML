@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,compPrice/0,price,1
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,toString/0,price,1
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,toString/0,name,1
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,"Leaf/2[java.lang.String,java.lang.Double]",price,3
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,"Leaf/2[java.lang.String,java.lang.Double]",name,3
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,compPrice/0,items,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,toString/0,items,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,addItem/1[Leaf],items,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,Composite/0,items,1
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,removeItem/1[Leaf],items,1

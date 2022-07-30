@@ -1,0 +1,9 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Memento/test_project_1/ckmetrics/../Originator.java,com.hundredwordsgof.memento.Originator,setMemento/1[com.hundredwordsgof.memento.Memento],false,13,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Memento/test_project_1/ckmetrics/../Originator.java,com.hundredwordsgof.memento.Originator,createMemento/0,false,17,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Memento/test_project_1/ckmetrics/../Originator.java,com.hundredwordsgof.memento.Originator,getState/0,false,21,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Memento/test_project_1/ckmetrics/../Originator.java,com.hundredwordsgof.memento.Originator,setState/1[int],false,25,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Memento/test_project_1/ckmetrics/../Caretaker.java,com.hundredwordsgof.memento.Caretaker,setMemento/1[com.hundredwordsgof.memento.Memento],false,16,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Memento/test_project_1/ckmetrics/../Caretaker.java,com.hundredwordsgof.memento.Caretaker,getMemento/0,false,12,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Memento/test_project_1/ckmetrics/../Memento.java,com.hundredwordsgof.memento.Memento,Memento/1[int],true,13,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+./Memento/test_project_1/ckmetrics/../Memento.java,com.hundredwordsgof.memento.Memento,getState/0,false,17,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false

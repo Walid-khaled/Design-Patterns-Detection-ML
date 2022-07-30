@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,setSuggar/1[java.lang.String],suggar,3
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,"MakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",coffeType,3
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,"MakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",conffeIntefrace,3
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,"MakeCoffe/3[bridge.CoffeType,bridge.CoffeInterface,java.lang.String]",suggar,3
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,setCoffeType/1[bridge.CoffeType],coffeType,3
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,show/0,coffeType,1
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,show/0,suggar,1
+/root/DesignPatternsDetection/Data/Bridge/scyzeq_Bridge/ckmetrics/../src/bridge/MakeCoffe.java,bridge.MakeCoffe,getCoffeType/0,coffeType,1

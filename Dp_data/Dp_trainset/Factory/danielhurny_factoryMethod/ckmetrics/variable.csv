@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/danielhurny_factoryMethod/ckmetrics/../src/factoryMethod/ScreenFactory.java,factoryMethod.ScreenFactory,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/danielhurny_factoryMethod/ckmetrics/../src/factoryMethod/ScreenFactory.java,factoryMethod.ScreenFactory,main/1[java.lang.String[]],screen2,1
+/root/DesignPatternsDetection/Data/Factory/danielhurny_factoryMethod/ckmetrics/../src/factoryMethod/ScreenFactory.java,factoryMethod.ScreenFactory,main/1[java.lang.String[]],screen3,1
+/root/DesignPatternsDetection/Data/Factory/danielhurny_factoryMethod/ckmetrics/../src/factoryMethod/ScreenFactory.java,factoryMethod.ScreenFactory,main/1[java.lang.String[]],screen1,1
+/root/DesignPatternsDetection/Data/Factory/danielhurny_factoryMethod/ckmetrics/../src/factoryMethod/ScreenFactory.java,factoryMethod.ScreenFactory,getScreen/1[java.lang.String],size,1

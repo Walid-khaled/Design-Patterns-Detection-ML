@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/swathisprasad_java-design-pattern-factory/ckmetrics/../src/main/java/com/swathisprasad/factorypattern/PersonFactory.java,com.swathisprasad.factorypattern.PersonFactory,getPerson/1[java.lang.String],type,3
+/root/DesignPatternsDetection/Data/Factory/swathisprasad_java-design-pattern-factory/ckmetrics/../src/main/java/com/swathisprasad/factorypattern/FactoryPattern.java,com.swathisprasad.factorypattern.FactoryPattern,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/swathisprasad_java-design-pattern-factory/ckmetrics/../src/main/java/com/swathisprasad/factorypattern/FactoryPattern.java,com.swathisprasad.factorypattern.FactoryPattern,main/1[java.lang.String[]],person,5

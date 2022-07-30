@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/design-patterns-182_Adapter/ckmetrics/../src/br/com/studiotrek/Funcionario.java,br.com.studiotrek.Funcionario,Funcionario/1[java.lang.String],nome,3
+/root/DesignPatternsDetection/Data/Adapter/design-patterns-182_Adapter/ckmetrics/../src/br/com/studiotrek/Funcionario.java,br.com.studiotrek.Funcionario,getNome/0,nome,1
+/root/DesignPatternsDetection/Data/Adapter/design-patterns-182_Adapter/ckmetrics/../src/br/com/studiotrek/ControlePontoAdapter.java,br.com.studiotrek.ControlePontoAdapter,registraSaida/1[br.com.studiotrek.Funcionario],controlePontoNovo,1
+/root/DesignPatternsDetection/Data/Adapter/design-patterns-182_Adapter/ckmetrics/../src/br/com/studiotrek/ControlePontoAdapter.java,br.com.studiotrek.ControlePontoAdapter,registraEntrada/1[br.com.studiotrek.Funcionario],controlePontoNovo,1
+/root/DesignPatternsDetection/Data/Adapter/design-patterns-182_Adapter/ckmetrics/../src/br/com/studiotrek/ControlePontoAdapter.java,br.com.studiotrek.ControlePontoAdapter,ControlePontoAdapter/0,controlePontoNovo,1

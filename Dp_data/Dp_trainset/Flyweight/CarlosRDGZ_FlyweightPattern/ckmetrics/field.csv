@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/ShapeFactory.java,flyweight.ShapeFactory,getShape/1[flyweight.ShapeFactory.ShapeType],shapes,2
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,getRandomY/0,HEIGHT,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,"DrawingClient/2[int,int]",WIDTH,2
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,"DrawingClient/2[int,int]",HEIGHT,2
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,getRandomX/0,WIDTH,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,getRandomHeight/0,HEIGHT,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,getRandomColor/0,COLORS,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,getRandomShape/0,SHAPES,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/DrawingClient.java,flyweight.DrawingClient,getRandomWidth/0,WIDTH,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/Oval.java,flyweight.Oval,"draw/6[java.awt.Graphics,int,int,int,int,java.awt.Color]",fill,1
+/root/DesignPatternsDetection/Data/Flyweight/CarlosRDGZ_FlyweightPattern/ckmetrics/../src/flyweight/Oval.java,flyweight.Oval,Oval/1[boolean],fill,4

@@ -1,0 +1,2 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/alif2165_Factory-Pattern-in-Spring-MVC/ckmetrics/../src/main/java/com/ali/factorypattern/controllers/HomeController.java,com.ali.factorypattern.controllers.HomeController,showCriteria/1[com.ali.factorypattern.controllers.Model],logger,1

@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+./Factory/test_project_4/ckmetrics/../CakeFactory.java,phuongsala.designpattern.factorymethod.CakeFactory,getCake/1[java.lang.String],type,3
+./Factory/test_project_4/ckmetrics/../DEMO.java,phuongsala.designpattern.factorymethod.DEMO,main/1[java.lang.String[]],args,0
+./Factory/test_project_4/ckmetrics/../DEMO.java,phuongsala.designpattern.factorymethod.DEMO,main/1[java.lang.String[]],cake,5

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/Eskentuki_design-patterns/ckmetrics/../src/main/java/singleton/Singleton.java,singleton.Singleton,Singleton/0,action,1
+/root/DesignPatternsDetection/Data/Singleton/Eskentuki_design-patterns/ckmetrics/../src/main/java/singleton/Singleton.java,singleton.Singleton,getSingleton/0,INSTANCE,3

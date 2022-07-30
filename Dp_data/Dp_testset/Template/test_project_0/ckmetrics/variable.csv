@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Template/test_project_0/ckmetrics/../example/Client.java,io.innofang.template_method.example.Client,main/1[java.lang.String[]],args,0
+./Template/test_project_0/ckmetrics/../example/Client.java,io.innofang.template_method.example.Client,main/1[java.lang.String[]],assemblyLine,3
+./Template/test_project_0/ckmetrics/../base/Client.java,io.innofang.template_method.base.Client,main/1[java.lang.String[]],args,0
+./Template/test_project_0/ckmetrics/../base/Client.java,io.innofang.template_method.base.Client,main/1[java.lang.String[]],template,1

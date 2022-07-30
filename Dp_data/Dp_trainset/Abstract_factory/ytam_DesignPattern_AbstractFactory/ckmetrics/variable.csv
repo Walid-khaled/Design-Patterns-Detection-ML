@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/ytam_DesignPattern_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/ytam_DesignPattern_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/ytam_DesignPattern_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],elma,1
+/root/DesignPatternsDetection/Data/Abstract_factory/ytam_DesignPattern_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],biber,1

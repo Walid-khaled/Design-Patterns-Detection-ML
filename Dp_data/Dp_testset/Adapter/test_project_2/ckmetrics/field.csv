@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapter.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapter,useMicroUsb/0,lightningPhone,1
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapter.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapter,LightningToMicroUsbAdapter/1[net.dskim.desingpattern.adapter.LightningPhone],lightningPhone,3
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/LightningToMicroUsbAdapter.java,net.dskim.desingpattern.adapter.LightningToMicroUsbAdapter,recharge/0,lightningPhone,1
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/Iphone.java,net.dskim.desingpattern.adapter.Iphone,useLightning/0,isConnected,1
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/Iphone.java,net.dskim.desingpattern.adapter.Iphone,recharge/0,isConnected,1
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/Android.java,net.dskim.desingpattern.adapter.Android,useMicroUsb/0,isConnected,1
+./Adapter/test_project_2/ckmetrics/../src/main/java/net/dskim/desingpattern/adapter/Android.java,net.dskim.desingpattern.adapter.Android,recharge/0,isConnected,1

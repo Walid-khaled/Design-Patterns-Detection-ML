@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,"logMessage/2[int,java.lang.String]",level,4
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,"logMessage/2[int,java.lang.String]",nextLogger,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/czq2019_ChainofResponsibilityPattern/ckmetrics/../src/responsibility/AbstractLogger.java,responsibility.AbstractLogger,setNextLogger/1[responsibility.AbstractLogger],nextLogger,3

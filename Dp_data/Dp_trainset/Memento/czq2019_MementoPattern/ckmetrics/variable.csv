@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/CareTaker.java,memento.CareTaker,add/1[memento.Memento],state,1
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/CareTaker.java,memento.CareTaker,get/1[int],index,1
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/MementoPatternDemo.java,memento.MementoPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/MementoPatternDemo.java,memento.MementoPatternDemo,main/1[java.lang.String[]],originator,11
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/MementoPatternDemo.java,memento.MementoPatternDemo,main/1[java.lang.String[]],careTaker,4
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/Originator.java,memento.Originator,setState/1[java.lang.String],state,2
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/Originator.java,memento.Originator,getStateFromMemento/1[memento.Memento],memento,1
+/root/DesignPatternsDetection/Data/Memento/czq2019_MementoPattern/ckmetrics/../src/memento/Memento.java,memento.Memento,Memento/1[java.lang.String],state,2

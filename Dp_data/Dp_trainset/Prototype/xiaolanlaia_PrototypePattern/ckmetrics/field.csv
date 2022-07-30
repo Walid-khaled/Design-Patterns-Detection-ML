@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/User.java,com.example.prototypepattern.User,toString/0,address,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/User.java,com.example.prototypepattern.User,toString/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/User.java,com.example.prototypepattern.User,toString/0,age,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,"Address/3[java.lang.String,java.lang.String,java.lang.String]",city,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,"Address/3[java.lang.String,java.lang.String,java.lang.String]",street,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,"Address/3[java.lang.String,java.lang.String,java.lang.String]",district,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,toString/0,city,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,toString/0,street,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,toString/0,district,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/LoginSession.java,com.example.prototypepattern.LoginSession,setLoginedUser/1[com.example.prototypepattern.User],loginedUser,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/LoginSession.java,com.example.prototypepattern.LoginSession,getsLoginSession/0,sLoginSession,3
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/LoginSession.java,com.example.prototypepattern.LoginSession,getLoginedUser/0,loginedUser,1

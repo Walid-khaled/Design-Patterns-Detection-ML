@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.HumanFactory,makeCopy/0,human,1
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.HumanFactory,setPrototype/1[com.company.Human],human,3
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.HumanFactory,HumanFactory/1[com.company.Human],human,2
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.Human,copy/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.Human,copy/0,age,1
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.Human,"Human/2[int,java.lang.String]",name,3
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.Human,"Human/2[int,java.lang.String]",age,3
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.Human,toString/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/jeniq_Prototype/ckmetrics/../src/com/company/Main.java,com.company.Human,toString/0,age,1

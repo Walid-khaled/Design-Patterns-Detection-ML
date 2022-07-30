@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+./Interpreter/test_project_0/ckmetrics/../OrExpression.java,com.hundredwordsgof.interpreter.OrExpression,interpret/1[com.hundredwordsgof.interpreter.Context],firstAbstractExpression,1
+./Interpreter/test_project_0/ckmetrics/../OrExpression.java,com.hundredwordsgof.interpreter.OrExpression,interpret/1[com.hundredwordsgof.interpreter.Context],secondAbstractExpression,1
+./Interpreter/test_project_0/ckmetrics/../OrExpression.java,com.hundredwordsgof.interpreter.OrExpression,"OrExpression/2[com.hundredwordsgof.interpreter.AbstractExpression,com.hundredwordsgof.interpreter.AbstractExpression]",firstAbstractExpression,3
+./Interpreter/test_project_0/ckmetrics/../OrExpression.java,com.hundredwordsgof.interpreter.OrExpression,"OrExpression/2[com.hundredwordsgof.interpreter.AbstractExpression,com.hundredwordsgof.interpreter.AbstractExpression]",secondAbstractExpression,3
+./Interpreter/test_project_0/ckmetrics/../TerminalExpression.java,com.hundredwordsgof.interpreter.TerminalExpression,TerminalExpression/1[boolean],data,3
+./Interpreter/test_project_0/ckmetrics/../TerminalExpression.java,com.hundredwordsgof.interpreter.TerminalExpression,interpret/1[com.hundredwordsgof.interpreter.Context],data,1
+./Interpreter/test_project_0/ckmetrics/../Context.java,com.hundredwordsgof.interpreter.Context,setResult/1[java.lang.Boolean],result,3
+./Interpreter/test_project_0/ckmetrics/../Context.java,com.hundredwordsgof.interpreter.Context,isResult/0,result,1
+./Interpreter/test_project_0/ckmetrics/../Context.java,com.hundredwordsgof.interpreter.Context,getOperands/0,operands,1
+./Interpreter/test_project_0/ckmetrics/../Context.java,com.hundredwordsgof.interpreter.Context,addOperand/1[java.lang.Boolean],operands,1
+./Interpreter/test_project_0/ckmetrics/../AndExpression.java,com.hundredwordsgof.interpreter.AndExpression,interpret/1[com.hundredwordsgof.interpreter.Context],firstAbstractExpression,1
+./Interpreter/test_project_0/ckmetrics/../AndExpression.java,com.hundredwordsgof.interpreter.AndExpression,interpret/1[com.hundredwordsgof.interpreter.Context],secondAbstractExpression,1
+./Interpreter/test_project_0/ckmetrics/../AndExpression.java,com.hundredwordsgof.interpreter.AndExpression,"AndExpression/2[com.hundredwordsgof.interpreter.AbstractExpression,com.hundredwordsgof.interpreter.AbstractExpression]",firstAbstractExpression,3
+./Interpreter/test_project_0/ckmetrics/../AndExpression.java,com.hundredwordsgof.interpreter.AndExpression,"AndExpression/2[com.hundredwordsgof.interpreter.AbstractExpression,com.hundredwordsgof.interpreter.AbstractExpression]",secondAbstractExpression,3

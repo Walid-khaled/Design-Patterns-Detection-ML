@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/androidTest/java/com/example/prototypepattern/ExampleInstrumentedTest.java,com.example.prototypepattern.ExampleInstrumentedTest,useAppContext/0,appContext,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/User.java,com.example.prototypepattern.User,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/User.java,com.example.prototypepattern.User,clone/0,user,2
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/LoginImpl.java,com.example.prototypepattern.LoginImpl,login/0,loginedUser,4
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,"Address/3[java.lang.String,java.lang.String,java.lang.String]",aDist,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,"Address/3[java.lang.String,java.lang.String,java.lang.String]",aStreet,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/Address.java,com.example.prototypepattern.Address,"Address/3[java.lang.String,java.lang.String,java.lang.String]",aCity,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/MainActivity.java,com.example.prototypepattern.MainActivity,onCreate/1[com.example.prototypepattern.Bundle],savedInstanceState,1
+/root/DesignPatternsDetection/Data/Prototype/xiaolanlaia_PrototypePattern/ckmetrics/../app/src/main/java/com/example/prototypepattern/LoginSession.java,com.example.prototypepattern.LoginSession,setLoginedUser/1[com.example.prototypepattern.User],user,1

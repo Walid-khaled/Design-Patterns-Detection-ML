@@ -1,0 +1,6 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Factory/test_project_5/ckmetrics/../Design Pattern/src/Factory/Macska.java,Factory.Macska,doing/0,false,8,0,1,3,3,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,5,1,0,false
+./Factory/test_project_5/ckmetrics/../Design Pattern/src/Factory/Bengali.java,Factory.Bengali,doing/0,false,8,0,1,3,3,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,4,1,0,false
+./Factory/test_project_5/ckmetrics/../Design Pattern/src/Factory/IDosomething.java,Factory.IDosomething,doing/0,false,7,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Factory/test_project_5/ckmetrics/../Design Pattern/src/Factory/Cica.java,Factory.Cica,doing/0,false,8,0,1,3,3,0,0,0,3,0,0,0,0,0,0,1,0,0,1,0,0,0,0,5,1,0,false
+./Factory/test_project_5/ckmetrics/../Design Pattern/src/Factory/Factory.java,Factory.Factory,getIDosomething/1[java.lang.String],false,11,4,5,1,15,5,0,1,1,0,0,0,1,0,0,3,0,0,0,1,0,0,0,13,1,0,true

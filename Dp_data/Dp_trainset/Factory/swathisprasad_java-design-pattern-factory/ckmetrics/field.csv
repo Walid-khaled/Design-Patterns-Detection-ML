@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/swathisprasad_java-design-pattern-factory/ckmetrics/../src/main/java/com/swathisprasad/factorypattern/ConcretePersonB.java,com.swathisprasad.factorypattern.ConcretePersonB,run/0,LOGGER,1
+/root/DesignPatternsDetection/Data/Factory/swathisprasad_java-design-pattern-factory/ckmetrics/../src/main/java/com/swathisprasad/factorypattern/ConcretePersonC.java,com.swathisprasad.factorypattern.ConcretePersonC,run/0,LOGGER,1
+/root/DesignPatternsDetection/Data/Factory/swathisprasad_java-design-pattern-factory/ckmetrics/../src/main/java/com/swathisprasad/factorypattern/ConcretePersonA.java,com.swathisprasad.factorypattern.ConcretePersonA,run/0,LOGGER,1

@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Singleton/test_project_3/ckmetrics/../ThreadSafeSynchronizedSingleton.java,io.innofang.singleton.example.java.ThreadSafeSynchronizedSingleton,getInstance/0,instance,3
+./Singleton/test_project_3/ckmetrics/../ThreadSafeDoubleCheckSingleton.java,io.innofang.singleton.example.java.ThreadSafeDoubleCheckSingleton,getInstance/0,instance,4
+./Singleton/test_project_3/ckmetrics/../SingletonManager.java,io.innofang.singleton.example.java.SingletonManager,"registerService/2[java.lang.String,java.lang.Object]",objectMap,2
+./Singleton/test_project_3/ckmetrics/../SingletonManager.java,io.innofang.singleton.example.java.SingletonManager,getService/1[java.lang.String],objectMap,1
+./Singleton/test_project_3/ckmetrics/../Singleton.java,io.innofang.singleton.example.java.Singleton,getInstance/0,instance,1
+./Singleton/test_project_3/ckmetrics/../NotThreadSafeSingleton.java,io.innofang.singleton.example.java.NotThreadSafeSingleton,getInstance/0,instance,3

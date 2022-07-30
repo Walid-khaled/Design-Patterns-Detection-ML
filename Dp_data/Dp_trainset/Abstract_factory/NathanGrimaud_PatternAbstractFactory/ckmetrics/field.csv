@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/UpperCasedButton.java,UpperCasedButton,UpperCasedButton/1[IButtonFactory],_btn,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/UpperCasedButton.java,UpperCasedButton,createButton/0,_btn,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/AlertButton.java,AlertButton,AlertButton/1[IButtonFactory],_btn,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/AlertButton.java,AlertButton,createButton/0,_btn,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/BlackButton.java,BlackButton,createButton/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/BlackButton.java,BlackButton,toString/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/Singleton.java,Singleton,getInstance/0,_singleton,3
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/main.java,main,start/1[Stage],button,2
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/main.java,main,start/1[Stage],choice,3
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/main.java,main,start/1[Stage],group,3
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/RedBorderButton.java,RedBorderButton,RedBorderButton/1[IButtonFactory],_btn,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/RedBorderButton.java,RedBorderButton,createButton/0,_btn,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/BlueButton.java,BlueButton,createButton/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/NathanGrimaud_PatternAbstractFactory/ckmetrics/../src/main/java/BlueButton.java,BlueButton,toString/0,name,1

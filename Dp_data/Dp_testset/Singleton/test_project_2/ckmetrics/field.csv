@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Singleton,getInstance/0,instance,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,close/0,isClosed,2
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,close/0,writer,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,flush/0,writer,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,GlobalLogger/0,isClosed,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,GlobalLogger/0,writer,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,"log/2[java.lang.Object,boolean]",isClosed,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,"log/2[java.lang.Object,boolean]",counter,2
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,"log/2[java.lang.Object,boolean]",writer,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,getInstance/0,instance,3

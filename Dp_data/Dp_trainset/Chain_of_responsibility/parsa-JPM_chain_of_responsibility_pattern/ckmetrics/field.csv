@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Dollar50Dispenser.java,Dollar50Dispenser,dispense/1[Currency],chain,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Dollar50Dispenser.java,Dollar50Dispenser,setNextChain/1[DispenseChain],chain,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/ATMDispenseChain.java,ATMDispenseChain,ATMDispenseChain/0,c1,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Dollar20Dispenser.java,Dollar20Dispenser,dispense/1[Currency],chain,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Dollar20Dispenser.java,Dollar20Dispenser,setNextChain/1[DispenseChain],chain,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Dollar10Dispenser.java,Dollar10Dispenser,dispense/1[Currency],chain,2
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Dollar10Dispenser.java,Dollar10Dispenser,setNextChain/1[DispenseChain],chain,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Currency.java,Currency,getAmount/0,amount,1
+/root/DesignPatternsDetection/Data/Chain_of_responsibility/parsa-JPM_chain_of_responsibility_pattern/ckmetrics/../src/main/java/Currency.java,Currency,Currency/1[int],amount,3

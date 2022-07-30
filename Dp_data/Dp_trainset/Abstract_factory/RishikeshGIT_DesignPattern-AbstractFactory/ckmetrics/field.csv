@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputer.java,designpatterns.abstractfactory.PersonalComputer,getHardDiskSize/0,hardDisk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputer.java,designpatterns.abstractfactory.PersonalComputer,"PersonalComputer/2[java.lang.String,java.lang.String]",memory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputer.java,designpatterns.abstractfactory.PersonalComputer,"PersonalComputer/2[java.lang.String,java.lang.String]",hardDisk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputer.java,designpatterns.abstractfactory.PersonalComputer,getMemorySize/0,memory,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../Server.java,designpatterns.abstractfactory.Server,getMemorySize/0,memory,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../Server.java,designpatterns.abstractfactory.Server,getHardDiskSize/0,hardDisk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../Server.java,designpatterns.abstractfactory.Server,"Server/2[java.lang.String,java.lang.String]",memory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../Server.java,designpatterns.abstractfactory.Server,"Server/2[java.lang.String,java.lang.String]",hardDisk,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../ServerFactory.java,designpatterns.abstractfactory.ServerFactory,"ServerFactory/2[java.lang.String,java.lang.String]",memory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../ServerFactory.java,designpatterns.abstractfactory.ServerFactory,"ServerFactory/2[java.lang.String,java.lang.String]",hdd,3
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../ServerFactory.java,designpatterns.abstractfactory.ServerFactory,createComputer/0,memory,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../ServerFactory.java,designpatterns.abstractfactory.ServerFactory,createComputer/0,hdd,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputerFactory.java,designpatterns.abstractfactory.PersonalComputerFactory,"PersonalComputerFactory/2[java.lang.String,java.lang.String]",memory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputerFactory.java,designpatterns.abstractfactory.PersonalComputerFactory,"PersonalComputerFactory/2[java.lang.String,java.lang.String]",hdd,3
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputerFactory.java,designpatterns.abstractfactory.PersonalComputerFactory,createComputer/0,memory,1
+/root/DesignPatternsDetection/Data/Abstract_factory/RishikeshGIT_DesignPattern-AbstractFactory/ckmetrics/../PersonalComputerFactory.java,designpatterns.abstractfactory.PersonalComputerFactory,createComputer/0,hdd,1

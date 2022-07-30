@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonDoubleLocking.java,com.michael.singletonpattern.SingletonDoubleLocking,getSingletonInfo/0,uniqueInstance,1
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonDoubleLocking.java,com.michael.singletonpattern.SingletonDoubleLocking,getInstance/0,uniqueInstance,4
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/AnotherActivity.java,com.michael.singletonpattern.AnotherActivity,onCreate/1[com.michael.singletonpattern.Bundle],tvShowInfo,2
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonCommon.java,com.michael.singletonpattern.SingletonCommon,getSingletonInfo/0,uniqueInstance,1
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonCommon.java,com.michael.singletonpattern.SingletonCommon,getInstance/0,uniqueInstance,3
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonEagerly.java,com.michael.singletonpattern.SingletonEagerly,getSingletonInfo/0,uniqueInstance,1
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonEagerly.java,com.michael.singletonpattern.SingletonEagerly,getInstance/0,uniqueInstance,1
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/MainActivity.java,com.michael.singletonpattern.MainActivity,onCreate/1[com.michael.singletonpattern.Bundle],btnIntent,2
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/MainActivity.java,com.michael.singletonpattern.MainActivity,onCreate/1[com.michael.singletonpattern.Bundle],tvShowInfo,2
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonSynchronized.java,com.michael.singletonpattern.SingletonSynchronized,getInstance/0,uniqueInstance,3
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/SingletonSynchronized.java,com.michael.singletonpattern.SingletonSynchronized,getSingletonInfo/0,uniqueInstance,1

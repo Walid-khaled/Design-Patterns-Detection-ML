@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Decorating.java,Decorating,Decorating/1[IBirthdayCake],birthdayCake,2
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],fruit,2
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],birthdayCake,2
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],cream,2
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Fruit.java,Fruit,Fruit/1[IBirthdayCake],birthdayCake,1
+/root/DesignPatternsDetection/Data/Decorator/kongzhimin_DecoratorPattern/ckmetrics/../src/Cream.java,Cream,Cream/1[IBirthdayCake],birthdayCake,1

@@ -1,0 +1,16 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/XMLUtil.java,XMLUtil,getBean/0,false,6,3,2,10,18,2,8,0,10,0,0,0,0,1,0,2,1,8,0,1,0,0,0,21,9,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Customer.java,Customer,visit/1[Apple],false,2,1,1,1,3,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Customer.java,Customer,visit/1[Book],false,5,1,1,1,3,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],false,2,6,1,4,13,0,5,1,4,0,0,0,0,0,1,1,0,5,0,0,0,0,0,15,9,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Book.java,Book,accept/1[AVisitor],false,3,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Apple.java,Apple,accept/1[AVisitor],false,3,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/BuyBasket.java,BuyBasket,accept/1[AVisitor],false,6,2,2,4,6,0,1,1,4,0,0,1,0,0,1,0,0,1,0,1,0,0,0,8,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/BuyBasket.java,BuyBasket,addProduct/1[IProduct],false,12,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/BuyBasket.java,BuyBasket,removeProduct/1[IProduct],false,15,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Saler.java,Saler,visit/1[Apple],false,3,1,1,1,3,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/Saler.java,Saler,visit/1[Book],false,8,1,1,1,3,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/AVisitor.java,AVisitor,visit/1[Apple],false,6,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1025,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/AVisitor.java,AVisitor,visit/1[Book],false,7,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1025,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/AVisitor.java,AVisitor,setName/1[java.lang.String],false,3,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Visitor/kongzhimin_VisitorPattern/ckmetrics/../src/IProduct.java,IProduct,accept/1[AVisitor],false,2,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,false

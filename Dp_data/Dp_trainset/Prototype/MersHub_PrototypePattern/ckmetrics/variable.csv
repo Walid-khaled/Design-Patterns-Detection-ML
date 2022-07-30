@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/ProjectFactory.java,ProjectFactory,setProject/1[Project],project,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/ProjectFactory.java,ProjectFactory,ProjectFactory/1[Project],project,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/VersionRunner.java,VersionRunner,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/VersionRunner.java,VersionRunner,main/1[java.lang.String[]],projectFactory,1
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/VersionRunner.java,VersionRunner,main/1[java.lang.String[]],project,1
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/VersionRunner.java,VersionRunner,main/1[java.lang.String[]],masterCopy,1
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/VersionRunner.java,VersionRunner,main/1[java.lang.String[]],master,3
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,"Project/3[int,java.lang.String,java.lang.String]",id,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,"Project/3[int,java.lang.String,java.lang.String]",source,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,"Project/3[int,java.lang.String,java.lang.String]",projectName,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,setProjectName/1[java.lang.String],projectName,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,setSource/1[java.lang.String],source,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,setId/1[int],id,2
+/root/DesignPatternsDetection/Data/Prototype/MersHub_PrototypePattern/ckmetrics/../src/Project.java,Project,copy/0,copy,1

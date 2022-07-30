@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/EmissorSMS.java,factoryMethod.EmissorSMS,envia/1[java.lang.String],mensagem,1
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/Emissor.java,factoryMethod.Emissor,envia/1[java.lang.String],mensagem,0
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/EmissorJMS.java,factoryMethod.EmissorJMS,envia/1[java.lang.String],mensagem,1
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/TestaEmissores.java,factoryMethod.TestaEmissores,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/TestaEmissores.java,factoryMethod.TestaEmissores,main/1[java.lang.String[]],creator,3
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/TestaEmissores.java,factoryMethod.TestaEmissores,main/1[java.lang.String[]],emissor1,1
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/TestaEmissores.java,factoryMethod.TestaEmissores,main/1[java.lang.String[]],emissor3,1
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/TestaEmissores.java,factoryMethod.TestaEmissores,main/1[java.lang.String[]],emissor2,1
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/EmissorEmail.java,factoryMethod.EmissorEmail,envia/1[java.lang.String],mensagem,1
+/root/DesignPatternsDetection/Data/Factory/napoleaoonaya_factoryMethod/ckmetrics/../factoryMethod/src/factoryMethod/EmissorCreator.java,factoryMethod.EmissorCreator,create/1[int],tipoDeEmissor,3

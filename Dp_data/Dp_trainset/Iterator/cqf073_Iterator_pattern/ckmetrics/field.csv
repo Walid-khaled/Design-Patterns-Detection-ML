@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp$concrete,hasnext/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp$concrete,next/0,index,2
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp$concrete,isfirst/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp$concrete,islast/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp$concrete,get/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp$concrete,first/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp,addobject/1[java.lang.Object],list,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp,removeobject/1[java.lang.Object],list,1

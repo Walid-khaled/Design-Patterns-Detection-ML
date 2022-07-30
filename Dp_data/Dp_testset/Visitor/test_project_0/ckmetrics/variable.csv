@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+./Visitor/test_project_0/ckmetrics/../ConcreteVisitor2.java,com.hundredwordsgof.visitor.ConcreteVisitor2,visitConcreteElementB/1[com.hundredwordsgof.visitor.ConcreteElementB],concreteElementB,1
+./Visitor/test_project_0/ckmetrics/../ConcreteVisitor2.java,com.hundredwordsgof.visitor.ConcreteVisitor2,visitConcreteElementA/1[com.hundredwordsgof.visitor.ConcreteElementA],concreteElementA,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,acceptAll/1[com.hundredwordsgof.visitor.Visitor],iterator,3
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,acceptAll/1[com.hundredwordsgof.visitor.Visitor],visitor,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,acceptAll/1[com.hundredwordsgof.visitor.Visitor],element,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,remove/1[com.hundredwordsgof.visitor.Element],element,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,add/1[com.hundredwordsgof.visitor.Element],element,1
+./Visitor/test_project_0/ckmetrics/../ObjectStructure.java,com.hundredwordsgof.visitor.ObjectStructure,getChild/1[int],index,1
+./Visitor/test_project_0/ckmetrics/../Visitor.java,com.hundredwordsgof.visitor.Visitor,visitConcreteElementB/1[com.hundredwordsgof.visitor.ConcreteElementB],concreteElementB,0
+./Visitor/test_project_0/ckmetrics/../Visitor.java,com.hundredwordsgof.visitor.Visitor,visitConcreteElementA/1[com.hundredwordsgof.visitor.ConcreteElementA],concreteElementA,0
+./Visitor/test_project_0/ckmetrics/../ConcreteElementB.java,com.hundredwordsgof.visitor.ConcreteElementB,accept/1[com.hundredwordsgof.visitor.Visitor],visitor,1
+./Visitor/test_project_0/ckmetrics/../ConcreteVisitor1.java,com.hundredwordsgof.visitor.ConcreteVisitor1,visitConcreteElementB/1[com.hundredwordsgof.visitor.ConcreteElementB],concreteElementB,1
+./Visitor/test_project_0/ckmetrics/../ConcreteVisitor1.java,com.hundredwordsgof.visitor.ConcreteVisitor1,visitConcreteElementA/1[com.hundredwordsgof.visitor.ConcreteElementA],concreteElementA,1
+./Visitor/test_project_0/ckmetrics/../Element.java,com.hundredwordsgof.visitor.Element,accept/1[com.hundredwordsgof.visitor.Visitor],visitor,0
+./Visitor/test_project_0/ckmetrics/../ConcreteElementA.java,com.hundredwordsgof.visitor.ConcreteElementA,accept/1[com.hundredwordsgof.visitor.Visitor],visitor,1

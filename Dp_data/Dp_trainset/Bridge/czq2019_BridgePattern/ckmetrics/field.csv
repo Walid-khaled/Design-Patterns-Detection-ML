@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Shape.java,bridge.Shape,Shape/1[bridge.DrawAPI],drawAPI,3
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Circle.java,bridge.Circle,"Circle/4[int,int,int,bridge.DrawAPI]",x,3
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Circle.java,bridge.Circle,"Circle/4[int,int,int,bridge.DrawAPI]",y,3
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Circle.java,bridge.Circle,"Circle/4[int,int,int,bridge.DrawAPI]",radius,3
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Circle.java,bridge.Circle,draw/0,x,1
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Circle.java,bridge.Circle,draw/0,y,1
+/root/DesignPatternsDetection/Data/Bridge/czq2019_BridgePattern/ckmetrics/../src/bridge/Circle.java,bridge.Circle,draw/0,radius,1

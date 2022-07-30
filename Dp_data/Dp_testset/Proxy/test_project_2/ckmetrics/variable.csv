@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+./Proxy/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/proxy/solution/ProxyTest.java,net.dskim.desingpattern.proxy.solution.ProxyTest,heavyResourceTest/0,heavyResource,2
+./Proxy/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/proxy/problem/ProxyTest.java,net.dskim.desingpattern.proxy.problem.ProxyTest,heavyResourceTest/0,heavyResource1,1
+./Proxy/test_project_2/ckmetrics/../src/test/java/net/dskim/desingpattern/proxy/problem/ProxyTest.java,net.dskim.desingpattern.proxy.problem.ProxyTest,heavyResourceTest/0,heavyResource2,1

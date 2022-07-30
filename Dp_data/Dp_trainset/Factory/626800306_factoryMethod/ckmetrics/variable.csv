@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/Test.java,com.baizhi.factory.Test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/Test.java,com.baizhi.factory.Test,main/1[java.lang.String[]],factory,3
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/Test.java,com.baizhi.factory.Test,main/1[java.lang.String[]],human,2
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/Test.java,com.baizhi.factory.Test,main/1[java.lang.String[]],human2,2
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/Test.java,com.baizhi.factory.Test,main/1[java.lang.String[]],human1,2
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/HumanFactory.java,com.baizhi.factory.HumanFactory,createHuman/1[java.lang.Class<T>],e,1
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/HumanFactory.java,com.baizhi.factory.HumanFactory,createHuman/1[java.lang.Class<T>],clazz,1
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/HumanFactory.java,com.baizhi.factory.HumanFactory,createHuman/1[java.lang.Class<T>],o,2
+/root/DesignPatternsDetection/Data/Factory/626800306_factoryMethod/ckmetrics/../src/com/baizhi/factory/AbstractHumanFactory.java,com.baizhi.factory.AbstractHumanFactory,createHuman/1[java.lang.Class<T>],clazz,0

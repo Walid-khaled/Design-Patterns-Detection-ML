@@ -1,0 +1,13 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Factory/test_project_0/ckmetrics/../Client.java,FactoryAndPrototype.Client,main/1[java.lang.String[]],false,7,2,3,4,16,0,1,1,4,0,0,1,1,0,0,8,0,1,0,3,0,0,0,7,9,0,false
+./Factory/test_project_0/ckmetrics/../BTC.java,FactoryAndPrototype.BTC,"BTC/2[java.util.Date,double]",true,11,0,1,1,4,0,0,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,10,1,0,false
+./Factory/test_project_0/ckmetrics/../BTC.java,FactoryAndPrototype.BTC,identify/0,false,17,0,1,1,3,1,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,8,1,0,false
+./Factory/test_project_0/ckmetrics/../XRP.java,FactoryAndPrototype.XRP,identify/0,false,17,0,1,1,3,1,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,8,1,0,false
+./Factory/test_project_0/ckmetrics/../XRP.java,FactoryAndPrototype.XRP,"XRP/2[java.util.Date,double]",true,11,0,1,1,4,0,0,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,10,1,0,false
+./Factory/test_project_0/ckmetrics/../CryptoCurrency.java,FactoryAndPrototype.CryptoCurrency,clone/0,false,12,1,2,2,9,2,0,0,2,0,0,0,0,1,0,0,0,0,0,1,0,0,0,9,1,0,false
+./Factory/test_project_0/ckmetrics/../CryptoCurrency.java,FactoryAndPrototype.CryptoCurrency,setDateOfCreation/1[java.util.Date],false,22,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false
+./Factory/test_project_0/ckmetrics/../CryptoCurrency.java,FactoryAndPrototype.CryptoCurrency,identify/0,false,27,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1025,0,false
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,(initializer 1),false,14,4,1,1,12,0,3,0,1,0,0,0,0,0,0,6,0,4,0,0,0,0,0,15,8,0,false
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,mine/1[java.lang.String],false,28,1,2,4,11,2,1,1,4,0,0,0,0,1,0,0,0,1,0,1,0,0,0,9,9,0,false
+./Factory/test_project_0/ckmetrics/../ETH.java,FactoryAndPrototype.ETH,"ETH/2[java.util.Date,double]",true,11,0,1,1,4,0,0,2,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,10,1,0,false
+./Factory/test_project_0/ckmetrics/../ETH.java,FactoryAndPrototype.ETH,identify/0,false,17,0,1,1,3,1,0,0,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,8,1,0,false

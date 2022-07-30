@@ -1,0 +1,8 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Adapter/test_project_1/ckmetrics/../clazz/Target.java,com.hundredwordsgof.adapter.clazz.Target,request/0,false,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Adapter/test_project_1/ckmetrics/../clazz/Adapter.java,com.hundredwordsgof.adapter.clazz.Adapter,request/0,false,10,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+./Adapter/test_project_1/ckmetrics/../clazz/Adaptee.java,com.hundredwordsgof.adapter.clazz.Adaptee,specialRequest/0,false,10,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Adapter/test_project_1/ckmetrics/../object/Target.java,com.hundredwordsgof.adapter.object.Target,request/0,false,10,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Adapter/test_project_1/ckmetrics/../object/Adapter.java,com.hundredwordsgof.adapter.object.Adapter,request/0,false,16,1,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+./Adapter/test_project_1/ckmetrics/../object/Adapter.java,com.hundredwordsgof.adapter.object.Adapter,Adapter/1[com.hundredwordsgof.adapter.object.Adaptee],true,12,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Adapter/test_project_1/ckmetrics/../object/Adaptee.java,com.hundredwordsgof.adapter.object.Adaptee,specialRequest/0,false,10,0,1,0,3,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false

@@ -1,0 +1,7 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Facade/cqf073_Facade_Pattern/ckmetrics/../src/System2.java,System2,B/0,false,11,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/cqf073_Facade_Pattern/ckmetrics/../src/Facade.java,Facade,Facade/0,true,14,3,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,7,1,0,false
+/root/DesignPatternsDetection/Data/Facade/cqf073_Facade_Pattern/ckmetrics/../src/Facade.java,Facade,summethod/0,false,20,3,1,3,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/cqf073_Facade_Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],false,3,1,1,2,5,0,1,1,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,4,9,0,false
+/root/DesignPatternsDetection/Data/Facade/cqf073_Facade_Pattern/ckmetrics/../src/System1.java,System1,A/0,false,11,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/cqf073_Facade_Pattern/ckmetrics/../src/System3.java,System3,C/0,false,11,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false

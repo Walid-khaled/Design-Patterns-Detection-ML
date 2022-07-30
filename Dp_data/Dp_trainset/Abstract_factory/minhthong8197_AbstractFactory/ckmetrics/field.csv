@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,showInfo/0,meat,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,showInfo/0,sauce,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,showInfo/0,veggies,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,showInfo/0,myPizzaType,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,showInfo/0,dough,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,prepare/0,meat,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,prepare/0,myFactory,5
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,prepare/0,sauce,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,prepare/0,veggies,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,prepare/0,myPizzaType,1
+/root/DesignPatternsDetection/Data/Abstract_factory/minhthong8197_AbstractFactory/ckmetrics/../src/pizza/Pizza.java,pizza.Pizza,prepare/0,dough,1

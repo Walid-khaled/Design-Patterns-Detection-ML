@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Query.java,Query,printQuery/0,ORDER_BY,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Query.java,Query,printQuery/0,FROM,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Query.java,Query,printQuery/0,WHERE,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/Query.java,Query,printQuery/0,SELECT,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/QueryBuilder.java,QueryBuilder,queryBuilder/0,query,1
+/root/DesignPatternsDetection/Data/Abstract_factory/lakithjayalath_Abstract-Factory-/ckmetrics/../Builder/src/QueryBuilder.java,QueryBuilder,build/0,query,1

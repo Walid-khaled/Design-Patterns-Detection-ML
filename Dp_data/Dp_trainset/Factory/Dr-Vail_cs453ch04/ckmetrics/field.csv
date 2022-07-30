@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractEngine.java,chapter01.AbstractEngine,getSize/0,size,1
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractEngine.java,chapter01.AbstractEngine,toString/0,size,1
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractEngine.java,chapter01.AbstractEngine,"AbstractEngine/2[int,boolean]",size,3
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractEngine.java,chapter01.AbstractEngine,"AbstractEngine/2[int,boolean]",turbo,3
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractEngine.java,chapter01.AbstractEngine,isTurbo/0,turbo,1
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,"AbstractVehicle/2[chapter01.Engine,chapter01.Vehicle.Colour]",colour,3
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,"AbstractVehicle/2[chapter01.Engine,chapter01.Vehicle.Colour]",engine,3
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,paint/1[chapter01.Vehicle.Colour],colour,3
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,AbstractVehicle/1[chapter01.Engine],engine,2
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,getEngine/0,engine,1
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,toString/0,colour,1
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,toString/0,engine,1
+/root/DesignPatternsDetection/Data/Factory/Dr-Vail_cs453ch04/ckmetrics/../src/chapter01/AbstractVehicle.java,chapter01.AbstractVehicle,getColour/0,colour,1

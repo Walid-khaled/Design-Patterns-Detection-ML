@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],nike,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],bfactory,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],adidas,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],timbs,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/factories/BootFactory.java,com.company.factories.BootFactory,create/1[com.company.enumerations.ShoeBrand],shoeBrand,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/factories/AbstractShoeFactory.java,com.company.factories.AbstractShoeFactory,getFactory/1[com.company.enumerations.ShoeType],shoeType,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/factories/SneakerFactory.java,com.company.factories.SneakerFactory,create/1[com.company.enumerations.ShoeBrand],shoeBrand,1
+/root/DesignPatternsDetection/Data/Abstract_factory/exZell11_AbstractFactory/ckmetrics/../AbstractFactoryShoes/src/com/company/interfaces/ShoeTypeFactory.java,com.company.interfaces.ShoeTypeFactory,create/1[com.company.enumerations.ShoeBrand],shoeBrand,0

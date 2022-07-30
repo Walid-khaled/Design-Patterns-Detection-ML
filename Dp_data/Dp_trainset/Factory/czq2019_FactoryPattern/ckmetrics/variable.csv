@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/czq2019_FactoryPattern/ckmetrics/../src/factory/ShapeFactory.java,factory.ShapeFactory,getShape/1[java.lang.String],shapeType,4
+/root/DesignPatternsDetection/Data/Factory/czq2019_FactoryPattern/ckmetrics/../src/factory/FactoryPatternDemo.java,factory.FactoryPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/czq2019_FactoryPattern/ckmetrics/../src/factory/FactoryPatternDemo.java,factory.FactoryPatternDemo,main/1[java.lang.String[]],shape1,1
+/root/DesignPatternsDetection/Data/Factory/czq2019_FactoryPattern/ckmetrics/../src/factory/FactoryPatternDemo.java,factory.FactoryPatternDemo,main/1[java.lang.String[]],shape2,1
+/root/DesignPatternsDetection/Data/Factory/czq2019_FactoryPattern/ckmetrics/../src/factory/FactoryPatternDemo.java,factory.FactoryPatternDemo,main/1[java.lang.String[]],shape3,1
+/root/DesignPatternsDetection/Data/Factory/czq2019_FactoryPattern/ckmetrics/../src/factory/FactoryPatternDemo.java,factory.FactoryPatternDemo,main/1[java.lang.String[]],shapeFactory,3

@@ -1,0 +1,14 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,GeneralSwitchFacade/0,true,7,4,1,0,9,0,0,0,0,0,0,0,0,0,0,4,4,7,0,0,0,0,0,11,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,off/0,false,27,4,1,4,9,0,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/GeneralSwitchFacade.java,GeneralSwitchFacade,on/0,false,17,4,1,4,9,0,0,0,4,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,on/0,false,8,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,off/0,false,12,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Light.java,Light,Light/1[java.lang.String],true,4,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],false,2,1,1,3,6,0,1,1,3,0,0,0,0,0,0,1,0,1,0,0,0,0,0,6,9,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Fan.java,Fan,on/0,false,3,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Fan.java,Fan,off/0,false,7,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/AirConditioner.java,AirConditioner,on/0,false,3,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/AirConditioner.java,AirConditioner,off/0,false,7,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Television.java,Television,on/0,false,3,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+/root/DesignPatternsDetection/Data/Facade/kongzhimin_FacadePattern/ckmetrics/../src/Television.java,Television,off/0,false,7,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false

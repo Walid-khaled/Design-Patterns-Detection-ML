@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/SingletonPatternDemo.java,com.globallogic.SingletonPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/SingletonPatternDemo.java,com.globallogic.SingletonPatternDemo,main/1[java.lang.String[]],object2,1
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/SingletonPatternDemo.java,com.globallogic.SingletonPatternDemo,main/1[java.lang.String[]],object1,1
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/SingletonPatternDemo.java,com.globallogic.SingletonPatternDemo,main/1[java.lang.String[]],object3,1
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/SingletonPatternDemo.java,com.globallogic.SingletonPatternDemo,main/1[java.lang.String[]],object,1
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/implementations/StaticBlockSingleton.java,com.globallogic.implementations.StaticBlockSingleton,(initializer 1),e,0

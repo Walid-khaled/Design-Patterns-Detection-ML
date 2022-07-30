@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/SensorController.java,SensorController,start/0,doorSensor,1
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/SensorController.java,SensorController,start/0,heaterSensor,1
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/SensorController.java,SensorController,SensorController/1[ISensorFactory],doorSensor,1
+/root/DesignPatternsDetection/Data/Abstract_factory/paddy667_AbstractFactory/ckmetrics/../src/SensorController.java,SensorController,SensorController/1[ISensorFactory],heaterSensor,1

@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/ConcreteSubjectB.java,ConcreteSubjectB,notifyObserver/0,obs,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/SubjectS.java,SubjectS,Add/1[Observer0],observer,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/SubjectS.java,SubjectS,Remove/1[Observer0],observer,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obs2,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],obs1,1
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],subject,3
+/root/DesignPatternsDetection/Data/Observer/kongzhimin_ObserverPattern/ckmetrics/../src/ConcreteSubjectA.java,ConcreteSubjectA,notifyObserver/0,obs,1

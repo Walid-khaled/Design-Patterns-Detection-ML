@@ -1,0 +1,14 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Facade/test_project_2/ckmetrics/../Volkswagen.java,com.codevillain679.structural.facade.Volkswagen,model/0,false,5,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_2/ckmetrics/../Volkswagen.java,com.codevillain679.structural.facade.Volkswagen,licencePlate/0,false,10,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_2/ckmetrics/../Volkswagen.java,com.codevillain679.structural.facade.Volkswagen,price/0,false,15,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+./Facade/test_project_2/ckmetrics/../Tesla.java,com.codevillain679.structural.facade.Tesla,model/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_2/ckmetrics/../Tesla.java,com.codevillain679.structural.facade.Tesla,licencePlate/0,false,11,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_2/ckmetrics/../Tesla.java,com.codevillain679.structural.facade.Tesla,price/0,false,16,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,false
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,CarDealer/0,true,7,2,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,1,0,false
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,buyTesla/0,false,18,1,1,3,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_2/ckmetrics/../CarDealer.java,com.codevillain679.structural.facade.CarDealer,buyVolkswagen/0,false,12,1,1,3,5,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_2/ckmetrics/../FacadePattern.java,com.codevillain679.structural.facade.FacadePattern,FacadePattern/0,true,19,1,5,6,36,1,3,0,6,0,0,0,0,2,0,6,2,4,1,2,0,0,0,23,1,0,false
+./Facade/test_project_2/ckmetrics/../Car.java,com.codevillain679.structural.facade.Car,model/0,false,4,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Facade/test_project_2/ckmetrics/../Car.java,com.codevillain679.structural.facade.Car,price/0,false,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,false
+./Facade/test_project_2/ckmetrics/../Car.java,com.codevillain679.structural.facade.Car,licencePlate/0,false,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false

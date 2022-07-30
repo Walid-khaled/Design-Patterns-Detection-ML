@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/Main.java,Main,main/1[java.lang.String[]],adapter,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/Main.java,Main,main/1[java.lang.String[]],connection,0
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/OracleAdapter.java,factorymethod.factory.OracleAdapter,(initializer 1),e,0
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/OracleAdapter.java,factorymethod.factory.OracleAdapter,getConnection/0,urlConnection,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/OracleAdapter.java,factorymethod.factory.OracleAdapter,getConnection/0,password,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/OracleAdapter.java,factorymethod.factory.OracleAdapter,getConnection/0,ex,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/OracleAdapter.java,factorymethod.factory.OracleAdapter,getConnection/0,connection,2
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/OracleAdapter.java,factorymethod.factory.OracleAdapter,getConnection/0,user,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/MySQLAdapter.java,factorymethod.factory.MySQLAdapter,(initializer 1),e,0
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/MySQLAdapter.java,factorymethod.factory.MySQLAdapter,getConnection/0,urlConnection,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/MySQLAdapter.java,factorymethod.factory.MySQLAdapter,getConnection/0,password,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/MySQLAdapter.java,factorymethod.factory.MySQLAdapter,getConnection/0,ex,1
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/MySQLAdapter.java,factorymethod.factory.MySQLAdapter,getConnection/0,connection,2
+/root/DesignPatternsDetection/Data/Factory/pvasquez13_FactoryMethod/ckmetrics/../src/main/java/factorymethod/factory/MySQLAdapter.java,factorymethod.factory.MySQLAdapter,getConnection/0,user,1

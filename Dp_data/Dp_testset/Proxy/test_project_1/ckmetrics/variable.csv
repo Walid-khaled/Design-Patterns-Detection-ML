@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],args,0
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],proxy,1
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],dynamicPicker,3
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],loader,1
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],picker,1
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],proxyPicker,3
+./Proxy/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.proxy.example.java.Client,main/1[java.lang.String[]],iPicker,1
+./Proxy/test_project_1/ckmetrics/../example/java/DynamicProxy.java,io.innofang.proxy.example.java.DynamicProxy,"invoke/3[java.lang.Object,java.lang.reflect.Method,java.lang.Object[]]",args,1
+./Proxy/test_project_1/ckmetrics/../example/java/DynamicProxy.java,io.innofang.proxy.example.java.DynamicProxy,"invoke/3[java.lang.Object,java.lang.reflect.Method,java.lang.Object[]]",proxy,0
+./Proxy/test_project_1/ckmetrics/../example/java/DynamicProxy.java,io.innofang.proxy.example.java.DynamicProxy,"invoke/3[java.lang.Object,java.lang.reflect.Method,java.lang.Object[]]",method,1
+./Proxy/test_project_1/ckmetrics/../example/java/DynamicProxy.java,io.innofang.proxy.example.java.DynamicProxy,DynamicProxy/1[java.lang.Object],object,2
+./Proxy/test_project_1/ckmetrics/../example/java/ProxyPicker.java,io.innofang.proxy.example.java.ProxyPicker,ProxyPicker/1[io.innofang.proxy.example.java.IPicker],picker,2
+./Proxy/test_project_1/ckmetrics/../base/Client.java,io.innofang.proxy.base.Client,main/1[java.lang.String[]],args,0
+./Proxy/test_project_1/ckmetrics/../base/Client.java,io.innofang.proxy.base.Client,main/1[java.lang.String[]],proxySubject,1
+./Proxy/test_project_1/ckmetrics/../base/Client.java,io.innofang.proxy.base.Client,main/1[java.lang.String[]],realSubject,1
+./Proxy/test_project_1/ckmetrics/../base/ProxySubject.java,io.innofang.proxy.base.ProxySubject,ProxySubject/1[io.innofang.proxy.base.RealSubject],realSubject,2

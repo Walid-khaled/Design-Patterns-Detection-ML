@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+./Singleton/test_project_6/ckmetrics/../src/main/java/net/dskim/desingpattern/singleton/Coin.java,net.dskim.desingpattern.singleton.Coin,deductCoin/0,coinCount,1
+./Singleton/test_project_6/ckmetrics/../src/main/java/net/dskim/desingpattern/singleton/Coin.java,net.dskim.desingpattern.singleton.Coin,addMoreCoin/0,ADD_MORE_COIN,1
+./Singleton/test_project_6/ckmetrics/../src/main/java/net/dskim/desingpattern/singleton/Coin.java,net.dskim.desingpattern.singleton.Coin,addMoreCoin/0,coinCount,1
+./Singleton/test_project_6/ckmetrics/../src/main/java/net/dskim/desingpattern/singleton/Coin.java,net.dskim.desingpattern.singleton.Coin,getInstance/0,instance,1
+./Singleton/test_project_6/ckmetrics/../src/main/java/net/dskim/desingpattern/singleton/Coin.java,net.dskim.desingpattern.singleton.Coin,getCoinCount/0,coinCount,1

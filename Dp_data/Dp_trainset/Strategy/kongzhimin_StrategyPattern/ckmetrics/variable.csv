@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],cut,1
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Client.java,Client,main/1[java.lang.String[]],chef,2
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/FruitKnife.java,FruitKnife,CutStrategy/1[java.lang.String],fruitname,1
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/HoriBlade.java,HoriBlade,CutStrategy/1[java.lang.String],fruitname,1
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/MultiBlade.java,MultiBlade,CutStrategy/1[java.lang.String],fruitname,1
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/ICutFruit.java,ICutFruit,CutStrategy/1[java.lang.String],fruitname,0
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Chef.java,Chef,SetCutMethod/1[ICutFruit],cutmethod,2
+/root/DesignPatternsDetection/Data/Strategy/kongzhimin_StrategyPattern/ckmetrics/../src/Chef.java,Chef,CutFruit/1[java.lang.String],fruitname,1

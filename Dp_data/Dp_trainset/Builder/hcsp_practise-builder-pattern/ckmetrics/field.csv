@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,getAddress/0,address,1
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,"User/4[java.lang.String,java.lang.String,java.lang.String,java.lang.String]",firstName,3
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,"User/4[java.lang.String,java.lang.String,java.lang.String,java.lang.String]",lastName,3
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,"User/4[java.lang.String,java.lang.String,java.lang.String,java.lang.String]",phoneNumber,3
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,"User/4[java.lang.String,java.lang.String,java.lang.String,java.lang.String]",address,3
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,getFirstName/0,firstName,1
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,getLastName/0,lastName,1
+/root/DesignPatternsDetection/Data/Builder/hcsp_practise-builder-pattern/ckmetrics/../src/main/java/com/github/hcsp/encapsulation/User.java,com.github.hcsp.encapsulation.User,getPhoneNumber/0,phoneNumber,1

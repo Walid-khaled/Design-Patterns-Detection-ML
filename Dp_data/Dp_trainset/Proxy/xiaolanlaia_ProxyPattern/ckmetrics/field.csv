@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyProxy.java,com.example.proxypattern.NotifyProxy,cancel/0,notify,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyProxy.java,com.example.proxypattern.NotifyProxy,NotifyProxy/1[com.example.proxypattern.Context],notify,2
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/NotifyProxy.java,com.example.proxypattern.NotifyProxy,send/0,notify,1
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/Notify.java,com.example.proxypattern.Notify,Notify/1[com.example.proxypattern.Context],context,7
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/Notify.java,com.example.proxypattern.Notify,Notify/1[com.example.proxypattern.Context],builder,2
+/root/DesignPatternsDetection/Data/Proxy/xiaolanlaia_ProxyPattern/ckmetrics/../app/src/main/java/com/example/proxypattern/Notify.java,com.example.proxypattern.Notify,Notify/1[com.example.proxypattern.Context],nm,1

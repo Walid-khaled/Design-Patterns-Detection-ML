@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayContainer.java,net.dskim.desingpattern.iterator.ArrayContainer,reverseIterator/0,reverseArrayIterator,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayContainer.java,net.dskim.desingpattern.iterator.ArrayContainer,ArrayContainer/1[java.lang.Object[]],reverseArrayIterator,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayContainer.java,net.dskim.desingpattern.iterator.ArrayContainer,ArrayContainer/1[java.lang.Object[]],arrayIterator,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayContainer.java,net.dskim.desingpattern.iterator.ArrayContainer,iterator/0,arrayIterator,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ReverseArrayIterator.java,net.dskim.desingpattern.iterator.ReverseArrayIterator,next/0,reverseArray,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ReverseArrayIterator.java,net.dskim.desingpattern.iterator.ReverseArrayIterator,next/0,nextIndex,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ReverseArrayIterator.java,net.dskim.desingpattern.iterator.ReverseArrayIterator,hasNext/0,nextIndex,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ReverseArrayIterator.java,net.dskim.desingpattern.iterator.ReverseArrayIterator,ReverseArrayIterator/1[java.lang.Object[]],reverseArray,2
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayIterator.java,net.dskim.desingpattern.iterator.ArrayIterator,next/0,array,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayIterator.java,net.dskim.desingpattern.iterator.ArrayIterator,next/0,index,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayIterator.java,net.dskim.desingpattern.iterator.ArrayIterator,hasNext/0,index,1
+./Iterator/test_project_1/ckmetrics/../src/main/java/net/dskim/desingpattern/iterator/ArrayIterator.java,net.dskim.desingpattern.iterator.ArrayIterator,ArrayIterator/1[java.lang.Object[]],array,3

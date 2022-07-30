@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CLocalPicShow.java,CLocalPicShow,ShowPic/1[java.lang.String],PicName,4
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CLocalPicShow.java,CLocalPicShow,ShowPic/1[java.lang.String],pic,1
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CLocalPicShow.java,CLocalPicShow,run/0,PicName,2
+/root/DesignPatternsDetection/Data/Proxy/kongzhimin_ProxyPattern/ckmetrics/../src/CLocalPicShow.java,CLocalPicShow,run/0,pic,1

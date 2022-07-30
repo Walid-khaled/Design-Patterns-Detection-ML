@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Composite/ProjectTeam5/ckmetrics/../regions/DatabaseTemperatureRegion.java,regions.DatabaseTemperatureRegion,"DatabaseTemperatureRegion/2[database.DatabaseTemperatureProvider,java.lang.String]",cityName,4
+./Composite/ProjectTeam5/ckmetrics/../regions/DatabaseTemperatureRegion.java,regions.DatabaseTemperatureRegion,"DatabaseTemperatureRegion/2[database.DatabaseTemperatureProvider,java.lang.String]",temperatureProvider,4
+./Composite/ProjectTeam5/ckmetrics/../regions/DatabaseTemperatureRegion.java,regions.DatabaseTemperatureRegion,getTemperature/0,cityName,1
+./Composite/ProjectTeam5/ckmetrics/../regions/DatabaseTemperatureRegion.java,regions.DatabaseTemperatureRegion,getTemperature/0,temperatureProvider,1
+./Composite/ProjectTeam5/ckmetrics/../regions/AverageTemperatureRegion.java,regions.AverageTemperatureRegion,AverageTemperatureRegion/1[regions.TemperatureRegion[]],regions,3
+./Composite/ProjectTeam5/ckmetrics/../regions/AverageTemperatureRegion.java,regions.AverageTemperatureRegion,getTemperature/0,regions,1

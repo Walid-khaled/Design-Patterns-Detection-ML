@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,totalSize/0,files,1
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,showProperty/0,files,1
+./Composite/test_project_2/ckmetrics/../FolderComposite.java,Composite.FolderComposite,FolderComposite/1[java.util.List<Composite.FileComponent>],files,3
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,"FileLeaf/2[java.lang.String,long]",size,3
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,"FileLeaf/2[java.lang.String,long]",name,3
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,showProperty/0,size,1
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,showProperty/0,name,1
+./Composite/test_project_2/ckmetrics/../FileLeaf.java,Composite.FileLeaf,totalSize/0,size,1

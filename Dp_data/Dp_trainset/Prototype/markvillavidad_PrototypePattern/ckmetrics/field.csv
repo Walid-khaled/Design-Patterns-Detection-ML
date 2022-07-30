@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,Employees/0,empList,1
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,loadData/0,empList,4
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,Employees/1[java.util.List<java.lang.String>],empList,1
+/root/DesignPatternsDetection/Data/Prototype/markvillavidad_PrototypePattern/ckmetrics/../src/design/prototype/Employees.java,design.prototype.Employees,getEmpList/0,empList,1

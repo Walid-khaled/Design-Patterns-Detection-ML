@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/davitwbd_FactoryMethod/ckmetrics/../src/main/java/model/Convidado.java,model.Convidado,setEmail/1[java.lang.String],email,3
+/root/DesignPatternsDetection/Data/Factory/davitwbd_FactoryMethod/ckmetrics/../src/main/java/model/Convidado.java,model.Convidado,"Convidado/2[java.lang.String,java.lang.String]",nome,3
+/root/DesignPatternsDetection/Data/Factory/davitwbd_FactoryMethod/ckmetrics/../src/main/java/model/Convidado.java,model.Convidado,"Convidado/2[java.lang.String,java.lang.String]",email,3
+/root/DesignPatternsDetection/Data/Factory/davitwbd_FactoryMethod/ckmetrics/../src/main/java/model/Convidado.java,model.Convidado,getEmail/0,email,1
+/root/DesignPatternsDetection/Data/Factory/davitwbd_FactoryMethod/ckmetrics/../src/main/java/model/Convidado.java,model.Convidado,getNome/0,nome,1
+/root/DesignPatternsDetection/Data/Factory/davitwbd_FactoryMethod/ckmetrics/../src/main/java/model/Convidado.java,model.Convidado,setNome/1[java.lang.String],nome,3

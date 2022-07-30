@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/eliasnogueira_selenium-java-browser-factory/ckmetrics/../src/test/java/com/eliasnogueira/BaseWeb.java,com.eliasnogueira.BaseWeb,postCondition/0,driver,1
+/root/DesignPatternsDetection/Data/Factory/eliasnogueira_selenium-java-browser-factory/ckmetrics/../src/test/java/com/eliasnogueira/BaseWeb.java,com.eliasnogueira.BaseWeb,preCondition/0,driver,2
+/root/DesignPatternsDetection/Data/Factory/eliasnogueira_selenium-java-browser-factory/ckmetrics/../src/test/java/com/eliasnogueira/BaseWeb.java,com.eliasnogueira.BaseWeb,preCondition/0,configuration,4
+/root/DesignPatternsDetection/Data/Factory/eliasnogueira_selenium-java-browser-factory/ckmetrics/../src/main/java/com/eliasnogueira/driver/DriverFactory.java,com.eliasnogueira.driver.DriverFactory,createRemoteInstance/1[com.eliasnogueira.driver.MutableCapabilities],logger,3

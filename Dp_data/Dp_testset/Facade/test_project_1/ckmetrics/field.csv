@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,makePizza/0,pizza,1
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,makeCustard/0,custard,1
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,CakeMaker/0,pizza,1
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,CakeMaker/0,custard,1
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,CakeMaker/0,muffin,1
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,makeMuffin/0,muffin,1

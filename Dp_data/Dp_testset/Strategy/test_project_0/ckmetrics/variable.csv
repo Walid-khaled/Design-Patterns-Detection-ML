@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Strategy/test_project_0/ckmetrics/../example/java/Client.java,io.innofang.strategy.example.java.Client,main/1[java.lang.String[]],args,0
+./Strategy/test_project_0/ckmetrics/../example/java/Client.java,io.innofang.strategy.example.java.Client,main/1[java.lang.String[]],wang,2
+./Strategy/test_project_0/ckmetrics/../example/java/Wang.java,io.innofang.strategy.example.java.Wang,setGoToStrategy/1[io.innofang.strategy.example.java.GoToStrategy],goToStrategy,2
+./Strategy/test_project_0/ckmetrics/../base/Client.java,io.innofang.strategy.base.Client,main/1[java.lang.String[]],args,0
+./Strategy/test_project_0/ckmetrics/../base/Client.java,io.innofang.strategy.base.Client,main/1[java.lang.String[]],context,2
+./Strategy/test_project_0/ckmetrics/../base/Context.java,io.innofang.strategy.base.Context,setStrategy/1[io.innofang.strategy.base.Strategy],strategy,2

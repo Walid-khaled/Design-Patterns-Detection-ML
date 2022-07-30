@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/primary/test.java,primary.test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/primary/test.java,primary.test,main/1[java.lang.String[]],a,3
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/primary/test.java,primary.test,main/1[java.lang.String[]],b,3
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/senior/test.java,senior.test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/senior/test.java,senior.test,main/1[java.lang.String[]],a,3
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/middle/test.java,middle.test,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/middle/test.java,middle.test,main/1[java.lang.String[]],a,3
+/root/DesignPatternsDetection/Data/Template/cqf073_Template_Method_Pattern/ckmetrics/../src/middle/test.java,middle.test,main/1[java.lang.String[]],b,3

@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp,addobject/1[java.lang.Object],object,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Myiteratorimp.java,com.company.Myiteratorimp,removeobject/1[java.lang.Object],object,1
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],myiteratorimp,4
+/root/DesignPatternsDetection/Data/Iterator/cqf073_Iterator_pattern/ckmetrics/../src/com/company/Main.java,com.company.Main,main/1[java.lang.String[]],iter,3

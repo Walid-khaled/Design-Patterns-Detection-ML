@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],false,5,2,3,9,11,0,3,1,9,0,0,2,0,0,0,1,4,3,2,1,0,0,0,8,9,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person,getAge/0,false,15,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person,newBuilder/0,false,19,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person,getName/0,false,11,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person,Person/0,true,7,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person$Builder,build/0,false,41,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person$Builder,Builder/0,true,25,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person$Builder,setName/1[java.lang.String],false,29,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,1,0,false
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person$Builder,setAge/1[java.lang.Integer],false,35,1,1,0,4,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false

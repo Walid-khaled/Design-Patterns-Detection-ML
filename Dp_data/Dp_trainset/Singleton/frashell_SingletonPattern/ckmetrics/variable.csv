@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/frashell_SingletonPattern/ckmetrics/../SingletonPattern/src/singleton/sample/Main.java,singleton.sample.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Singleton/frashell_SingletonPattern/ckmetrics/../SingletonPattern/src/singleton/sample/Main.java,singleton.sample.Main,main/1[java.lang.String[]],singleObj1,2
+/root/DesignPatternsDetection/Data/Singleton/frashell_SingletonPattern/ckmetrics/../SingletonPattern/src/singleton/sample/Main.java,singleton.sample.Main,main/1[java.lang.String[]],singleObj2,2
+/root/DesignPatternsDetection/Data/Singleton/frashell_SingletonPattern/ckmetrics/../SingletonPattern/src/singleton/sample/Main.java,singleton.sample.Main,main/1[java.lang.String[]],iObj2,2
+/root/DesignPatternsDetection/Data/Singleton/frashell_SingletonPattern/ckmetrics/../SingletonPattern/src/singleton/sample/Main.java,singleton.sample.Main,main/1[java.lang.String[]],iObj1,2

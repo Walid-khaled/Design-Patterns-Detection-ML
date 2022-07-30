@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,main/1[java.lang.String[]],args,0
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,main/1[java.lang.String[]],a,2
+./Singleton/test_project_4/ckmetrics/../Singleton.java,Singleton,main/1[java.lang.String[]],b,1

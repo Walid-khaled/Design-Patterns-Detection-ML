@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/Alexandra1619_FactoryMethod/ckmetrics/../src/FactPack/Classes/WorksM.java,FactPack.Classes.WorksM,getMakerByName/1[java.lang.String],maker,3
+/root/DesignPatternsDetection/Data/Factory/Alexandra1619_FactoryMethod/ckmetrics/../src/FactPack/Classes/WorksM.java,FactPack.Classes.WorksM,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/Alexandra1619_FactoryMethod/ckmetrics/../src/FactPack/Classes/WorksM.java,FactPack.Classes.WorksM,main/1[java.lang.String[]],maker,1
+/root/DesignPatternsDetection/Data/Factory/Alexandra1619_FactoryMethod/ckmetrics/../src/FactPack/Classes/WorksM.java,FactPack.Classes.WorksM,main/1[java.lang.String[]],clothes,1

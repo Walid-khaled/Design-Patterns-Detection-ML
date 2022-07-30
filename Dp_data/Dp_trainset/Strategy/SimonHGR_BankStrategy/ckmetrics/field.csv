@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/OverdraftFeeStrategy.java,bankstrategy.OverdraftFeeStrategy,"calculateFee/3[int,int,java.time.LocalDate]",FEE,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/FrequentWithdrawalFeeStrategy.java,bankstrategy.FrequentWithdrawalFeeStrategy,"calculateFee/3[int,int,java.time.LocalDate]",FEE,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/FrequentWithdrawalFeeStrategy.java,bankstrategy.FrequentWithdrawalFeeStrategy,"calculateFee/3[int,int,java.time.LocalDate]",transactionHistory,3
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/OneWithdrawalPerMonthStrategy.java,bankstrategy.OneWithdrawalPerMonthStrategy,"grantWithdrawal/3[int,int,java.time.LocalDate]",lastWithdrawal,2
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"transaction/3[java.lang.String,int,java.time.LocalDate]",accountId,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"transaction/3[java.lang.String,int,java.time.LocalDate]",balance,2
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,getBalance/0,balance,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"Account/2[bankstrategy.ApplyFeesStrategy,bankstrategy.GrantWithdrawalStrategy]",grantWithdrawalStrategy,4
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"Account/2[bankstrategy.ApplyFeesStrategy,bankstrategy.GrantWithdrawalStrategy]",applyFeesStrategy,4
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,setApplyFeesStrategy/1[bankstrategy.ApplyFeesStrategy],applyFeesStrategy,4
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,setGrantWithdrawalStrategy/1[bankstrategy.GrantWithdrawalStrategy],grantWithdrawalStrategy,4
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"withdrawal/2[int,java.time.LocalDate]",grantWithdrawalStrategy,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"withdrawal/2[int,java.time.LocalDate]",balance,2
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/Account.java,bankstrategy.Account,"withdrawal/2[int,java.time.LocalDate]",applyFeesStrategy,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/ThresholdWithdrawalStrategy.java,bankstrategy.ThresholdWithdrawalStrategy,"grantWithdrawal/3[int,int,java.time.LocalDate]",minBalance,1
+/root/DesignPatternsDetection/Data/Strategy/SimonHGR_BankStrategy/ckmetrics/../src/bankstrategy/ThresholdWithdrawalStrategy.java,bankstrategy.ThresholdWithdrawalStrategy,ThresholdWithdrawalStrategy/1[int],minBalance,3

@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Human,"Human/2[int,java.lang.String]",name,2
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Human,"Human/2[int,java.lang.String]",age,2
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,Human,copy/0,copy,1
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,HumanFactory,setProperty/1[Human],human,2
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,HumanFactory,HumanFactory/1[Human],human,1
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],factory,3
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],original,2
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],h1,1
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],h2,1
+/root/DesignPatternsDetection/Data/Prototype/archMcMilan_Prototype/ckmetrics/../src/PrototypeApp.java,PrototypeApp,main/1[java.lang.String[]],copy,3

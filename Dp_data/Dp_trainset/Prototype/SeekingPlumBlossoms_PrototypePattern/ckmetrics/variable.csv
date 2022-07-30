@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/SeekingPlumBlossoms_PrototypePattern/ckmetrics/../src/com/yb/client/Mail.java,com.yb.client.Mail,clone/0,mail,2
+/root/DesignPatternsDetection/Data/Prototype/SeekingPlumBlossoms_PrototypePattern/ckmetrics/../src/com/yb/client/Mail.java,com.yb.client.Mail,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/SeekingPlumBlossoms_PrototypePattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0

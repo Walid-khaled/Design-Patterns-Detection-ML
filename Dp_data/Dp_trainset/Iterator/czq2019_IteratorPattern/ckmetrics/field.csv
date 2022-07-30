@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Iterator/czq2019_IteratorPattern/ckmetrics/../src/iterator/NameRepository.java,iterator.NameRepository$NameIterator,next/0,index,1
+/root/DesignPatternsDetection/Data/Iterator/czq2019_IteratorPattern/ckmetrics/../src/iterator/NameRepository.java,iterator.NameRepository$NameIterator,hashNext/0,index,1

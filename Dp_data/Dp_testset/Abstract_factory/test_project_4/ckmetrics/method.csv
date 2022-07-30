@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Abstract_factory/test_project_4/ckmetrics/../AbstractFactoryTest.java,AbstractFactory.AbstractFactoryTest,main/1[java.lang.String[]],false,10,4,1,4,7,0,3,1,4,0,0,0,0,0,0,0,0,3,0,0,0,0,0,10,9,0,false
+./Abstract_factory/test_project_4/ckmetrics/../FordFactory.java,AbstractFactory.FordFactory,createOneSeat/0,false,19,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Abstract_factory/test_project_4/ckmetrics/../FordFactory.java,AbstractFactory.FordFactory,createOneCar/0,false,14,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Abstract_factory/test_project_4/ckmetrics/../ICarFactory.java,AbstractFactory.ICarFactory,createOneSeat/0,false,11,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,false
+./Abstract_factory/test_project_4/ckmetrics/../ICarFactory.java,AbstractFactory.ICarFactory,createOneCar/0,false,10,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,false
+./Abstract_factory/test_project_4/ckmetrics/../ToyotaFactory.java,AbstractFactory.ToyotaFactory,createOneSeat/0,false,18,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Abstract_factory/test_project_4/ckmetrics/../ToyotaFactory.java,AbstractFactory.ToyotaFactory,createOneCar/0,false,13,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Abstract_factory/test_project_4/ckmetrics/../BenzFacory.java,AbstractFactory.BenzFacory,createOneSeat/0,false,20,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Abstract_factory/test_project_4/ckmetrics/../BenzFacory.java,AbstractFactory.BenzFacory,createOneCar/0,false,15,2,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false

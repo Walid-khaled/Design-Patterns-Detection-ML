@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/EagerlyInitializedSingleton.java,com.ubs.example.singleton.EagerlyInitializedSingleton,getInstance/0,INSTANCE,1
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/LazyInitializedSingleton.java,com.ubs.example.singleton.LazyInitializedSingleton,getInstance/0,instance,3
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/StaticBlockInitializedSingleton.java,com.ubs.example.singleton.StaticBlockInitializedSingleton,getInstance/0,INSTANCE,1
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/SynchronizedSingleton.java,com.ubs.example.singleton.SynchronizedSingleton,getInstance/0,instance,3
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/SingletonWithArgument.java,com.ubs.example.singleton.SingletonWithArgument$Approach1,init/1[java.lang.String],argument,3
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/SingletonWithArgument.java,com.ubs.example.singleton.SingletonWithArgument$Approach1,performOperation/0,argument,1
+/root/DesignPatternsDetection/Data/Singleton/topr_singleton-examples/ckmetrics/../src/main/java/com/ubs/example/singleton/DoubleCheckedLockingSingleton.java,com.ubs.example.singleton.DoubleCheckedLockingSingleton,getInstance/0,instance,4

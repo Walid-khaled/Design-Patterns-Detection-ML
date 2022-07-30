@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],persons,2
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],person,2
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],ageTmp,1
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],i,3
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person$Builder,setName/1[java.lang.String],name,2
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person$Builder,setAge/1[java.lang.Integer],age,2

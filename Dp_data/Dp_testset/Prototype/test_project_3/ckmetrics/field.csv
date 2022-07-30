@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,addImage/1[java.lang.String],images,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,showDocument/0,images,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,showDocument/0,text,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,getText/0,text,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,setText/1[java.lang.String],text,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,getImages/0,images,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,setImages/1[java.util.ArrayList<java.lang.String>],images,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,clone/0,images,1
+./Prototype/test_project_3/ckmetrics/../example/java/WordDocument.java,io.innofang.prototype.example.java.WordDocument,clone/0,text,1

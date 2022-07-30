@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nomes.java,br.com.usjt.FactoryMethod.Nomes,Nomes/1[java.lang.String[]],nomes,1
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nomes.java,br.com.usjt.FactoryMethod.Nomes,processar/1[java.lang.String[]],nomes,3
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nomes.java,br.com.usjt.FactoryMethod.Nomes,imprimir/0,nomes,1
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/ArmazemNomes.java,br.com.usjt.FactoryMethod.ArmazemNomes,ArmazemNomes/1[java.util.ArrayList<br.com.usjt.FactoryMethod.Nome>],nomes,3
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/ArmazemNomes.java,br.com.usjt.FactoryMethod.ArmazemNomes,armazenar/1[java.lang.String],nomes,2
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nome.java,br.com.usjt.FactoryMethod.Nome,toString/0,nome,1
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nome.java,br.com.usjt.FactoryMethod.Nome,toString/0,sobrenome,1
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nome.java,br.com.usjt.FactoryMethod.Nome,"Nome/2[java.lang.String,java.lang.String]",nome,3
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nome.java,br.com.usjt.FactoryMethod.Nome,"Nome/2[java.lang.String,java.lang.String]",sobrenome,3
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nome.java,br.com.usjt.FactoryMethod.Nome,getNome/0,nome,1
+/root/DesignPatternsDetection/Data/Factory/WabDaveloper_FactoryMethod/ckmetrics/../src/br/com/usjt/FactoryMethod/Nome.java,br.com.usjt.FactoryMethod.Nome,getSobrenome/0,sobrenome,1

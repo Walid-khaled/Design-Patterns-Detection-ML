@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,getName/0,name,1
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,getChatroom/0,chatroom,1
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,setChatroom/1[AbstractChatroom],chatroom,3
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,"receiveImage/2[java.lang.String,java.lang.String]",name,1
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,"receiveText/2[java.lang.String,java.lang.String]",name,1
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/Member.java,Member,Member/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/ChatGroup.java,ChatGroup,register/1[Member],members,2
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/ChatGroup.java,ChatGroup,"sendImage/3[java.lang.String,java.lang.String,java.lang.String]",members,1
+/root/DesignPatternsDetection/Data/Mediator/kongzhimin_MediatorPattern/ckmetrics/../src/ChatGroup.java,ChatGroup,"sendText/3[java.lang.String,java.lang.String,java.lang.String]",members,1

@@ -1,0 +1,10 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Facade/test_project_1/ckmetrics/../Custard.java,phuongsala.designpattern.facade.Custard,make/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,4,0,false
+./Facade/test_project_1/ckmetrics/../Muffin.java,phuongsala.designpattern.facade.Muffin,make/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,4,0,false
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,makePizza/0,false,23,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,makeCustard/0,false,19,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,CakeMaker/0,true,9,3,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,8,1,0,false
+./Facade/test_project_1/ckmetrics/../CakeMaker.java,phuongsala.designpattern.facade.CakeMaker,makeMuffin/0,false,15,1,1,1,3,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,false
+./Facade/test_project_1/ckmetrics/../DEMO.java,phuongsala.designpattern.facade.DEMO,main/1[java.lang.String[]],false,5,1,1,3,6,0,1,1,3,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,9,0,false
+./Facade/test_project_1/ckmetrics/../Cake.java,phuongsala.designpattern.facade.Cake,make/0,false,5,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1028,0,false
+./Facade/test_project_1/ckmetrics/../Pizza.java,phuongsala.designpattern.facade.Pizza,make/0,false,6,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,4,0,false

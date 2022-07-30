@@ -1,0 +1,5 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Singleton/HamdanAs_SingletonPattern/ckmetrics/../Main.java,Main,main/1[java.lang.String[]],false,24,1,1,2,4,0,1,1,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,9,0,false
+/root/DesignPatternsDetection/Data/Singleton/HamdanAs_SingletonPattern/ckmetrics/../Main.java,SingleObject,getInstance/0,false,13,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,9,0,false
+/root/DesignPatternsDetection/Data/Singleton/HamdanAs_SingletonPattern/ckmetrics/../Main.java,SingleObject,showMessage/0,false,17,0,1,1,3,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,false
+/root/DesignPatternsDetection/Data/Singleton/HamdanAs_SingletonPattern/ckmetrics/../Main.java,SingleObject,SingleObject/0,true,9,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,false

@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/AudioPlayer.java,adapter.AudioPlayer,"play/2[java.lang.String,java.lang.String]",mediaAdapter,2
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/MediaAdapter.java,adapter.MediaAdapter,"play/2[java.lang.String,java.lang.String]",advancedMusicPlayer,2
+/root/DesignPatternsDetection/Data/Adapter/czq2019_AdapterPattern/ckmetrics/../src/adapter/MediaAdapter.java,adapter.MediaAdapter,MediaAdapter/1[java.lang.String],advancedMusicPlayer,2

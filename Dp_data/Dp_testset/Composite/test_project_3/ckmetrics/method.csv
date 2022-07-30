@@ -1,0 +1,11 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,compPrice/0,false,16,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,toString/0,false,23,0,1,0,3,1,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,4,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Leaf.java,Leaf,"Leaf/2[java.lang.String,java.lang.Double]",true,9,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Component.java,Component,compPrice/0,false,6,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Composite/test_project_3/ckmetrics/../src/TestCompositePattern.java,TestCompositePattern,main/1[java.lang.String[]],false,4,2,1,3,10,0,4,1,3,0,0,0,0,0,0,4,3,4,1,0,0,0,0,10,9,0,false
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,compPrice/0,false,14,1,2,1,7,1,1,0,1,0,0,1,0,0,0,0,1,2,0,1,0,0,0,7,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,toString/0,false,35,0,2,1,6,1,0,0,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,5,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,addItem/1[Leaf],false,25,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,Composite/0,true,9,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,1,0,false
+./Composite/test_project_3/ckmetrics/../src/Composite.java,Composite,removeItem/1[Leaf],false,30,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false

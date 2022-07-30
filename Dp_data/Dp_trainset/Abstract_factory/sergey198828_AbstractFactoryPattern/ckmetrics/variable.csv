@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,setName/1[java.lang.String],newName,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/UFOEnemyShip.java,ships.UFOEnemyShip,UFOEnemyShip/1[factories.EnemyShipFactory],shipFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/UFOBossEnemyShip.java,ships.UFOBossEnemyShip,UFOBossEnemyShip/1[factories.EnemyShipFactory],shipFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],MakeUFOs,2
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],theBoss,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],theGrunt,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/factories/UFOEnemyShipBuilding.java,factories.UFOEnemyShipBuilding,makeEnemyShip/1[java.lang.String],typeOfShip,2
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/factories/UFOEnemyShipBuilding.java,factories.UFOEnemyShipBuilding,makeEnemyShip/1[java.lang.String],shipPartsFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/factories/UFOEnemyShipBuilding.java,factories.UFOEnemyShipBuilding,makeEnemyShip/1[java.lang.String],theEnemyShip,5
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/factories/EnemyShipBuilding.java,factories.EnemyShipBuilding,orderTheShip/1[java.lang.String],typeOfShip,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/factories/EnemyShipBuilding.java,factories.EnemyShipBuilding,orderTheShip/1[java.lang.String],theEnemyShip,5
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/factories/EnemyShipBuilding.java,factories.EnemyShipBuilding,makeEnemyShip/1[java.lang.String],typeOfShip,0

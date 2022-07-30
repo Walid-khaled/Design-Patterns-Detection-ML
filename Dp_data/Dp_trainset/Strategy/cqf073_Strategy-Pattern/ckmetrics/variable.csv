@@ -1,0 +1,17 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashRebate.java,CashRebate,CashRebate/1[double],moneyRebate,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashRebate.java,CashRebate,acceptCash/1[double],money,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashSuper.java,CashSuper,acceptCash/1[double],money,0
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,"CashReturn/2[double,double]",moneyCondition,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,"CashReturn/2[double,double]",moneyReturn,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,acceptCash/1[double],result,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashReturn.java,CashReturn,acceptCash/1[double],money,4
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashNormal.java,CashNormal,acceptCash/1[double],money,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,"consume/3[java.lang.String,int,double]",csuper,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,"consume/3[java.lang.String,int,double]",price,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,"consume/3[java.lang.String,int,double]",num,2
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,"consume/3[java.lang.String,int,double]",totalPrices,3
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/Main.java,Main,"consume/3[java.lang.String,int,double]",type,1
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashFactory.java,CashFactory,createCash/1[java.lang.String],cs,4
+/root/DesignPatternsDetection/Data/Strategy/cqf073_Strategy-Pattern/ckmetrics/../src/CashFactory.java,CashFactory,createCash/1[java.lang.String],type,3

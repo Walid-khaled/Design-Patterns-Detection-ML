@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Context.java,strategy.Context,"executeStrategy/2[int,int]",strategy,1
+/root/DesignPatternsDetection/Data/Strategy/czq2019_StrategyPattern/ckmetrics/../src/strategy/Context.java,strategy.Context,Context/1[strategy.Strategy],strategy,3

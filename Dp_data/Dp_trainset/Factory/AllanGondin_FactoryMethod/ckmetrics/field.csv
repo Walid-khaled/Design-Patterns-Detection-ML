@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nomes.java,br.factoryMethod.com.Nomes,Nomes/1[java.lang.String[]],nomes,1
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nomes.java,br.factoryMethod.com.Nomes,processar/1[java.lang.String[]],nomes,3
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nomes.java,br.factoryMethod.com.Nomes,imprimir/0,nomes,1
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/ArmazemNomes.java,br.factoryMethod.com.ArmazemNomes,ArmazemNomes/1[java.util.ArrayList<br.factoryMethod.com.Nome>],nomes,3
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/ArmazemNomes.java,br.factoryMethod.com.ArmazemNomes,armazenar/1[java.lang.String],nomes,2
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nome.java,br.factoryMethod.com.Nome,toString/0,nome,1
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nome.java,br.factoryMethod.com.Nome,toString/0,sobrenome,1
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nome.java,br.factoryMethod.com.Nome,"Nome/2[java.lang.String,java.lang.String]",nome,3
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nome.java,br.factoryMethod.com.Nome,"Nome/2[java.lang.String,java.lang.String]",sobrenome,3
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nome.java,br.factoryMethod.com.Nome,getNome/0,nome,1
+/root/DesignPatternsDetection/Data/Factory/AllanGondin_FactoryMethod/ckmetrics/../src/br/factoryMethod/com/Nome.java,br.factoryMethod.com.Nome,getSobrenome/0,sobrenome,1

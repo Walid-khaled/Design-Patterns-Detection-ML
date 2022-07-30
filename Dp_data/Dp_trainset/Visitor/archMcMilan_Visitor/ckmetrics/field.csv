@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Visitor/archMcMilan_Visitor/ckmetrics/../src/VisitorApp.java,CarElement,accept/1[Visitor],elements,1
+/root/DesignPatternsDetection/Data/Visitor/archMcMilan_Visitor/ckmetrics/../src/VisitorApp.java,CarElement,CarElement/0,elements,1
+/root/DesignPatternsDetection/Data/Visitor/archMcMilan_Visitor/ckmetrics/../src/VisitorApp.java,WheelElement,getName/0,name,1
+/root/DesignPatternsDetection/Data/Visitor/archMcMilan_Visitor/ckmetrics/../src/VisitorApp.java,WheelElement,WheelElement/1[java.lang.String],name,3

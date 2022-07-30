@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/registry/item/ItemRegistry.java,com.masyanas.registry.item.ItemRegistry,loadCache/0,map,2
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/registry/item/ItemRegistry.java,com.masyanas.registry.item.ItemRegistry,createBasicItem/1[java.lang.String],map,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/registry/item/ItemRegistry.java,com.masyanas.registry.item.ItemRegistry,ItemRegistry/0,map,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,clone/0,price,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,clone/0,title,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,getPrice/0,price,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,getTitle/0,title,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,setPrice/1[double],price,3
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,setTitle/1[java.lang.String],title,3

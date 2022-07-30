@@ -1,0 +1,27 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Strategy/ProjectTeam33/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],false,10,4,1,10,16,0,3,1,10,0,0,0,0,0,0,2,5,3,1,0,0,0,0,10,9,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/Table.java,Table.Table,toString/0,false,15,0,1,1,3,1,0,0,1,0,0,0,0,0,0,3,0,0,2,0,0,0,0,5,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/Table.java,Table.Table,"Table/2[java.lang.Integer,int[]]",true,9,1,1,0,4,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,5,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/TableReserve.java,Table.TableReserve$Anonymous1,(initializer 1),false,10,2,1,1,6,0,0,0,1,0,0,0,0,0,0,0,12,0,0,0,0,0,0,2,0,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/TableReserve.java,Table.TableReserve,request/0,false,19,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/TableReserve.java,Table.TableReserve,reserveTable/1[Table.Table],false,27,1,1,1,3,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/TableReserve.java,Table.TableReserve,getFreeTables/0,false,23,2,1,1,3,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Table/TableReserve.java,Table.TableReserve,TableReserve/0,true,9,1,1,0,11,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,4,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/EventHotelMenu.java,Menu.EventHotelMenu,EventHotelMenu/1[java.lang.String],true,10,0,1,0,5,0,0,1,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,9,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/EventHotelMenu.java,Menu.EventHotelMenu,getMenuItems/0,false,17,1,1,1,7,1,1,0,1,0,0,0,0,0,0,6,9,1,0,0,0,0,0,5,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/MorningHotelMenu.java,Menu.MorningHotelMenu,getMenuItems/0,false,16,1,1,1,7,1,1,0,1,0,0,0,0,0,0,6,9,1,0,0,0,0,0,5,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/MorningHotelMenu.java,Menu.MorningHotelMenu,MorningHotelMenu/1[java.lang.String],true,9,0,1,0,5,0,0,1,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,6,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/Menu.java,Menu.Menu,getMenuItems/0,false,9,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1025,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/MenuItem.java,Menu.MenuItem,"MenuItem/5[java.lang.Integer,java.lang.String,java.lang.Double,java.lang.String,java.lang.Double]",true,10,0,1,0,7,0,0,5,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,10,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/MenuItem.java,Menu.MenuItem,toString/0,false,19,0,1,0,3,1,0,0,0,0,0,0,0,0,0,6,0,0,2,0,0,0,0,9,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/DinnerRestaurantMenu.java,Menu.DinnerRestaurantMenu,DinnerRestaurantMenu/1[java.lang.Integer],true,9,0,1,0,5,0,0,1,0,0,0,0,0,0,0,2,0,3,0,0,0,0,0,9,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Menu/DinnerRestaurantMenu.java,Menu.DinnerRestaurantMenu,getMenuItems/0,false,16,1,1,1,7,1,1,0,1,0,0,0,0,0,0,6,9,1,0,0,0,0,0,6,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/OrderSystem.java,Order.OrderSystem,submitNewOrder/1[Order.Order],false,26,1,1,1,4,0,0,1,1,0,0,0,0,0,0,2,0,0,1,0,0,0,0,6,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/OrderSystem.java,Order.OrderSystem,setMenu/1[Menu.Menu],false,14,1,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/OrderSystem.java,Order.OrderSystem,createNewOrder/0,false,22,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/OrderSystem.java,Order.OrderSystem,selectAndReserveTable/0,false,31,2,1,5,7,0,2,0,5,0,0,0,0,0,0,0,1,2,0,0,0,0,0,7,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/OrderSystem.java,Order.OrderSystem,getMenuItems/0,false,18,2,1,1,3,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/Order.java,Order.Order,Order/0,true,12,1,1,1,4,0,0,0,1,0,0,0,0,0,1,0,1,2,1,0,0,0,0,3,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/Order.java,Order.Order,toString/0,false,36,0,1,0,3,1,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,9,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/Order.java,Order.Order,addToOrder/1[Menu.MenuItem],false,18,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,false
+./Strategy/ProjectTeam33/ckmetrics/../src/Order/Order.java,Order.Order,getTotalCost/0,false,22,0,2,0,7,1,1,0,0,0,0,1,0,0,0,0,1,2,0,1,0,0,0,10,1,0,false

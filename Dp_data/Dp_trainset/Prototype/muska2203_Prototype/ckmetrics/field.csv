@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,"Cleaner/2[java.lang.String,java.lang.String]",name,3
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,"Cleaner/2[java.lang.String,java.lang.String]",version,3
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,clone/0,countOfCall,1
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,clone/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,clone/0,version,1
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,say/0,countOfCall,2
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,say/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/muska2203_Prototype/ckmetrics/../prototype/src/main/java/dkovalenko/tests/prototype/cleaner/Cleaner.java,dkovalenko.tests.prototype.cleaner.Cleaner,say/0,version,1

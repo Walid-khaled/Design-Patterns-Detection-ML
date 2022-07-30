@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+./Factory/test_project_7/ckmetrics/../example/java/Client.java,io.innofang.factory_method.example.java.Client,main/1[java.lang.String[]],args,0
+./Factory/test_project_7/ckmetrics/../example/java/Client.java,io.innofang.factory_method.example.java.Client,main/1[java.lang.String[]],factory,2
+./Factory/test_project_7/ckmetrics/../example/java/Client.java,io.innofang.factory_method.example.java.Client,main/1[java.lang.String[]],mangoCake,2
+./Factory/test_project_7/ckmetrics/../example/java/Client.java,io.innofang.factory_method.example.java.Client,main/1[java.lang.String[]],strawberryCake,2
+./Factory/test_project_7/ckmetrics/../example/java/CakeFactory.java,io.innofang.factory_method.example.java.CakeFactory,createProduct/1[java.lang.Class<T>],clz,1
+./Factory/test_project_7/ckmetrics/../example/java/CakeFactory.java,io.innofang.factory_method.example.java.CakeFactory,createProduct/1[java.lang.Class<T>],e,1
+./Factory/test_project_7/ckmetrics/../example/java/CakeFactory.java,io.innofang.factory_method.example.java.CakeFactory,createProduct/1[java.lang.Class<T>],cake,2
+./Factory/test_project_7/ckmetrics/../example/java/Factory.java,io.innofang.factory_method.example.java.Factory,createProduct/1[java.lang.Class<T>],clz,0
+./Factory/test_project_7/ckmetrics/../base/Client.java,io.innofang.factory_method.base.Client,main/1[java.lang.String[]],args,0
+./Factory/test_project_7/ckmetrics/../base/Client.java,io.innofang.factory_method.base.Client,main/1[java.lang.String[]],factory,1
+./Factory/test_project_7/ckmetrics/../base/Client.java,io.innofang.factory_method.base.Client,main/1[java.lang.String[]],product,1
+./Factory/test_project_7/ckmetrics/../base/ConcreteFactory.java,io.innofang.factory_method.base.ConcreteFactory,createProduct/1[java.lang.Class<T>],clz,1
+./Factory/test_project_7/ckmetrics/../base/ConcreteFactory.java,io.innofang.factory_method.base.ConcreteFactory,createProduct/1[java.lang.Class<T>],product,2
+./Factory/test_project_7/ckmetrics/../base/ConcreteFactory.java,io.innofang.factory_method.base.ConcreteFactory,createProduct/1[java.lang.Class<T>],e,1
+./Factory/test_project_7/ckmetrics/../base/Factory.java,io.innofang.factory_method.base.Factory,createProduct/1[java.lang.Class<T>],clz,0

@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Strategy/java9s_strategy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/strategy/Route2.java,com.java9s.tutorials.designpattern.strategy.Route2,getTraffic/0,random,1
+/root/DesignPatternsDetection/Data/Strategy/java9s_strategy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/strategy/Exec.java,com.java9s.tutorials.designpattern.strategy.Exec,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Strategy/java9s_strategy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/strategy/Exec.java,com.java9s.tutorials.designpattern.strategy.Exec,main/1[java.lang.String[]],navigation,1
+/root/DesignPatternsDetection/Data/Strategy/java9s_strategy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/strategy/Navigation.java,com.java9s.tutorials.designpattern.strategy.Navigation,getBestRoute/0,route2,2
+/root/DesignPatternsDetection/Data/Strategy/java9s_strategy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/strategy/Navigation.java,com.java9s.tutorials.designpattern.strategy.Navigation,getBestRoute/0,route1,2
+/root/DesignPatternsDetection/Data/Strategy/java9s_strategy-pattern-example/ckmetrics/../src/com/java9s/tutorials/designpattern/strategy/Route1.java,com.java9s.tutorials.designpattern.strategy.Route1,getTraffic/0,random,1

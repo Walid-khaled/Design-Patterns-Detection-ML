@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+./Memento/test_project_2/ckmetrics/../MementoPattern.java,com.codevillain679.behavioral.memento.MementoPattern,MementoPattern/0,editor,10
+./Memento/test_project_2/ckmetrics/../MementoPattern.java,com.codevillain679.behavioral.memento.MementoPattern,MementoPattern/0,history,5
+./Memento/test_project_2/ckmetrics/../EditorState.java,com.codevillain679.behavioral.memento.EditorState,EditorState/1[java.lang.String],content,2
+./Memento/test_project_2/ckmetrics/../Editor.java,com.codevillain679.behavioral.memento.Editor,setContent/1[java.lang.String],content,2
+./Memento/test_project_2/ckmetrics/../Editor.java,com.codevillain679.behavioral.memento.Editor,restore/1[com.codevillain679.behavioral.memento.EditorState],state,1
+./Memento/test_project_2/ckmetrics/../History.java,com.codevillain679.behavioral.memento.History,push/1[com.codevillain679.behavioral.memento.EditorState],state,1
+./Memento/test_project_2/ckmetrics/../History.java,com.codevillain679.behavioral.memento.History,pop/0,lastIndex,1
+./Memento/test_project_2/ckmetrics/../History.java,com.codevillain679.behavioral.memento.History,pop/0,lastState,2

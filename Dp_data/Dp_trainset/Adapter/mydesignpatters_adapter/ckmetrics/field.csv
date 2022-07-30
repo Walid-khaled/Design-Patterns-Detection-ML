@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,"SMS/3[java.lang.String,java.lang.String,java.lang.String]",texto,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,"SMS/3[java.lang.String,java.lang.String,java.lang.String]",origem,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,"SMS/3[java.lang.String,java.lang.String,java.lang.String]",destino,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,getTexto/0,texto,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,getDestino/0,destino,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,setDestino/1[java.lang.String],destino,3
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,setOrigem/1[java.lang.String],origem,3
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,getOrigem/0,origem,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/sms/SMS.java,app.adapter.sms.SMS,setTexto/1[java.lang.String],texto,3
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/negocios/EnviadorSMSToSMSSenderAdatper.java,app.adapter.negocios.EnviadorSMSToSMSSenderAdatper,sendSMS/1[app.adapter.sms.SMS],enviador,1
+/root/DesignPatternsDetection/Data/Adapter/mydesignpatters_adapter/ckmetrics/../src/main/java/app/adapter/negocios/EnviadorSMSToSMSSenderAdatper.java,app.adapter.negocios.EnviadorSMSToSMSSenderAdatper,EnviadorSMSToSMSSenderAdatper/1[app.adapter.sms.IEnviadorSMS],enviador,3

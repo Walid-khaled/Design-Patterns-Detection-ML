@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/ShapeDecorator.java,Decorator.ShapeDecorator,ShapeDecorator/1[Decorator.Shape],decoratedShape,3
+/root/DesignPatternsDetection/Data/Decorator/czq2019_DecoratorPattern/ckmetrics/../src/Decorator/ShapeDecorator.java,Decorator.ShapeDecorator,draw/0,decoratedShape,1

@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/Mp3Player.java,com.mibu.adapter.Mp3Player,"play/2[java.lang.String,java.lang.String]",adapter,2
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/AdapterSimpleToAdvancedMediaPlayer.java,com.mibu.adapter.AdapterSimpleToAdvancedMediaPlayer,AdapterSimpleToAdvancedMediaPlayer/1[java.lang.String],mediaPlayer,2
+/root/DesignPatternsDetection/Data/Adapter/Trebor006_adapter/ckmetrics/../src/main/java/com/mibu/adapter/AdapterSimpleToAdvancedMediaPlayer.java,com.mibu.adapter.AdapterSimpleToAdvancedMediaPlayer,"play/2[java.lang.String,java.lang.String]",mediaPlayer,1

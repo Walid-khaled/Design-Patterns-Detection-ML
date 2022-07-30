@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Abstract_factory/test_project_4/ckmetrics/../AbstractFactoryTest.java,AbstractFactory.AbstractFactoryTest,main/1[java.lang.String[]],args,0
+./Abstract_factory/test_project_4/ckmetrics/../AbstractFactoryTest.java,AbstractFactory.AbstractFactoryTest,main/1[java.lang.String[]],benzSeat,1
+./Abstract_factory/test_project_4/ckmetrics/../AbstractFactoryTest.java,AbstractFactory.AbstractFactoryTest,main/1[java.lang.String[]],benzFactory,2
+./Abstract_factory/test_project_4/ckmetrics/../AbstractFactoryTest.java,AbstractFactory.AbstractFactoryTest,main/1[java.lang.String[]],iBenz,1

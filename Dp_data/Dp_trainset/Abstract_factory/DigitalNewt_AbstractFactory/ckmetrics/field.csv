@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/test/java/TestAbstractFactoryPattern.java,TestAbstractFactoryPattern,setUpStreams/0,outContent,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/test/java/TestAbstractFactoryPattern.java,TestAbstractFactoryPattern,testEnemyShip/0,outContent,3
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,setName/1[java.lang.String],name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,getName/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,enemyShipShoots/0,weapon,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,followHeroShip/0,engine,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,toString/0,weapon,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,toString/0,engine,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/EnemyShip.java,EnemyShip,toString/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/UFOEnemyShip.java,UFOEnemyShip,UFOEnemyShip/1[EnemyShipFactory],shipFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/UFOEnemyShip.java,UFOEnemyShip,makeShip/0,shipFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/UFOBossEnemyShip.java,UFOBossEnemyShip,UFOBossEnemyShip/1[EnemyShipFactory],shipFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/DigitalNewt_AbstractFactory/ckmetrics/../src/main/java/UFOBossEnemyShip.java,UFOBossEnemyShip,makeShip/0,shipFactory,2

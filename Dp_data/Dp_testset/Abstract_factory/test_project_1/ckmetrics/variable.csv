@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Abstract_factory/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.abstract_factory.example.java.Client,main/1[java.lang.String[]],args,0
+./Abstract_factory/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.abstract_factory.example.java.Client,main/1[java.lang.String[]],mangoSquareCake,2
+./Abstract_factory/test_project_1/ckmetrics/../example/java/Client.java,io.innofang.abstract_factory.example.java.Client,main/1[java.lang.String[]],strawberryHeartCake,2
+./Abstract_factory/test_project_1/ckmetrics/../base/Client.java,io.innofang.abstract_factory.base.Client,main/1[java.lang.String[]],args,0
+./Abstract_factory/test_project_1/ckmetrics/../base/Client.java,io.innofang.abstract_factory.base.Client,main/1[java.lang.String[]],factory2,2
+./Abstract_factory/test_project_1/ckmetrics/../base/Client.java,io.innofang.abstract_factory.base.Client,main/1[java.lang.String[]],factory1,2

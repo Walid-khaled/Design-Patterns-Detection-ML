@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Memento/test_project_1/ckmetrics/../Originator.java,com.hundredwordsgof.memento.Originator,setMemento/1[com.hundredwordsgof.memento.Memento],memento,1
+./Memento/test_project_1/ckmetrics/../Originator.java,com.hundredwordsgof.memento.Originator,setState/1[int],state,2
+./Memento/test_project_1/ckmetrics/../Caretaker.java,com.hundredwordsgof.memento.Caretaker,setMemento/1[com.hundredwordsgof.memento.Memento],memento,2
+./Memento/test_project_1/ckmetrics/../Memento.java,com.hundredwordsgof.memento.Memento,Memento/1[int],state,2

@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./Singleton/test_project_6/ckmetrics/../src/test/java/net/dskim/desingpattern/singleton/SingletonTest.java,net.dskim.desingpattern.singleton.SingletonTest,singletonTest/0,coin2,7
+./Singleton/test_project_6/ckmetrics/../src/test/java/net/dskim/desingpattern/singleton/SingletonTest.java,net.dskim.desingpattern.singleton.SingletonTest,singletonTest/0,coin1,7

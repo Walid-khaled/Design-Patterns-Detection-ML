@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Printer.java,Printer,Printer/1[java.lang.String],str,3
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Facotry.java,Facotry,Facotry/0,protoMap,4
+/root/DesignPatternsDetection/Data/Prototype/minamiguchi_PrototypePattern/ckmetrics/../src/Facotry.java,Facotry,create/1[java.lang.String],protoMap,1

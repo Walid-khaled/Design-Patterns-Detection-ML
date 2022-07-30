@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../MyToyStore.java,MyToyStore,createToy/1[java.lang.String],toy,3
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStoreDriver.java,ToyStoreDriver,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStoreDriver.java,ToyStoreDriver,main/1[java.lang.String[]],funnySounder,0
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStoreDriver.java,ToyStoreDriver,main/1[java.lang.String[]],msThing,0
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStoreDriver.java,ToyStoreDriver,main/1[java.lang.String[]],raceCar,0
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStoreDriver.java,ToyStoreDriver,main/1[java.lang.String[]],specialToys,3
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStore.java,ToyStore,createToy/1[java.lang.String],type,0
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStore.java,ToyStore,orderToy/1[java.lang.String],type,1
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../ToyStore.java,ToyStore,orderToy/1[java.lang.String],toy,4
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,toString/0,result,4
+/root/DesignPatternsDetection/Data/Factory/BrentAble_FactoryDesignPattern/ckmetrics/../Toy.java,Toy,toString/0,name,1

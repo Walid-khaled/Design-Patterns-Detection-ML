@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/simple/SimpleFactory.java,simple.SimpleFactory,createGeometric/1[int],Circle,2
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/simple/SimpleFactory.java,simple.SimpleFactory,createGeometric/1[int],RECTANGLE,1
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/simple/Circle.java,simple.Circle,getArea/0,radius,2
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/simple/Rectangle.java,simple.Rectangle,getArea/0,width,1
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/simple/Rectangle.java,simple.Rectangle,getArea/0,height,1
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/more/Circle.java,more.Circle,getArea/0,radius,2
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/more/Rectangle.java,more.Rectangle,getArea/0,width,1
+/root/DesignPatternsDetection/Data/Factory/MadJieJie_FactoryMethod/ckmetrics/../src/more/Rectangle.java,more.Rectangle,getArea/0,height,1

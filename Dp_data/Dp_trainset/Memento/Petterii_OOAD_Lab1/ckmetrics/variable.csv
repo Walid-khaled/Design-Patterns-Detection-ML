@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/androidTest/java/ithspetts/ooad_lab1/ExampleInstrumentedTest.java,ithspetts.ooad_lab1.ExampleInstrumentedTest,useAppContext/0,appContext,1
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator,"addUndoStack/2[T,ithspetts.ooad_lab1.Consumer<T>]",yourinput,1
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator,"addUndoStack/2[T,ithspetts.ooad_lab1.Consumer<T>]",function,1
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator,restore/1[ithspetts.ooad_lab1.Originator<T>.Memento],memento,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator,"set/2[T,ithspetts.ooad_lab1.Consumer<T>]",action,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator,"set/2[T,ithspetts.ooad_lab1.Consumer<T>]",state,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator$Memento,"Memento/2[T,ithspetts.ooad_lab1.Consumer<T>]",action,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator$Memento,"Memento/2[T,ithspetts.ooad_lab1.Consumer<T>]",state,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/Originator.java,ithspetts.ooad_lab1.Originator$Memento,setState/1[T],state,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/MainActivity.java,ithspetts.ooad_lab1.MainActivity,sendClick/1[ithspetts.ooad_lab1.View],view,0
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/MainActivity.java,ithspetts.ooad_lab1.MainActivity,sendClick/1[ithspetts.ooad_lab1.View],youInput,2
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/MainActivity.java,ithspetts.ooad_lab1.MainActivity,sendClick/1[ithspetts.ooad_lab1.View],value,1
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/MainActivity.java,ithspetts.ooad_lab1.MainActivity,redoClick/1[ithspetts.ooad_lab1.View],view,0
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/MainActivity.java,ithspetts.ooad_lab1.MainActivity,undoClick/1[ithspetts.ooad_lab1.View],view,0
+/root/DesignPatternsDetection/Data/Memento/Petterii_OOAD_Lab1/ckmetrics/../app/src/main/java/ithspetts/ooad_lab1/MainActivity.java,ithspetts.ooad_lab1.MainActivity,onCreate/1[ithspetts.ooad_lab1.Bundle],savedInstanceState,1

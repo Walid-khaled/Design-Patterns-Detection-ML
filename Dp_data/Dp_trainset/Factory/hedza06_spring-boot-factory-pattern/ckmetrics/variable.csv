@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/hedza06_spring-boot-factory-pattern/ckmetrics/../src/main/java/com/springboot/factory/FactoryApplication.java,com.springboot.factory.FactoryApplication,main/1[java.lang.String[]],args,1
+/root/DesignPatternsDetection/Data/Factory/hedza06_spring-boot-factory-pattern/ckmetrics/../src/main/java/com/springboot/factory/FactoryApplication.java,com.springboot.factory.FactoryApplication,main/1[java.lang.String[]],productTwo,1
+/root/DesignPatternsDetection/Data/Factory/hedza06_spring-boot-factory-pattern/ckmetrics/../src/main/java/com/springboot/factory/FactoryApplication.java,com.springboot.factory.FactoryApplication,main/1[java.lang.String[]],productOne,1
+/root/DesignPatternsDetection/Data/Factory/hedza06_spring-boot-factory-pattern/ckmetrics/../src/main/java/com/springboot/factory/factories/ProductFactory.java,com.springboot.factory.factories.ProductFactory,getProduct/1[java.lang.String],uniqueCode,1

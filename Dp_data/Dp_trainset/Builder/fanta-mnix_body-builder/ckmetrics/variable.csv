@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Body.java,org.bodybuilder.porra.Body,"Body/4[int,org.bodybuilder.porra.Trapezio,java.lang.Double,org.bodybuilder.porra.Body.OnExitJaulaListener]",trapezio,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Body.java,org.bodybuilder.porra.Body,"Body/4[int,org.bodybuilder.porra.Trapezio,java.lang.Double,org.bodybuilder.porra.Body.OnExitJaulaListener]",onExitJaulaListener,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Body.java,org.bodybuilder.porra.Body,"Body/4[int,org.bodybuilder.porra.Trapezio,java.lang.Double,org.bodybuilder.porra.Body.OnExitJaulaListener]",foodEaten,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Body.java,org.bodybuilder.porra.Body,"Body/4[int,org.bodybuilder.porra.Trapezio,java.lang.Double,org.bodybuilder.porra.Body.OnExitJaulaListener]",age,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Body.java,org.bodybuilder.porra.Body,setSizeTrapezio/1[java.lang.Double],size,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/BodyBuilder.java,org.bodybuilder.porra.BodyBuilder,setTrapezio/1[org.bodybuilder.porra.Trapezio],trapezio,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/BodyBuilder.java,org.bodybuilder.porra.BodyBuilder,setHelpQuote/1[java.lang.String],helpQuote,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/BodyBuilder.java,org.bodybuilder.porra.BodyBuilder,setAge/1[int],age,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/BodyBuilder.java,org.bodybuilder.porra.BodyBuilder,setOnExitJaulaListener/1[org.bodybuilder.porra.Body.OnExitJaulaListener],onExitJaulaListener,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/BodyBuilder.java,org.bodybuilder.porra.BodyBuilder,setHora/1[org.bodybuilder.porra.Hora],hora,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/BodyBuilder.java,org.bodybuilder.porra.BodyBuilder,setFoodEaten/1[java.lang.Double],foodEaten,2
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Main.java,org.bodybuilder.porra.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Builder/fanta-mnix_body-builder/ckmetrics/../src/org/bodybuilder/porra/Main.java,org.bodybuilder.porra.Main,main/1[java.lang.String[]],monstro,3

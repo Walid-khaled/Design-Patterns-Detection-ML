@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],objectB,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],factory,2
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],objectA,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Factory.java,units.Factory,createUnit/1[units.UnitType],type,0
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/UnitFactory.java,units.UnitFactory,createUnit/1[units.UnitType],type,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/ObjectB.java,units.ObjectB,"ObjectB/3[java.lang.String,java.lang.String,java.lang.String]",paramThree,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/ObjectB.java,units.ObjectB,"ObjectB/3[java.lang.String,java.lang.String,java.lang.String]",paramOne,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/ObjectB.java,units.ObjectB,"ObjectB/3[java.lang.String,java.lang.String,java.lang.String]",paramTwo,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/ObjectA.java,units.ObjectA,"ObjectA/3[java.lang.String,java.lang.String,java.lang.String]",paramThree,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/ObjectA.java,units.ObjectA,"ObjectA/3[java.lang.String,java.lang.String,java.lang.String]",paramOne,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/ObjectA.java,units.ObjectA,"ObjectA/3[java.lang.String,java.lang.String,java.lang.String]",paramTwo,1
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,"Unit/3[java.lang.String,java.lang.String,java.lang.String]",paramThree,2
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,"Unit/3[java.lang.String,java.lang.String,java.lang.String]",paramOne,2
+/root/DesignPatternsDetection/Data/Factory/aplich_FactoryMethod/ckmetrics/../src/units/Unit.java,units.Unit,"Unit/3[java.lang.String,java.lang.String,java.lang.String]",paramTwo,2

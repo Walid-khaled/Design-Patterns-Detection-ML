@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/IdentityCardNo.java,IdentityCardNo,getIdentityCardNo/0,no,1
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/IdentityCardNo.java,IdentityCardNo,setIdentityCardNo/1[java.lang.String],no,3
+/root/DesignPatternsDetection/Data/Singleton/kongzhimin_SingletonPattern/ckmetrics/../src/IdentityCardNo.java,IdentityCardNo,getInstance/0,instance,4

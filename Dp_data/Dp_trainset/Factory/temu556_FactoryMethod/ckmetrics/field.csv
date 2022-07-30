@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Television,numberring/0,tvSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Television,setDate/1[java.lang.String],date,3
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Television,print/0,date,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Television,print/0,tvSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Radio,numberring/0,radioSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Radio,print/0,radioSerialNumber,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Counter,getTvNumber/0,tvNum,1
+/root/DesignPatternsDetection/Data/Factory/temu556_FactoryMethod/ckmetrics/../factoryMethod.java,Counter,getRadioNumber/0,radioNum,1

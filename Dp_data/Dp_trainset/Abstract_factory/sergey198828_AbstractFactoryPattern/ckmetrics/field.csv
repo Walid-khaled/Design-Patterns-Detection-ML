@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,setName/1[java.lang.String],name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,toString/0,weapon,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,toString/0,engine,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,toString/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,getName/0,name,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,followHeroShip/0,engine,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/EnemyShip.java,ships.EnemyShip,enemyShipShoots/0,weapon,1
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/UFOEnemyShip.java,ships.UFOEnemyShip,UFOEnemyShip/1[factories.EnemyShipFactory],shipFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/UFOEnemyShip.java,ships.UFOEnemyShip,makeShip/0,shipFactory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/UFOBossEnemyShip.java,ships.UFOBossEnemyShip,UFOBossEnemyShip/1[factories.EnemyShipFactory],shipFactory,3
+/root/DesignPatternsDetection/Data/Abstract_factory/sergey198828_AbstractFactoryPattern/ckmetrics/../src/ships/UFOBossEnemyShip.java,ships.UFOBossEnemyShip,makeShip/0,shipFactory,2

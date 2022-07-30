@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person,getAge/0,age,1
+/root/DesignPatternsDetection/Data/Builder/atsarenko_Builder/ckmetrics/../src/Person.java,Person,getName/0,name,1

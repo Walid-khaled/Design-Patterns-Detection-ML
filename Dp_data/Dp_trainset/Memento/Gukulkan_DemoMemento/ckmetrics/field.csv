@@ -1,0 +1,15 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car$CarMemento,"CarMemento/2[int,int]",powerState,3
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car$CarMemento,"CarMemento/2[int,int]",speedState,3
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,getSpeed/0,speed,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setSpeed/1[int],speed,3
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,"Car/2[int,int]",power,3
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,"Car/2[int,int]",speed,3
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,getMemento/0,power,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,getMemento/0,speed,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setPower/1[int],power,3
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,getPower/0,power,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setMemento/1[java.lang.Object],power,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,setMemento/1[java.lang.Object],speed,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,getDescription/0,power,1
+/root/DesignPatternsDetection/Data/Memento/Gukulkan_DemoMemento/ckmetrics/../src/org/memento/Car.java,org.memento.Car,getDescription/0,speed,1

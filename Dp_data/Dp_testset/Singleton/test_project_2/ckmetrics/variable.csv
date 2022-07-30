@@ -1,0 +1,14 @@
+file,class,method,variable,usage
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,close/0,e,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,flush/0,e,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,"log/2[java.lang.Object,boolean]",printableObject,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,"log/2[java.lang.Object,boolean]",flush,2
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,GlobalLogger,"log/2[java.lang.Object,boolean]",e,1
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],args,0
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],finalLogger,2
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],e,9
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],logger,3
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],thread1,2
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],thread2,2
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],i,7
+./Singleton/test_project_2/ckmetrics/../Design Patterns/Singleton/src/Main.java,Main,main/1[java.lang.String[]],toPrint,3

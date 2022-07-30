@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Decorator/Yaser06_Decorator-Design-Pattern/ckmetrics/../DecoratorDesignPattern/src/com/yaser/domain/Beverage.java,com.yaser.domain.Beverage,setDescription/1[java.lang.String],description,3
+/root/DesignPatternsDetection/Data/Decorator/Yaser06_Decorator-Design-Pattern/ckmetrics/../DecoratorDesignPattern/src/com/yaser/domain/Beverage.java,com.yaser.domain.Beverage,getDescription/0,description,1
+/root/DesignPatternsDetection/Data/Decorator/Yaser06_Decorator-Design-Pattern/ckmetrics/../DecoratorDesignPattern/src/com/yaser/domain/Beverage.java,com.yaser.domain.Beverage,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Decorator/Yaser06_Decorator-Design-Pattern/ckmetrics/../DecoratorDesignPattern/src/com/yaser/domain/Beverage.java,com.yaser.domain.Beverage,getName/0,name,1
+/root/DesignPatternsDetection/Data/Decorator/Yaser06_Decorator-Design-Pattern/ckmetrics/../DecoratorDesignPattern/src/com/yaser/domain/FlavoreDecorator.java,com.yaser.domain.FlavoreDecorator,getBeverage/0,beverage,1
+/root/DesignPatternsDetection/Data/Decorator/Yaser06_Decorator-Design-Pattern/ckmetrics/../DecoratorDesignPattern/src/com/yaser/domain/FlavoreDecorator.java,com.yaser.domain.FlavoreDecorator,FlavoreDecorator/1[com.yaser.domain.Beverage],beverage,3

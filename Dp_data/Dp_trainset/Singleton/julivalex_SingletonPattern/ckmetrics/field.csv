@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,drain/0,empty,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,isEmpty/0,empty,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,ChocolateBoiler/0,boiled,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,ChocolateBoiler/0,empty,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,boil/0,boiled,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,isBoiled/0,boiled,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,getInstance/0,uniqueInstance,3
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,fill/0,boiled,1
+/root/DesignPatternsDetection/Data/Singleton/julivalex_SingletonPattern/ckmetrics/../src/com/company/ChocolateBoiler.java,com.company.ChocolateBoiler,fill/0,empty,1

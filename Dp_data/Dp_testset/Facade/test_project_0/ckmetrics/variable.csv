@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Facade/test_project_0/ckmetrics/../example/Client.java,io.innofang.facade.example.Client,main/1[java.lang.String[]],args,0
+./Facade/test_project_0/ckmetrics/../example/Client.java,io.innofang.facade.example.Client,main/1[java.lang.String[]],menu,6
+./Facade/test_project_0/ckmetrics/../base/Client.java,io.innofang.facade.base.Client,main/1[java.lang.String[]],args,0
+./Facade/test_project_0/ckmetrics/../base/Client.java,io.innofang.facade.base.Client,main/1[java.lang.String[]],facade,3

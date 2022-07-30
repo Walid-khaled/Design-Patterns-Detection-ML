@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/AnotherActivity.java,com.michael.singletonpattern.AnotherActivity,onCreate/1[com.michael.singletonpattern.Bundle],savedInstanceState,1
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/AnotherActivity.java,com.michael.singletonpattern.AnotherActivity,onCreate/1[com.michael.singletonpattern.Bundle],stringBuilder,9
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/MainActivity.java,com.michael.singletonpattern.MainActivity,onCreate/1[com.michael.singletonpattern.Bundle],savedInstanceState,1
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/MainActivity.java,com.michael.singletonpattern.MainActivity,onCreate/1[com.michael.singletonpattern.Bundle],stringBuilder,9
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/MainActivity.java,com.michael.singletonpattern.MainActivity$Anonymous1,onClick/1[com.michael.singletonpattern.View],v,0
+/root/DesignPatternsDetection/Data/Singleton/michaelye_SingletonPattern/ckmetrics/../src/com/michael/singletonpattern/MainActivity.java,com.michael.singletonpattern.MainActivity$Anonymous1,onClick/1[com.michael.singletonpattern.View],intent,2

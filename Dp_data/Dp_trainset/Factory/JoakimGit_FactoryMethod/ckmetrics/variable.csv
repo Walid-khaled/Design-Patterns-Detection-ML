@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Factory/AnimalShelter.java,dk.kea.dat19c.Factory.AnimalShelter,rescueAnimal/0,animal,4
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,main/1[java.lang.String[]],input,1
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,main/1[java.lang.String[]],shelter,2
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,main/1[java.lang.String[]],animalType,1
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,main/1[java.lang.String[]],animal,1
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,loadFactory/1[java.lang.String],factory,1
+/root/DesignPatternsDetection/Data/Factory/JoakimGit_FactoryMethod/ckmetrics/../src/dk/kea/dat19c/Main.java,dk.kea.dat19c.Main,loadFactory/1[java.lang.String],animalType,3

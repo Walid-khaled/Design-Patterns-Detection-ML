@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/AbstractComputer.java,com.example.templatemethodpattern.AbstractComputer,checkHardware/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/AbstractComputer.java,com.example.templatemethodpattern.AbstractComputer,startUp/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/AbstractComputer.java,com.example.templatemethodpattern.AbstractComputer,loadOS/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/AbstractComputer.java,com.example.templatemethodpattern.AbstractComputer,powerOn/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/AbstractComputer.java,com.example.templatemethodpattern.AbstractComputer,login/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/MilitaryComputer.java,com.example.templatemethodpattern.MilitaryComputer,checkHardware/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/MilitaryComputer.java,com.example.templatemethodpattern.MilitaryComputer,login/0,TAG,1
+/root/DesignPatternsDetection/Data/Template/xiaolanlaia_TemplateMethodPattern/ckmetrics/../app/src/main/java/com/example/templatemethodpattern/CoderComputer.java,com.example.templatemethodpattern.CoderComputer,login/0,TAG,1

@@ -1,0 +1,13 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../AbstractFactory/src/Cliente.java,Cliente,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../AbstractFactory/src/Cliente.java,Cliente,main/1[java.lang.String[]],factory,2
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../AbstractFactory/src/Cliente.java,Cliente,main/1[java.lang.String[]],banco,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../AbstractFactory/src/AbstractFactory.java,AbstractFactory,getFactory/1[BancoDeDados],banco,0
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,setMassa/1[java.lang.String],massa,2
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,setMolho/1[java.lang.String],molho,2
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Pizza.java,Pizza,setCobertura/1[java.lang.String],cobertura,2
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/PizzaBuilderDemo.java,PizzaBuilderDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/PizzaBuilderDemo.java,PizzaBuilderDemo,main/1[java.lang.String[]],pizza,3
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/PizzaBuilderDemo.java,PizzaBuilderDemo,main/1[java.lang.String[]],pizzaCalabresa,1
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/PizzaBuilderDemo.java,PizzaBuilderDemo,main/1[java.lang.String[]],garcon,3
+/root/DesignPatternsDetection/Data/Abstract_factory/rodneylsp_AbstractFactory/ckmetrics/../Builder/src/Garcon.java,Garcon,setPizzaBuilder/1[PizzaBuilder],pb,1

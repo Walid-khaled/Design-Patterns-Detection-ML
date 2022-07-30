@@ -1,0 +1,11 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+./Memento/test_project_2/ckmetrics/../MementoPattern.java,com.codevillain679.behavioral.memento.MementoPattern,MementoPattern/0,true,14,2,1,7,14,0,2,0,7,0,0,0,0,0,0,4,0,2,0,0,0,0,0,7,1,0,false
+./Memento/test_project_2/ckmetrics/../EditorState.java,com.codevillain679.behavioral.memento.EditorState,EditorState/1[java.lang.String],true,6,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Memento/test_project_2/ckmetrics/../EditorState.java,com.codevillain679.behavioral.memento.EditorState,getContent/0,false,10,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Memento/test_project_2/ckmetrics/../Editor.java,com.codevillain679.behavioral.memento.Editor,getContent/0,false,10,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,false
+./Memento/test_project_2/ckmetrics/../Editor.java,com.codevillain679.behavioral.memento.Editor,setContent/1[java.lang.String],false,6,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,false
+./Memento/test_project_2/ckmetrics/../Editor.java,com.codevillain679.behavioral.memento.Editor,createState/0,false,14,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Memento/test_project_2/ckmetrics/../Editor.java,com.codevillain679.behavioral.memento.Editor,restore/1[com.codevillain679.behavioral.memento.EditorState],false,18,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,false
+./Memento/test_project_2/ckmetrics/../History.java,com.codevillain679.behavioral.memento.History,History/0,true,9,1,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,false
+./Memento/test_project_2/ckmetrics/../History.java,com.codevillain679.behavioral.memento.History,push/1[com.codevillain679.behavioral.memento.EditorState],false,13,1,1,1,3,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,false
+./Memento/test_project_2/ckmetrics/../History.java,com.codevillain679.behavioral.memento.History,pop/0,false,17,1,1,3,6,1,2,0,3,0,0,0,0,0,0,0,1,2,1,0,0,0,0,6,1,0,false

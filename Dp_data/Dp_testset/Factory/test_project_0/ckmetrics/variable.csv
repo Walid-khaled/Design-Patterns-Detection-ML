@@ -1,0 +1,18 @@
+file,class,method,variable,usage
+./Factory/test_project_0/ckmetrics/../Client.java,FactoryAndPrototype.Client,main/1[java.lang.String[]],args,0
+./Factory/test_project_0/ckmetrics/../Client.java,FactoryAndPrototype.Client,main/1[java.lang.String[]],wallet,8
+./Factory/test_project_0/ckmetrics/../Client.java,FactoryAndPrototype.Client,main/1[java.lang.String[]],crypto,2
+./Factory/test_project_0/ckmetrics/../BTC.java,FactoryAndPrototype.BTC,"BTC/2[java.util.Date,double]",price,1
+./Factory/test_project_0/ckmetrics/../BTC.java,FactoryAndPrototype.BTC,"BTC/2[java.util.Date,double]",dOC,1
+./Factory/test_project_0/ckmetrics/../XRP.java,FactoryAndPrototype.XRP,"XRP/2[java.util.Date,double]",price,1
+./Factory/test_project_0/ckmetrics/../XRP.java,FactoryAndPrototype.XRP,"XRP/2[java.util.Date,double]",dOC,1
+./Factory/test_project_0/ckmetrics/../CryptoCurrency.java,FactoryAndPrototype.CryptoCurrency,clone/0,e,1
+./Factory/test_project_0/ckmetrics/../CryptoCurrency.java,FactoryAndPrototype.CryptoCurrency,setDateOfCreation/1[java.util.Date],date,1
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,(initializer 1),btc,2
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,(initializer 1),xrp,2
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,(initializer 1),eth,2
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,mine/1[java.lang.String],e,1
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,mine/1[java.lang.String],name,1
+./Factory/test_project_0/ckmetrics/../MiningPool.java,FactoryAndPrototype.MiningPool,mine/1[java.lang.String],cryptoCurrency,2
+./Factory/test_project_0/ckmetrics/../ETH.java,FactoryAndPrototype.ETH,"ETH/2[java.util.Date,double]",price,1
+./Factory/test_project_0/ckmetrics/../ETH.java,FactoryAndPrototype.ETH,"ETH/2[java.util.Date,double]",dOC,1

@@ -1,0 +1,10 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/AbstractFactoryPatternDemo.java,AbstractFactoryPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/AbstractFactoryPatternDemo.java,AbstractFactoryPatternDemo,main/1[java.lang.String[]],shape1,0
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/AbstractFactoryPatternDemo.java,AbstractFactoryPatternDemo,main/1[java.lang.String[]],shapeFactory,1
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/FactoryProducer.java,FactoryProducer,getFactory/1[java.lang.String],sfac,1
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/FactoryProducer.java,FactoryProducer,getFactory/1[java.lang.String],choice,2
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getShape/1[AbstractFactoryPatternDemo.tipoShape],tFigura,0
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getColor/1[AbstractFactoryPatternDemo.tipoColor],tColor,0
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/ColorFactory.java,ColorFactory,getColor/1[AbstractFactoryPatternDemo.tipoColor],tColor,4
+/root/DesignPatternsDetection/Data/Abstract_factory/julioquintana_AbstractFactoryPattern/ckmetrics/../src/ColorFactory.java,ColorFactory,getShape/1[AbstractFactoryPatternDemo.tipoShape],tFigura,0

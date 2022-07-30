@@ -1,0 +1,8 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Movie.java,com.sanket.designPattern.Movie,getName/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Movie.java,com.sanket.designPattern.Movie,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Factory/PrototypeFactory.java,com.sanket.designPattern.Factory.PrototypeFactory,getInstance/1[java.lang.String],prototypes,1
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Album.java,com.sanket.designPattern.Album,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Album.java,com.sanket.designPattern.Album,getName/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Show.java,com.sanket.designPattern.Show,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Prototype/sanketjain1234_prototypePattern/ckmetrics/../src/com/sanket/designPattern/Show.java,com.sanket.designPattern.Show,getName/0,name,1

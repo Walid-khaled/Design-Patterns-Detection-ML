@@ -1,0 +1,9 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/deep/JinGuBang.java,com.cn.study.prototypepattern.deep.JinGuBang,big/0,w,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/deep/JinGuBang.java,com.cn.study.prototypepattern.deep.JinGuBang,big/0,h,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/deep/JinGuBang.java,com.cn.study.prototypepattern.deep.JinGuBang,smail/0,w,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/deep/JinGuBang.java,com.cn.study.prototypepattern.deep.JinGuBang,smail/0,h,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/deep/QiTianDaSheng.java,com.cn.study.prototypepattern.deep.QiTianDaSheng,QiTianDaSheng/0,jinGuBang,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/shallow/ConClonePrototype.java,com.cn.study.prototypepattern.shallow.ConClonePrototype,clone/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/shallow/ConClonePrototype.java,com.cn.study.prototypepattern.shallow.ConClonePrototype,clone/0,list,1
+/root/DesignPatternsDetection/Data/Prototype/chenst417_PrototypePattern/ckmetrics/../src/main/java/com/cn/study/prototypepattern/shallow/ConClonePrototype.java,com.cn.study.prototypepattern.shallow.ConClonePrototype,clone/0,age,1

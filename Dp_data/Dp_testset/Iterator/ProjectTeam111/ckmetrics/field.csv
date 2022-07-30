@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+./Iterator/ProjectTeam111/ckmetrics/../json/JSONArrayParser.java,json.JSONArrayParser,JSONArrayParser/1[json.JSONParsing<T>],factory,3
+./Iterator/ProjectTeam111/ckmetrics/../json/JSONArrayParser.java,json.JSONArrayParser,parse/1[java.lang.String],factory,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/backend/BackendResponse.java,ssd.assignment3.backend.BackendResponse,hasMore/0,nextElementIndex,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/backend/BackendResponse.java,ssd.assignment3.backend.BackendResponse,getNext/0,nextElementIndex,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/backend/BackendResponse.java,ssd.assignment3.backend.BackendResponse,getNext/0,elements,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/backend/BackendResponse.java,ssd.assignment3.backend.BackendResponse,"BackendResponse/2[java.lang.String,json.JSONParsing<T>]",nextElementIndex,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/backend/BackendResponse.java,ssd.assignment3.backend.BackendResponse,"BackendResponse/2[java.lang.String,json.JSONParsing<T>]",elements,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/backend/BackendClient.java,ssd.assignment3.backend.BackendClient,BackendClient/1[java.lang.String],backendUrl,1
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/hms/Patient.java,ssd.assignment3.hms.Patient,"Patient/3[java.lang.String,java.lang.String,java.lang.String]",gender,3
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/hms/Patient.java,ssd.assignment3.hms.Patient,"Patient/3[java.lang.String,java.lang.String,java.lang.String]",name,3
+./Iterator/ProjectTeam111/ckmetrics/../ssd/assignment3/hms/Patient.java,ssd.assignment3.hms.Patient,"Patient/3[java.lang.String,java.lang.String,java.lang.String]",id,3

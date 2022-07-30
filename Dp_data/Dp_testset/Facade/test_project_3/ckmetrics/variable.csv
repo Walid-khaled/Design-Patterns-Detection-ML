@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/Rectangle.java,net.dskim.desingpattern.facade.Rectangle,draw/0,result,2
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/Circle.java,net.dskim.desingpattern.facade.Circle,draw/0,result,2
+./Facade/test_project_3/ckmetrics/../src/main/java/net/dskim/desingpattern/facade/Square.java,net.dskim.desingpattern.facade.Square,draw/0,result,2
+./Facade/test_project_3/ckmetrics/../src/test/java/net/dskim/desingpattern/facade/ShapeMakerTest.java,net.dskim.desingpattern.facade.ShapeMakerTest,ShapeMakerFacadeTest/0,shapeMaker,4

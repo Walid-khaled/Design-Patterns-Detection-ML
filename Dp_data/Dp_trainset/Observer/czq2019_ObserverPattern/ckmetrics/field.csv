@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Observer/czq2019_ObserverPattern/ckmetrics/../src/observer/Subject.java,observer.Subject,notifyObserver/0,observers,1
+/root/DesignPatternsDetection/Data/Observer/czq2019_ObserverPattern/ckmetrics/../src/observer/Subject.java,observer.Subject,getState/0,state,1
+/root/DesignPatternsDetection/Data/Observer/czq2019_ObserverPattern/ckmetrics/../src/observer/Subject.java,observer.Subject,attach/1[observer.Observer],observers,1
+/root/DesignPatternsDetection/Data/Observer/czq2019_ObserverPattern/ckmetrics/../src/observer/Subject.java,observer.Subject,setState/1[int],state,3

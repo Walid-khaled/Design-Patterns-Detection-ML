@@ -1,0 +1,6 @@
+file,class,method,constructor,line,cbo,wmc,rfc,loc,returnsQty,variablesQty,parametersQty,methodsInvokedQty,methodsInvokedLocalQty,methodsInvokedIndirectLocalQty,loopQty,comparisonsQty,tryCatchQty,parenthesizedExpsQty,stringLiteralsQty,numbersQty,assignmentsQty,mathOperationsQty,maxNestedBlocksQty,anonymousClassesQty,innerClassesQty,lambdasQty,uniqueWordsQty,modifiers,logStatementsQty,hasJavaDoc
+/root/DesignPatternsDetection/Data/Singleton/cqf073_Singleton_Pattern/ckmetrics/../src/懒汉式_懒汉式/demo1.java,懒汉式_懒汉式.demo1,demo1/0,true,14,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+/root/DesignPatternsDetection/Data/Singleton/cqf073_Singleton_Pattern/ckmetrics/../src/懒汉式_懒汉式/demo1.java,懒汉式_懒汉式.demo1,getD/0,false,17,2,3,0,10,2,0,0,0,0,0,0,2,0,0,0,0,0,0,3,0,0,0,5,9,0,false
+/root/DesignPatternsDetection/Data/Singleton/cqf073_Singleton_Pattern/ckmetrics/../src/懒汉式_懒汉式/demo.java,懒汉式_懒汉式.demo,demo/0,true,14,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,false
+/root/DesignPatternsDetection/Data/Singleton/cqf073_Singleton_Pattern/ckmetrics/../src/懒汉式_懒汉式/demo.java,懒汉式_懒汉式.demo,getD/0,false,17,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,0,false
+/root/DesignPatternsDetection/Data/Singleton/cqf073_Singleton_Pattern/ckmetrics/../src/懒汉式_懒汉式/Main.java,懒汉式_懒汉式.Main,main/1[java.lang.String[]],false,5,2,1,3,10,0,4,1,3,0,0,0,0,0,0,0,0,4,0,0,0,0,0,8,9,0,false

@@ -1,0 +1,16 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/ShapeFactory.java,ShapeFactory,getColor/1[java.lang.String],color,0
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/ShapeFactory.java,ShapeFactory,getShape/1[java.lang.String],shape,3
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/FactoryProducer.java,FactoryProducer,getFactory/1[java.lang.String],factoryName,2
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],sc,2
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],factory,5
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],col,1
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],sh,1
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],f,1
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],fp,1
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/Main.java,Main,main/1[java.lang.String[]],inp,2
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getColor/1[java.lang.String],color,0
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/AbstractFactory.java,AbstractFactory,getShape/1[java.lang.String],shape,0
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/ColorFactory.java,ColorFactory,getColor/1[java.lang.String],color,3
+/root/DesignPatternsDetection/Data/Abstract_factory/faisal-kiet_AbstractFactory/ckmetrics/../src/ColorFactory.java,ColorFactory,getShape/1[java.lang.String],shape,0

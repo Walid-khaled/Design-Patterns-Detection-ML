@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/CodingJavaPatterns_PrototypePattern/ckmetrics/../src/model/Album.java,model.Album,getName/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/CodingJavaPatterns_PrototypePattern/ckmetrics/../src/model/Album.java,model.Album,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Prototype/CodingJavaPatterns_PrototypePattern/ckmetrics/../src/model/Move.java,model.Move,getName/0,name,1
+/root/DesignPatternsDetection/Data/Prototype/CodingJavaPatterns_PrototypePattern/ckmetrics/../src/model/Move.java,model.Move,setName/1[java.lang.String],name,3
+/root/DesignPatternsDetection/Data/Prototype/CodingJavaPatterns_PrototypePattern/ckmetrics/../src/factory/PrototypeFactory.java,factory.PrototypeFactory,getInstance/1[java.lang.String],prototypes,1

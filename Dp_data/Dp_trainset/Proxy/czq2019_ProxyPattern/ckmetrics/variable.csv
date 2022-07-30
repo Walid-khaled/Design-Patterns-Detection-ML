@@ -1,0 +1,6 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Proxy/czq2019_ProxyPattern/ckmetrics/../src/proxy/ProxyPatternDemo.java,proxy.ProxyPatternDemo,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Proxy/czq2019_ProxyPattern/ckmetrics/../src/proxy/ProxyPatternDemo.java,proxy.ProxyPatternDemo,main/1[java.lang.String[]],image,2
+/root/DesignPatternsDetection/Data/Proxy/czq2019_ProxyPattern/ckmetrics/../src/proxy/ProxyImage.java,proxy.ProxyImage,ProxyImage/1[java.lang.String],fileName,2
+/root/DesignPatternsDetection/Data/Proxy/czq2019_ProxyPattern/ckmetrics/../src/proxy/RealImage.java,proxy.RealImage,loadFromDisk/1[java.lang.String],fileName,1
+/root/DesignPatternsDetection/Data/Proxy/czq2019_ProxyPattern/ckmetrics/../src/proxy/RealImage.java,proxy.RealImage,RealImage/1[java.lang.String],fileName,3

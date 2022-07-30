@@ -1,0 +1,3 @@
+file,class,method,variable,usage
+./State/test_project_0/ckmetrics/../Canvas.java,com.codevillain679.behavioral.state.Canvas,Canvas/1[com.codevillain679.behavioral.state.Tool],currentTool,2
+./State/test_project_0/ckmetrics/../StatePattern.java,com.codevillain679.behavioral.state.StatePattern,StatePattern/0,canvas,2

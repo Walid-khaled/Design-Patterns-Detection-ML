@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoBoleto.java,br.ufpb.dcx.aps.pagamento.PagamentoBoleto,"efetuarPagamento/2[java.lang.String,java.text.SimpleDateFormat]",data,2
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/PagamentoCartao.java,br.ufpb.dcx.aps.pagamento.PagamentoCartao,"efetuarPagamento/2[java.lang.String,int]",parcelas,4
+/root/DesignPatternsDetection/Data/Factory/enosteteo_FactoryMethod/ckmetrics/../src/br/ufpb/dcx/aps/pagamento/Pagamento.java,br.ufpb.dcx.aps.pagamento.Pagamento,efetuarPagamento/1[java.lang.String],pagamentoEfetuado,2

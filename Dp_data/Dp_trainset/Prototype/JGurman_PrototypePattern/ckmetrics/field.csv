@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,CookieMachine/1[Cookie],cookie,3
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/CookieMachine.java,CookieMachine,makeCookie/0,cookie,1
+/root/DesignPatternsDetection/Data/Prototype/JGurman_PrototypePattern/ckmetrics/../src/Cookie.java,Cookie,toString/0,weight,1

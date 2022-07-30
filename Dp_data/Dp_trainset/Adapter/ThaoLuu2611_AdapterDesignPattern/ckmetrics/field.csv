@@ -1,0 +1,4 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/AudioPlayer.java,AudioPlayer,"play/2[java.lang.String,java.lang.String]",mediaAdapter,2
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaAdapter.java,MediaAdapter,"play/2[java.lang.String,java.lang.String]",advancedMediaPlayer,2
+/root/DesignPatternsDetection/Data/Adapter/ThaoLuu2611_AdapterDesignPattern/ckmetrics/../src/MediaAdapter.java,MediaAdapter,MediaAdapter/1[java.lang.String],advancedMediaPlayer,2

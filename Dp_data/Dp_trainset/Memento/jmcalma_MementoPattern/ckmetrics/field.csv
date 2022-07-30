@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Caretaker.java,edu.cpp.cs356.memento.Caretaker,addMemento/1[edu.cpp.cs356.memento.Memento],savedArticles,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Caretaker.java,edu.cpp.cs356.memento.Caretaker,getMemento/1[int],savedArticles,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Originator.java,edu.cpp.cs356.memento.Originator,set/1[java.lang.String],article,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Originator.java,edu.cpp.cs356.memento.Originator,storeInMemento/0,article,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Originator.java,edu.cpp.cs356.memento.Originator,restoreFromMemento/1[edu.cpp.cs356.memento.Memento],article,3
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,saveBut,3
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,redoBut,3
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,theArticle,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../TestMemento.java,edu.cpp.cs356.memento.TestMemento,TestMemento/0,undoBut,3
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Memento.java,edu.cpp.cs356.memento.Memento,getSavedArticle/0,article,1
+/root/DesignPatternsDetection/Data/Memento/jmcalma_MementoPattern/ckmetrics/../Memento.java,edu.cpp.cs356.memento.Memento,Memento/1[java.lang.String],article,1

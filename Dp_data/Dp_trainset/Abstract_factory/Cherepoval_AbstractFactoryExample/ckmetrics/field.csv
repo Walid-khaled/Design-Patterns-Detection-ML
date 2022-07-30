@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Application,Application/1[factories.GuiFactory],button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Application,Application/1[factories.GuiFactory],checkBox,1
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Application,print/0,button,1
+/root/DesignPatternsDetection/Data/Abstract_factory/Cherepoval_AbstractFactoryExample/ckmetrics/../src/app/Application.java,app.Application,print/0,checkBox,1

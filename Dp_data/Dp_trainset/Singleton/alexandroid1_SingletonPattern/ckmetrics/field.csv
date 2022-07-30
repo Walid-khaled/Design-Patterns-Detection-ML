@@ -1,0 +1,5 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/implementations/ThreadSafeSingleton.java,com.globallogic.implementations.ThreadSafeSingleton,getInstanceUsingDoubleLocking/0,instance,4
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/implementations/LazyInitializedSingleton.java,com.globallogic.implementations.LazyInitializedSingleton,getInstance/0,instance,3
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/implementations/StaticBlockSingleton.java,com.globallogic.implementations.StaticBlockSingleton,getInstance/0,instance,1
+/root/DesignPatternsDetection/Data/Singleton/alexandroid1_SingletonPattern/ckmetrics/../src/com/globallogic/implementations/EagerInitializedSingleton.java,com.globallogic.implementations.EagerInitializedSingleton,getInstance/0,instance,1

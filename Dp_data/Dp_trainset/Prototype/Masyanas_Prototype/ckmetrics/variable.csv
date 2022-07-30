@@ -1,0 +1,11 @@
+file,class,method,variable,usage
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/registry/item/ItemRegistry.java,com.masyanas.registry.item.ItemRegistry,loadCache/0,cd,3
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/registry/item/ItemRegistry.java,com.masyanas.registry.item.ItemRegistry,loadCache/0,book,3
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/registry/item/ItemRegistry.java,com.masyanas.registry.item.ItemRegistry,createBasicItem/1[java.lang.String],type,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/Main.java,com.masyanas.Main,main/1[java.lang.String[]],args,0
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/Main.java,com.masyanas.Main,main/1[java.lang.String[]],registry,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/Main.java,com.masyanas.Main,main/1[java.lang.String[]],myBook,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,clone/0,e,1
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,clone/0,clonedItem,4
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,setPrice/1[double],price,2
+/root/DesignPatternsDetection/Data/Prototype/Masyanas_Prototype/ckmetrics/../src/com/masyanas/model/item/Item.java,com.masyanas.model.item.Item,setTitle/1[java.lang.String],title,2

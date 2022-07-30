@@ -1,0 +1,12 @@
+file,class,method,variable,usage
+./Decorator/test_project_0/ckmetrics/../src/main/java/net/dskim/desingpattern/decorator/SugarCondiment.java,net.dskim.desingpattern.decorator.SugarCondiment,SugarCondiment/1[net.dskim.desingpattern.decorator.BeverageBase],beverage,2
+./Decorator/test_project_0/ckmetrics/../src/main/java/net/dskim/desingpattern/decorator/CondimentsDecoratorBase.java,net.dskim.desingpattern.decorator.CondimentsDecoratorBase,CondimentsDecoratorBase/1[net.dskim.desingpattern.decorator.BeverageBase],beverage,2
+./Decorator/test_project_0/ckmetrics/../src/main/java/net/dskim/desingpattern/decorator/MilkCondiment.java,net.dskim.desingpattern.decorator.MilkCondiment,MilkCondiment/1[net.dskim.desingpattern.decorator.BeverageBase],beverage,2
+./Decorator/test_project_0/ckmetrics/../src/main/java/net/dskim/desingpattern/decorator/ChocolateCondiment.java,net.dskim.desingpattern.decorator.ChocolateCondiment,ChocolateCondiment/1[net.dskim.desingpattern.decorator.BeverageBase],beverage,2
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,printBeverage/1[net.dskim.desingpattern.decorator.BeverageBase],beverage,2
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,decoratorTest/0,espresso,1
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,decoratorTest/0,greenTea,1
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,decoratorTest/0,greenTeaWithSugar,3
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,decoratorTest/0,capuccino,3
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,decoratorTest/0,greenTeaWithCholate,3
+./Decorator/test_project_0/ckmetrics/../src/test/java/net/dskim/desingpattern/decorator/DecoratorTest.java,net.dskim.desingpattern.decorator.DecoratorTest,decoratorTest/0,blackTea,1

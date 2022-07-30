@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./State/test_project_3/ckmetrics/../ConcreteState1.java,com.hundredwordsgof.state.ConcreteState1,handle/0,handleInvoked,1
+./State/test_project_3/ckmetrics/../ConcreteState1.java,com.hundredwordsgof.state.ConcreteState1,isHandleInvoked/0,handleInvoked,1
+./State/test_project_3/ckmetrics/../ConcreteState2.java,com.hundredwordsgof.state.ConcreteState2,handle/0,handleInvoked,1
+./State/test_project_3/ckmetrics/../ConcreteState2.java,com.hundredwordsgof.state.ConcreteState2,isHandleInvoked/0,handleInvoked,1
+./State/test_project_3/ckmetrics/../Context.java,com.hundredwordsgof.state.Context,request/0,state,1
+./State/test_project_3/ckmetrics/../Context.java,com.hundredwordsgof.state.Context,setState/1[com.hundredwordsgof.state.State],state,3

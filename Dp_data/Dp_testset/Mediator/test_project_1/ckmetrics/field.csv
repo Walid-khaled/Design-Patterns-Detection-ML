@@ -1,0 +1,7 @@
+file,class,method,variable,usage
+./Mediator/test_project_1/ckmetrics/../ConcreteMediator.java,com.hundredwordsgof.mediator.ConcreteMediator,"notifyColleague/2[com.hundredwordsgof.mediator.Colleague,java.lang.String]",colleagues,1
+./Mediator/test_project_1/ckmetrics/../ConcreteMediator.java,com.hundredwordsgof.mediator.ConcreteMediator,addColleague/1[com.hundredwordsgof.mediator.Colleague],colleagues,1
+./Mediator/test_project_1/ckmetrics/../ConcreteMediator.java,com.hundredwordsgof.mediator.ConcreteMediator,ConcreteMediator/0,colleagues,1
+./Mediator/test_project_1/ckmetrics/../Colleague.java,com.hundredwordsgof.mediator.Colleague,getReceivedMessage/0,receivedMessage,1
+./Mediator/test_project_1/ckmetrics/../Colleague.java,com.hundredwordsgof.mediator.Colleague,setReceivedMessage/1[java.lang.String],receivedMessage,3
+./Mediator/test_project_1/ckmetrics/../Colleague.java,com.hundredwordsgof.mediator.Colleague,Colleague/1[com.hundredwordsgof.mediator.Mediator],mediator,3
