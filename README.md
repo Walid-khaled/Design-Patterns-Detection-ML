@@ -22,4 +22,5 @@ outlines the main requirements for this task:
   - max features −→ for the base estimators
   - min impurity decrease −→ for the base estimators
 - Compare models and make conclusion
-Dataset for the task is attached above.
+
+**Dataset** for the task is attached above.
